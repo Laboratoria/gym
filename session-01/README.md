@@ -1,7 +1,18 @@
 # Sesión 1
 
-## [Presentación](https://docs.google.com/presentation/d/1mZerZtUIBkRtBKdn5GpIHD6FQ_pRMzRBq_FTy9WUzGM/edit)
+## Exercises
+### 1. Star Lovers __{:suspect: Warm-up  }__
 
-## Retos
+### 2. SpongeBob MeMe __{:rage1: Challenge }__
+
+  > Link 👉 https://www.codewars.com/kata/5982619d2671576e90000017
+
+
+  __Objetivos de aprendizaje (OAs)__
+
+  - Manipulación de strings
+  - Bucles
+
+### 3. Start Lovers __{:godmode: Hacker Edition}__
 
 ## Kahoot
