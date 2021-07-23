@@ -1,6 +1,6 @@
 # Sesión 1
 
-## Exercises
+## Ejercicios
 ### 1. Star Lovers __{:suspect: Warm-up  }__
 
 ### 2. SpongeBob MeMe __{:rage1: Challenge }__
