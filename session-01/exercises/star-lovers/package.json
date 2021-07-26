@@ -1,0 +1,21 @@
+{
+  "name": "star-lovers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^27.0.6",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
