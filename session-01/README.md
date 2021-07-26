@@ -1,18 +1,11 @@
 # Sesión 1
 
 ## Ejercicios
-### 1. Star Lovers __{:suspect: Warm-up  }__
 
-### 2. SpongeBob MeMe __{:rage1: Challenge }__
-
-  > Link 👉 https://www.codewars.com/kata/5982619d2671576e90000017
-
-
-  __Objetivos de aprendizaje (OAs)__
-
-  - Manipulación de strings
-  - Bucles
-
-### 3. Start Lovers __{:godmode: Hacker Edition}__
+| Ejercicio                                                                    | Complejidad                    | Descripción | Etiquetas                    | OAs                                                                               |
+| ---------------------------------------------------------------------------- | ------------------------------ | ----------- | ---------------------------- | --------------------------------------------------------------------------------- |
+| **Star Lovers**                                                              | :suspect: **{Warm-up}**        | --          | `strings`, `loops`           | <ul><li> Manipulacion de strings </li></ul>                                       |
+| [**SpongeBob MeMe**](https://www.codewars.com/kata/5982619d2671576e90000017) | :rage1: **{Challenge}**        | --          | `strings`, `loops`           | <ul><li> Manipulacion de strings </li></ul>                                       |
+| [**Same on Both Ends**](https://edabit.com/challenge/JDDeK9jSFKJbfzhMt)      | :godmode: **{Hacker Edition}** | --          | `strings` , `loops`, `regex` | <ul><li> Manipulacion de strings</li><li> Uso de expresiones regulares </li></ul> |
 
 ## Kahoot
