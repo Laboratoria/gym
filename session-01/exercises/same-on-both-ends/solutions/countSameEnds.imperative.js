@@ -25,5 +25,3 @@ function countSameEnds(sentence) {
 
   return count;
 }
-
-module.exports = countSameEnds;

@@ -1,4 +1,4 @@
-export function spongeMeme(sentence) {
+function spongeMeme(sentence) {
   let meme = "";
 
   for (let i = 0; i < sentence.length; i++) {

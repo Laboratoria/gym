@@ -19,5 +19,3 @@ function countSameEnds(sentence) {
     .map(getWordWithoutPunctuation)
     .reduce((count, word) => (hasSameEnds(word) ? count + 1 : count), 0);
 }
-
-module.exports = countSameEnds;

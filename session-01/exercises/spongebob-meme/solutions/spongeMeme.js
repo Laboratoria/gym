@@ -1,4 +1,4 @@
-export function spongeMeme(sentence) {
+function spongeMeme(sentence) {
   const letters = sentence.toLowerCase().split("");
 
   for (let i = 0; i < sentence.length; i += 2) {
