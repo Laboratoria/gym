@@ -1,6 +1,6 @@
 # Same on both ends
 
-Link https://edabit.com/challenge/JDDeK9jSFKJbfzhMt
+[https://edabit.com/challenge/JDDeK9jSFKJbfzhMt](https://edabit.com/challenge/JDDeK9jSFKJbfzhMt)
 
 
 ## Objetivos de aprendizaje (OAs)
