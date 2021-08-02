@@ -1,4 +1,4 @@
 function giveMeSomething(a) {
-	let somethingToMe = 'something' + ' ' + a;
+	const somethingToMe = 'something' + ' ' + a;
 	return somethingToMe;
 }
