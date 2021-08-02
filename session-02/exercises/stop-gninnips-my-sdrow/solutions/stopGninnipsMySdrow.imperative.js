@@ -15,3 +15,4 @@ function spinWords(string){
     }
     return result.join(" ")
   }
+  

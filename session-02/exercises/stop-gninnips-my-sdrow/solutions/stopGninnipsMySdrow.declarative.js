@@ -1,11 +1,10 @@
-function spinWords(string) {
-    let arrayWords = string.split(' ');
-    for (let i = 0; i < arrayWords.length; i++) {
-        let word = ""
-        if (arrayWords[i].length >= 5) {
-            word = arrayWords[i].split('').reverse().join('');
-            arrayWords[i] = word
-        }
-    }
-    return arrayWords.join(' ');
+function reverseWord(word) {
+//TODO Have fun :)
+    return word.split('').reverse().join('')
+}
+function spinWords(str) {
+    return str
+        .split(' ')
+        .map(word => word.length >= 5 ? reverseWord(word) : word)
+        .join(' ')
 }
