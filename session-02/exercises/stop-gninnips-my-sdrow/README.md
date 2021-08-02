@@ -2,7 +2,7 @@
 
 [https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript](https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript)
 
-Escribe una función que tome una cadena de una o muchas palabras y devuelva la misma cadena, pero cuando la palabra sea de cinco o más letras devez invertir la cadena (un ejemplo rapido el nombre de este reto).
+Escribe una función que tome una cadena de una o muchas palabras y devuelva la misma cadena, pero cuando la palabra sea de cinco o más letras debes invertir la cadena.
 
 
 __Ejemplos__
