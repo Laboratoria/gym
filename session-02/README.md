@@ -10,24 +10,26 @@
 
 ## Kahoot
 
+[https://create.kahoot.it/details/b4d74e93-0c1f-4a9d-9203-6cb5fcbfb2cd](https://create.kahoot.it/details/b4d74e93-0c1f-4a9d-9203-6cb5fcbfb2cd)
+
 1. Cómo accedes a la posición 2 del arreglo `nums`?
 
 - [ ] nums.2
 - [ ] nums[2]
 - [ ] nums_1
-- [ ] **nums[1]**
+- [x] nums[1]
 
 2. Qué retornaría `arr.indexOf(0)` y `arr.indexOf(1)` respectivamente, si `arr` es `[1, 5, 8]`?
 
 - [ ] 1 y -1
 - [ ] -1 y 1
-- [ ] **-1 y 0**
+- [x] -1 y 0
 - [ ] 1 y 5
 
 3. Todos los elementos de un arreglo deben ser del mismo tipo de dato?
 
 - [ ] true
-- [ ] **false**
+- [x] false
 
 4. Qué pasa con el arreglo en el siguiente código?
 
@@ -43,42 +45,41 @@ dogs; // que contendrá el arreglo aquí?
 
 - [ ] Nada
 - [ ] El arreglo se vuelve ["Oscar"]
-- [ ] __El arreglo se vuelve ["Fido"]__
+- [x] El arreglo se vuelve ["Fido"]
 - [ ] El arreglo se vuelve ["Oddie", "Oscar"]
 
 5. Cuál de las siguientes sentencias iterara un arreglo `names` del último al primer elemento?
 
-- [ ] for (let i = names.length; i < 0; i++)
-- [ ] for (let i = names.length; i <= 0; i--)
-- [ ] for (let i = names.length - 1; i <= 0; i++)
-- [ ] **for (let i = names.length - 1; i <= 0; i--)**
+- [ ] `for (let i = names.length; i < 0; i++)`
+- [ ] `for (let i = names.length; i <= 0; i--)`
+- [ ] `for (let i = names.length - 1; i <= 0; i++)`
+- [x] `for (let i = names.length - 1; i <= 0; i--)`
 
 6. Qué retorna la siguiente función `'#'.repeat(12)`?
 
 - [ ] Error
-- [ ] __'############'__
+- [x] '############'
 - [ ] '#12'
 - [ ] Ninguna de las anteriores
 
 7. Cuál no es una forma de concatenar strings?
 
-- `name += lastname`
-- `name.concat(lastname)`
-- `name + lastname`
-- `${name} ${lastname}`
-- __`name.add(lastname)`__
+- [x] `name.add(lastname)`
+- [ ] `name.concat(lastname)`
+- [ ] `name + lastname`
+- [ ] `${name} ${lastname}`
 
 8. Qué esta mal con este tag: `<img src="images/mypicture.jpg" />`?
 
 - [ ] `src` debe ser reemplazado con `href`
 - [ ] La etiqueta `</img>` esta ausente
-- [ ] __El atributo `alt` esta ausente__
+- [x] El atributo `alt` esta ausente
 - [ ] No hay ningún error
 
 9. Cuál no es un elemento semántico?
 
 - [ ] `<form>`
-- [ ] __`<span>`__
+- [x] `<span>`
 - [ ] `<article>`
 - [ ] `<header>`
 
@@ -87,5 +88,5 @@ dogs; // que contendrá el arreglo aquí?
 
 - [ ] `input[type="number"]`
 - [ ] `#container .box`
-- [ ] __`~container .box`__
+- [x] `~container .box`
 - [ ] `.box .item`
