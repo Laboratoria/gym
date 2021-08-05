@@ -1,5 +1,5 @@
 function transform(source, target) {
-    let result = []
+    const result = []
     result.push(source)
     for (let i = 0; i < source.length; i++) {
         if (source[i] != target[i]) {
