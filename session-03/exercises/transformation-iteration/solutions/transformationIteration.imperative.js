@@ -1,11 +1,14 @@
 function transform(source, target) {
-    const result = [source]
-
+    let result = []
+    result.push(source)
     for (let i = 0; i < source.length; i++) {
-        if (source[i] !== target[i]) {
-            result.push(target.slice(0, i + 1) + source.slice(i + 1))
+        if (source[i] != target[i]) {
+            let word = source.split("")
+            for (let j = i; j >= 0; j--) {
+                word[j] = target[j]
+            }
+            result.push(word.join(""))
         }
     }
-
     return result
 }
