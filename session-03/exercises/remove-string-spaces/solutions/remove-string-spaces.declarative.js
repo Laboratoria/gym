@@ -1,3 +1,3 @@
 function noSpace(x) {
-  return x.split(" ").filter(element => element != "").join("")
+  return x.split(" ").join("");
 }

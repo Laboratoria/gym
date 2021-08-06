@@ -1,9 +1,9 @@
 
 # Transformation iteration!
 
-[https://www.codewars.com/kata/5872d59caa042821100001f8/](https://www.codewars.com/kata/5872d59caa042821100001f8/)
+[https://www.codewars.com/kata/5872d59caa042821100001f8/train/javascript](https://www.codewars.com/kata/5872d59caa042821100001f8/train/javascript)
 
-Escribe una función que reciba dos cadenas como parametros e iteralas para trasformar la cadena `source` y termine convertida en la cadena `target` el resultado de cada iteración guardalo en un arreglo.
+Escribe una función que reciba dos cadenas como parámetros e iteralas para trasformar la cadena `source` y termine convertida en la cadena `target` el resultado de cada iteración guardalo en un arreglo.
 
 
 __Ejemplos__
@@ -17,9 +17,9 @@ transform('kata','math') ➞ ["kata", "mata", "math"]
 
 > __Importante__ ❗
 >
-> - Deberas retornar un array con los strings correspondientes a cada iteración
+> - Deberás retornar un array con los strings correspondientes a cada iteración
 > - `source` y `target` siempre tendrán la misma longitud
-> - Si una letra  de `source` coincide al momento de iterar con otra letra de `target` entonces no hay transformacion de letras
+> - Si una letra  de `source` coincide al momento de iterar con otra letra de `target` entonces no hay transformación de letras
 
 
 ## Objetivos de aprendizaje (OAs)
