@@ -2,7 +2,7 @@
 
 [https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)
 
-Esto es demaciado sencillo, elimina los espacios de la cadena, luego devuelve la cadena resultante.
+Esto es demasiado sencillo, elimina los espacios de la cadena, luego devuelve la cadena resultante.
 
 
 __Ejemplos__
