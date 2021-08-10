@@ -1,7 +1,5 @@
 # Gimnasio
 
-## Sesiones
+## [Ejercicios](./exercises/README.md)
 
-- ### [Sesión 00 (Kick-off)](./session-00/README.md)
-- ### [Sesión 01](./session-01/README.md)
-- ### [Sesión 02](./session-02/README.md)
+## [Cohorts](./cohorts/README.md)
