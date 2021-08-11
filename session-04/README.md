@@ -47,6 +47,10 @@ array1.forEach((element,i)=>console.log(i));
 - [x] False
 
 8. ¿Se puede reasignar el tipo de dato a newString?
+```js
+let newString = "Hola mundo";
+newString = 10;
+```
 - [x] True
 - [ ] False
 
