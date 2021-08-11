@@ -17,10 +17,10 @@
 - [ ] Var Const Let function
 
 3. Es el método que añade uno o más elementos al final de un array
-- [x] .push("element")
-- [ ] .add("element")
-- [ ] .commit("element")
-- [ ] array.new("element")
+- [x] push
+- [ ] add
+- [ ] unshift
+- [ ] concat
 
 4. Es el contexto en el que los valores, variables y las expresiones son "visibles" o pueden ser referenciados.
 - [ ] Declaración
