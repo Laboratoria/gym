@@ -58,7 +58,7 @@ newString = 10;
 - [ ] Metodos Regulares
 - [ ] Validaciones Regulares
 - [ ] Funciones regulares
-- [ ] Expresiones Regulares
+- [x] Expresiones Regulares
 
 2. El método splice() no cambia el contenido de un array
 - [ ] True
