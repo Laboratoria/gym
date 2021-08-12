@@ -22,12 +22,12 @@ const superCoach = `
 ${ nombre }
 ${ apellido }
 `
-```js
+```
 
 - [x]
 
 Carlos
-Mendoza    
+Mendoza
 - [ ] undefined
 - [ ] Carlos Mendoza
 - [ ] CarlosMendoza
@@ -36,23 +36,26 @@ Mendoza
 
 ```js
 const persona = {
-    nombre: 'Chuchita',
-    apellido: 'Pérez',
-    edad: 31
+  nombre: 'Chuchita',
+  apellido: 'Pérez',
+  edad: 31
 }
-```js
+```
+
 - [ ] console.log(persona)
 - [x] console.log(persona.nombre)
 - [ ] console.log(persona.name)
 - [ ] console.log(nombre)
 
 3. El siguiente código imprimirá en consola el arreglo [2,4,6,8]
+
 ```js
 const arreglo = [1,2,3,4];
 const arregloIterado = arreglo.map(function (numero) {
-    numero * 2
+  numero * 2
 })
-```js
+```
+
 - [ ] True
 - [x] False
 
@@ -60,11 +63,12 @@ const arregloIterado = arreglo.map(function (numero) {
 
 ```js
 const saludar = function (nombre) {
-    return `Hola, ${nombre}`;
+  return `Hola, ${nombre}`;
 }
 
 const saludar2 = ( nombre ) => `Hola, ${nombre}`;
-```js
+```
+
 - [x] True
 - [ ] False
 
@@ -72,10 +76,9 @@ const saludar2 = ( nombre ) => `Hola, ${nombre}`;
 
 ```js
 const activo = true;
-
 const mensaje = activo ? 'Activo' : 'Inactivo';
 console.log(mensaje)
-```js
+```
 
 - [ ] Inactivo
 - [x] Activo
@@ -95,44 +98,45 @@ console.log(mensaje)
 ```js
 const person = 'Nick';
 person = 'John';
-```js
+```
 
 - [ ]
 ```js
 let person = 'Alberto';
 person = 'Juan';
-```js
+```
 
+- [ ]
 ```js
 const person = {
-    name: 'Nick',
-    age: 45
+  name: 'Nick',
+  age: 45
 }
 person.name = 'John';
 console.log(person.name)
-```js
+```
 
 - [x]
 ```js
 function printUser () {
-    let user = 'Nick';
-    console.log(user)
+  let user = 'Nick';
+  console.log(user)
 }
 console.log(user)
-```js
+```
 
 8. El siguiente fragmento de código es una expresión
 ```js
 function printStar ( num ){
-    let string = '':
+  let string = '':
 
-    for (let i = 0; i < num; i++) {
-        string += '*';
-    }
+  for (let i = 0; i < num; i++) {
+    string += '*';
+  }
 
-    return string;
+  return string;
 }
-```js
+```
 
 - [ ] True
 - [x] False
