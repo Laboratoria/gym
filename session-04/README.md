@@ -14,7 +14,7 @@
 - [ ] Listeners
 - [x] Palabras reservadas
 - [ ] Nombre de dominio
-- [ ] Var Const Let function
+- [ ] Expresiones
 
 3. Es el método que añade uno o más elementos al final de un array
 - [x] push
