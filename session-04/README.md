@@ -1,3 +1,10 @@
+# Sesión 4
+
+## Ejercicios
+
+| Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
+| ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
+| [**Abbreviate a Two Word Name**](./exercises/transformation-iteration/README.md) | :suspect: **Warm-up** | `strings`, `arrays` | <ul><li> Manipulación de strings</li><li> Métodos de arrays </li></ul>  |
 
 ## Kahoot
 
@@ -60,6 +67,6 @@ newString = 10;
 - [ ] Funciones regulares
 - [x] Expresiones Regulares
 
-2. El método splice() no cambia el contenido de un array
+10. El método splice() no cambia el contenido de un array
 - [ ] True
 - [x] False
