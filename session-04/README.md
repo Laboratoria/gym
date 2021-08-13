@@ -4,7 +4,8 @@
 
 | Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
 | ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
-| [**Abbreviate a Two Word Name**](./exercises/transformation-iteration/README.md) | :suspect: **Warm-up** | `strings`, `arrays` | <ul><li> Manipulación de strings</li><li> Métodos de arrays </li></ul>  |
+| [**Abbreviate a Two Word Name**](./exercises/abbreviation/README.md) | :suspect: **Warm-up** | `strings`, `arrays` | <ul><li> Manipulación de strings</li><li> Métodos de arrays </li></ul>  |
+| [**Find Words**](./exercises/findWords/README.md) | :godmode: **Hacker Edition** | `strings`, `arrays` | <ul><li> Manipulación de strings</li><li> Métodos de arrays </li></ul>  |
 
 ## Kahoot
 
