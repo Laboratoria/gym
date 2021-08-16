@@ -5,5 +5,3 @@
 - Objetivos de aprendizaje para el Gimnasio
 - Dinámica
 - Expectativas sobre el compromiso de las estudiantes
-
-
