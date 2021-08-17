@@ -1,4 +1,11 @@
+# Sesión 4
 
+## Ejercicios
+
+| Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
+| ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
+| [**Abbreviate a Two Word Name**](../../exercises/abbreviation/README.md) | :suspect: **Warm-up** | `strings`, `arrays` | <ul><li> Manipulación de strings</li><li> Métodos de arrays </li></ul>  |
+| [**Find Words**](../../exercises/findWords/README.md) | :godmode: **Hacker Edition** | `strings`, `arrays` | <ul><li> Manipulación de strings</li><li> Métodos de arrays </li></ul>  |
 ## Kahoot
 
 [https://create.kahoot.it/share/session-4-gym/966aea9b-079e-4515-b8fe-61eaf5e9d9cc](https://create.kahoot.it/share/session-4-gym/966aea9b-079e-4515-b8fe-61eaf5e9d9cc)
