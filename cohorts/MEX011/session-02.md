@@ -1,4 +1,4 @@
-# Sesión 2
+# Sesión 2 - 05/08/2021
 
 ## Ejercicios
 

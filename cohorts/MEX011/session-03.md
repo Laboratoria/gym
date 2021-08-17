@@ -1,4 +1,4 @@
-# Sesión 3
+# Sesión 3 - 12/08/2021
 
 ## Ejercicios
 
