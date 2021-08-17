@@ -1,12 +1,13 @@
 function askForMissingDetails(list) {
-    return list.filter(function(dev) {
+  const devsMissingDetails = list.filter((dev) => {
+    return Object.keys(dev).some((key) => dev[key] === null);
+  });
 
-      for(var key in dev) {
-        if (dev[key] === null) {
-          dev['question'] = `Hi, could you please provide your ${key}.`;
-          return dev;
-        }
-      }
+  const askMissingDetails = devsMissingDetails.map((dev) => {
+    const propertyNull = Object.keys(dev).find((key) => dev[key] === null);
+    dev.question = `Hi, could you please provide your ${propertyNull}.`;
+    return dev;
+  });
 
-    });
+  return askMissingDetails;
 }

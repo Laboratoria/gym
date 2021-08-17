@@ -1,6 +1,6 @@
 # Star Lovers Challenge
 
-[https://codesandbox.io/s/star-lovers-warmup-cgdmo?file=/README.md](https://codesandbox.io/s/star-lovers-warmup-cgdmo?file=/README.md)
+[https://lab.cs50.io/Laboratoria/gym-exercises/main/star-lovers-warmup/](https://lab.cs50.io/Laboratoria/gym-exercises/main/star-lovers-warmup/)
 
 
 ## Objetivos de aprendizaje (OAs)
