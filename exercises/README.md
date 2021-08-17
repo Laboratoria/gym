@@ -7,6 +7,7 @@
 - [**Star Lovers**](./star-lovers-warmup/README.md)
 - [**Return Something to Me**](./return-something-warmup/README.md)
 - [**Remove String Spaces**](./remove-string-spaces/README.md)
+- [**Abbreviate a Two Word Name**](./abbreviation/README.md)
 
 #### Challenge
 
@@ -22,3 +23,4 @@
 - [**All Rotations of a String**](./all-rotations/README.md)
 - [**Highest and Lowest**](./highest-lowest/README.md)
 - [**Unique Morse Code Words**](./morse-code/README.md)
+- [**Find Words**](./findWords/README.md)
