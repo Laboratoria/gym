@@ -8,6 +8,7 @@
 - [**Return Something to Me**](./return-something-warmup/README.md)
 - [**Remove String Spaces**](./remove-string-spaces/README.md)
 - [**Abbreviate a Two Word Name**](./abbreviation/README.md)
+- [**Remove First and Last Character**](./remove-first-and-last-character/README.md)
 
 #### Challenge
 
@@ -15,6 +16,7 @@
 - [**SpongeBob MeMe**](./spongebob-meme/README.md)
 - [**Secret Society**](./secret-society/README.md)
 - [**Transformation iteration!**](./transformation-iteration/README.md)
+- [**Ask for missing details*](./ask-for-missing-details/README.md)
 
 #### Hacker Edition
 
