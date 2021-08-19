@@ -25,4 +25,4 @@
 - [**All Rotations of a String**](./all-rotations/README.md)
 - [**Highest and Lowest**](./highest-lowest/README.md)
 - [**Unique Morse Code Words**](./morse-code/README.md)
-- [**Find Words**](./findWords/README.md)
+- [**Find Words**](./find-words/README.md)
