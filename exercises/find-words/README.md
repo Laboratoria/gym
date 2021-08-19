@@ -1,5 +1,7 @@
 # Find Words
 
+[https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+
 Dado un arreglo de palabras `words` y un string `chars`.
 
 Un string es __bueno__ si puede ser formado por letras dentro de `chars` (cada letra pude ser usada una única vez)
