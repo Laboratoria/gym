@@ -1,4 +1,4 @@
-# Sesión 1
+# Sesión 1 - 29/07/2021
 
 ## Ejercicios
 
