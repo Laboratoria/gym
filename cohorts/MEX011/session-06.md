@@ -38,9 +38,9 @@ export const name = 'value';
 - [ ] Ninguna tiene error
 
 6. ¿Cómo comienza un for?
-- [X] for ( i = 0;  i  <= 5;  i++)
-- [ ] for ( i <= 5;  i++)
-- [ ] for ( i = 0;  i <= 5 )
+- [X] for ( let i = 0;  i  <= 5;  i++)
+- [ ] for ( let i <= 5;  i++)
+- [ ] for ( let i = 0;  i <= 5 )
 - [ ] for i = 1 to 5
 
 7. ¿Cuál es el propósito de la sentencia "return" en una función?
