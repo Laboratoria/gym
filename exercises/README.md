@@ -26,3 +26,9 @@
 - [**Highest and Lowest**](./highest-lowest/README.md)
 - [**Unique Morse Code Words**](./morse-code/README.md)
 - [**Find Words**](./find-words/README.md)
+
+### Data Lovers / Red Social - arrays, loops, objects, sorting
+
+#### Warm-up
+
+- [**Sort an array by parity**](./sort-array-by-parity/README.md)
