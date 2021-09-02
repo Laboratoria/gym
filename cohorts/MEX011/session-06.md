@@ -1,3 +1,14 @@
+# Sesión 6 - 01/09/2021
+
+## Ejercicios
+
+| Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
+| ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
+| [**Count of positives / sum of negatives**](../../exercises/count-positives-sum-negatives/README.md) | :suspect: **Warm-up** | `strings`, `arrays` | <ul><li> Métodos de arrays </li></ul>  |
+| [**Sort Array By Parity**](../../exercises/sort-array-by-parity/README.md) | :suspect: **Warm-up** | `strings`, `arrays` | <ul><li> Métodos de arrays</li></ul>  |
+| [**Array diff**](../../exercises/array-diff/README.md) | :rage1: **Challenge** | `loops`, `arrays` | <ul><li> Métodos de arrays</li></ul>  |
+| [**Convert Hash To An Array**](../../exercises/convert-hash-to-an-array/README.md) | :godmode: **Hacker Edition** | `objects`, `arrays` | <ul><li> Métodos de arrays </li><li>Objetos (key, value)</li></ul>  |
+
 ## Kahoot
 [https://create.kahoot.it/details/3eab5858-4628-46fa-be87-f04553bc0410](https://create.kahoot.it/details/3eab5858-4628-46fa-be87-f04553bc0410)
 
@@ -13,7 +24,7 @@ export const name = 'value';
 2. ¿Cuál es las declaración "if" correcta para ejecutar cierto código si "x" es igual a 2?
 - [ ] if(x 2)
 - [ ] if(x = 2)
-- [X] if(x === 2) 
+- [X] if(x === 2)
 - [ ] if(x != 2)
 
 3. Elige la opción correcta para cambiar el contenido HTML que se indica a continuación
@@ -31,7 +42,7 @@ export const name = 'value';
 - [X] alert(“Hola Dev”);
 - [ ] msgAlert(“Hola Dev”);
 
-5. ¿Cuál de las siguientes opciones tiene un error? 
+5. ¿Cuál de las siguientes opciones tiene un error?
 - [ ] const fun = function bar( ){ }
 - [X] const fun = function bar{ }
 - [ ] function fun( ){ }
@@ -64,7 +75,7 @@ loginButton.addEventListener('click', () => {
 - [X] True
 - [ ] False
 
-10. ¿Cómo encuentra el mínimo de "x" y "y"? 
+10. ¿Cómo encuentra el mínimo de "x" y "y"?
 - [ ] min(x,y);
 - [X] Math.min (x, y);
 - [ ] Math.min (xy);
