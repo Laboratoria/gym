@@ -1,5 +1,7 @@
 # Convert Hash To An Array
 
+[https://www.codewars.com/kata/59557b2a6e595316ab000046/train/javascript](https://www.codewars.com/kata/59557b2a6e595316ab000046/train/javascript)
+
 Convertir un hash a un arreglo. Nada mas, nada menos.
 
 __Ejemplo__
