@@ -32,3 +32,7 @@
 #### Warm-up
 
 - [**Sort an array by parity**](./sort-array-by-parity/README.md)
+
+#### Hacker Edition
+
+- [**Convert Hash To An Array**](./convert-hash-to-an-array/README.md)
