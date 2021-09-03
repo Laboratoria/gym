@@ -1,0 +1,21 @@
+{
+  "name": "gym",
+  "version": "1.0.0",
+  "description": "Code challenges para ejercitar la capacidad de analisis y resolucion de problemas",
+  "devDependencies": {
+    "@laboratoria/mdlint": "^1.2.1"
+  },
+  "scripts": {
+    "mdlint": "mdlint . --config .markdownlint.json",
+    "pretest": "npm run mdlint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulingg/gym.git"
+  },
+  "license": "private",
+  "bugs": {
+    "url": "https://github.com/Laboratoria/gym/issues"
+  },
+  "homepage": "https://github.com/Laboratoria/gym#README.md"
+}
