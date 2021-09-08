@@ -16,7 +16,7 @@
 - [**SpongeBob MeMe**](./spongebob-meme/README.md)
 - [**Secret Society**](./secret-society/README.md)
 - [**Transformation iteration!**](./transformation-iteration/README.md)
-- [**Ask for missing details*](./ask-for-missing-details/README.md)
+- [**Ask for missing details**](./ask-for-missing-details/README.md)
 
 #### Hacker Edition
 
@@ -26,7 +26,6 @@
 - [**Highest and Lowest**](./highest-lowest/README.md)
 - [**Unique Morse Code Words**](./morse-code/README.md)
 - [**Find Words**](./find-words/README.md)
-- [**Who wins the card game?**](./who-wins-the-card-game/README.md)
 
 ### Data Lovers / Red Social - arrays, loops, objects, sorting
 
@@ -37,3 +36,4 @@
 #### Hacker Edition
 
 - [**Convert Hash To An Array**](./convert-hash-to-an-array/README.md)
+- [**Who wins the card game?**](./who-wins-the-card-game/README.md)

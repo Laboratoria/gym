@@ -29,6 +29,20 @@ Debes escribir una función que devuelva un array anidado de los jugadores y sus
 
 4. Si la puntuación de un jugador supera los 21, no puede ganar.
 
+__Ejemplo 1__
+
+```js
+var players = {
+  "Ben" : "5, 2",
+  "Amy" : "4, 3",
+  "Sam" : "3, 10",
+};
+
+whoWins(players, 3, ["Ben", "Amy"]) 
+//should return [["Sam", 13], ["Amy", 10], ["Ben", 10]];
+
+```
+
 ## Objetivos de aprendizaje (OAs)
 
 - Métodos de arrays
