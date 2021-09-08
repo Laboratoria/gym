@@ -1,5 +1,13 @@
 # Sesión 7 - 09/09/2021
 
+## Ejercicios
+
+| Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
+| ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
+| [**Odd Or Even**](../../exercises/odd-or-even/README.md) | :suspect: **Warm-up** | `arrays` | <ul><li> Métodos de arrays </li></ul>  |
+| [**Pangram**](../../exercises/pangram/README.md) | :rage1: **Challenge** | `objects`, `arrays` | <ul><li>Objetos (key, value)</li></ul>  |
+| [**Who wins the card game?**](../../exercises/who-wins-the-card-game/README.md) | :godmode: **Hacker Edition** | `objects`, `arrays` | <ul><li> Métodos de arrays </li><li>Objetos (key, value)</li></ul>  |
+
 ## Kahoot
 
 🔗[https://create.kahoot.it/details/9a45a6f7-b1cc-4e67-b2db-0bd83ac32a58](https://create.kahoot.it/details/9a45a6f7-b1cc-4e67-b2db-0bd83ac32a58)
@@ -157,7 +165,8 @@
     - 30 y 10 ❌
     - 30 y -10 ❌
     - Uncaught ReferenceError: Cannot access 'restar' before initialization ❌
-    - 30 y Uncaught ReferenceError: Cannot access 'restar' before initialization ✅
+    - 30 y Uncaught ReferenceError: Cannot access 'restar' before
+      initialization ✅
 
 9. ¿Qué imprime console.log?
 
