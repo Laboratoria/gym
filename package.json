@@ -1,0 +1,26 @@
+{
+  "name": "gym",
+  "version": "1.0.0",
+  "description": "Code challenges para ejercitar la capacidad de analisis y resolucion de problemas",
+  "devDependencies": {
+    "@laboratoria/mdlint": "^1.2.1",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  },
+  "scripts": {
+    "mdlint": "mdlint . --config .markdownlint.json",
+    "eslint": "eslint --ext .js exercises/",
+    "pretest": "npm run mdlint && npm run eslint",
+    "eslint:fix": "npm run eslint -- --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulingg/gym.git"
+  },
+  "license": "private",
+  "bugs": {
+    "url": "https://github.com/Laboratoria/gym/issues"
+  },
+  "homepage": "https://github.com/Laboratoria/gym#README.md"
+}
