@@ -16,7 +16,7 @@
 - [**SpongeBob MeMe**](./spongebob-meme/README.md)
 - [**Secret Society**](./secret-society/README.md)
 - [**Transformation iteration!**](./transformation-iteration/README.md)
-- [**Ask for missing details*](./ask-for-missing-details/README.md)
+- [**Ask for missing details**](./ask-for-missing-details/README.md)
 
 #### Hacker Edition
 
@@ -36,3 +36,4 @@
 #### Hacker Edition
 
 - [**Convert Hash To An Array**](./convert-hash-to-an-array/README.md)
+- [**Who wins the card game?**](./who-wins-the-card-game/README.md)
