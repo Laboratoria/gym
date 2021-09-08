@@ -10,7 +10,7 @@ function countCharacters(words, chars) {
         break;
       }
 
-      replaced = replaced.replace(word[j], "");
+      replaced = replaced.replace(word[j], '');
     }
 
     if (replaced.length + word.length === chars.length) {

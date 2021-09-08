@@ -1,8 +1,8 @@
 function printStar(num) {
-  let string = "";
+  let string = '';
 
   for (let i = 0; i < num; i++) {
-    string += "*";
+    string += '*';
   }
 
   return string;

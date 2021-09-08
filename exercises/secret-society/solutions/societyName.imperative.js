@@ -1,6 +1,6 @@
 function societyName(friends) {
   const names = [];
-  let societyName = "";
+  let name = '';
 
   for (let i = 0; i < friends.length; i++) {
     names.push(friends[i][0]);
@@ -9,8 +9,8 @@ function societyName(friends) {
   const sortedNames = names.sort();
 
   for (let i = 0; i < sortedNames.length; i++) {
-    societyName += sortedNames[i];
+    name += sortedNames[i];
   }
 
-  return societyName;
+  return name;
 }
