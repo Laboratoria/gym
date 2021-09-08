@@ -1,6 +1,7 @@
-function oddOrEven(array) {
-    if (array[0] == undefined || array.reduce((a, b) => a + b) % 2 == 0) {
-        return 'even';
-    }
-    return 'odd';
+function sum(nums) {
+  return nums.reduce((acumulador, num) => acumulador + num, 0);
+}
+
+function oddOrEven(nums) {
+  return sum(nums) % 2 === 0 ? 'even' : 'odd';
 }
