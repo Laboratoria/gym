@@ -3,12 +3,16 @@
     "browser": true,
     "es6": true
   },
+  "plugins": ["filename-rules", "folders"],
   "extends": ["airbnb-base"],
   "parserOptions": {
     "ecmaVersion": 2018
   },
   "rules": {
     "no-unused-vars": "off",
-    "no-plusplus": "off"
+    "no-plusplus": "off",
+    "filename-rules/match": [2, "camelcase"],
+    // folders at /exercises must follow kebab-case, i.e: find-words, secret-society
+    "folders/match-regex": [2, "^([a-z][a-z0-9]*)(-[a-z0-9]+)*$", "/exercises/"]
   }
 }
