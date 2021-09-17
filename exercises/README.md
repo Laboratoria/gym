@@ -9,7 +9,7 @@
 - [**Remove String Spaces**](./remove-string-spaces/README.md)
 - [**Abbreviate a Two Word Name**](./abbreviation/README.md)
 - [**Remove First and Last Character**](./remove-first-and-last-character/README.md)
-- [**Odd or Even**](./odd-or-even/README.md) 
+- [**Odd or Even**](./odd-or-even/README.md)
 
 ### Challenge
 

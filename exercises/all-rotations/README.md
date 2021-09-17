@@ -2,7 +2,8 @@
 
 [https://edabit.com/challenge/XoBFQ9CJDBFEKEAj9](https://edabit.com/challenge/XoBFQ9CJDBFEKEAj9)
 
-Crear dos funciones (leftRotations y rightRotations) que retornan todas las rotaciones de izquierda y derecha de un string.
+Crear dos funciones (leftRotations y rightRotations) que retornan todas las
+rotaciones de izquierda y derecha de un string.
 
 __Ejemplos__
 
