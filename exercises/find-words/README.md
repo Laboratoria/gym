@@ -4,14 +4,14 @@
 
 Dado un arreglo de palabras `words` y un string `chars`.
 
-Un string es __bueno__ si puede ser formado por letras dentro de `chars` (cada letra pude ser usada una única vez)
+Un string es __bueno__ si puede ser formado por letras dentro de `chars` (cada
+letra pude ser usada una única vez)
 
 Retorna _la suma de las longitudes de todos los strings buenos dentro de `words`_.
 
-
 __Ejemplo 1__
 
-```
+```js
 Entrada: words = ["cat","bt","hat","tree"], chars = "atach"
 Salida: 6
 Explicación: Los strings que pueden ser formados son "cat" y "hat" por lo tanto la respuesta es 3 + 3 = 6.
@@ -19,7 +19,7 @@ Explicación: Los strings que pueden ser formados son "cat" y "hat" por lo tanto
 
 __Ejemplo 2__
 
-```
+```js
 Entrada: words = ["hello","world","leetcode"], chars = "welldonehoneyr"
 Salida: 10
 Explicación: Los strings que pueden ser formados son "hello" y "world" por lo tanto la respuesta es 5 + 5 = 10.
