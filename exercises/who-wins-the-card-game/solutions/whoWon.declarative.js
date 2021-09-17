@@ -10,7 +10,7 @@ function whoWon(players, extraCard, extraTakers) {
       return [player[0], score];
     })
     .sort((a, b) => {
-      if (a[1] < b[1] || a[1] > 21 || (a[0] > b[0] && a[1] == b[1])) return 1;
+      if (a[1] < b[1] || a[1] > 21 || (a[0] > b[0] && a[1] === b[1])) return 1;
 
       if (21 - a[1] < 21 - b[1]) return -1;
 

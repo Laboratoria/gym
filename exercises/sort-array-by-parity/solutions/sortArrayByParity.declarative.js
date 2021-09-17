@@ -1,5 +1,6 @@
 function compare(a, b) {
-  return b % 2 == 0 ? 1 : a % 2 === 0 ? -1 : 0;
+  // eslint-disable-next-line no-nested-ternary
+  return b % 2 === 0 ? 1 : a % 2 === 0 ? -1 : 0;
 }
 
 function sortArrayByParity(nums) {

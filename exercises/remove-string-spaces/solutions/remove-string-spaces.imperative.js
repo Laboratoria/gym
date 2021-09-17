@@ -1,8 +1,8 @@
 function noSpace(x) {
-  let string = "";
+  let string = '';
 
   for (let i = 0; i < x.length; i++) {
-    if (x[i] != " ") {
+    if (x[i] !== ' ') {
       string += x[i];
     }
   }
