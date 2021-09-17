@@ -9,7 +9,7 @@
 - [**Remove String Spaces**](./remove-string-spaces/README.md)
 - [**Abbreviate a Two Word Name**](./abbreviation/README.md)
 - [**Remove First and Last Character**](./remove-first-and-last-character/README.md)
-- [**Odd or Even**](./odd-or-even/README.md) 
+- [**Odd or Even**](./odd-or-even/README.md)
 
 ### Challenge
 
@@ -42,3 +42,9 @@
 
 - [**Convert Hash To An Array**](./convert-hash-to-an-array/README.md)
 - [**Who wins the card game?**](./who-wins-the-card-game/README.md)
+
+## Red Social / Markdown Links - arrays, objects, data types, recursion
+
+### Challenge
+
+- [**Count strings in objects**](./count-count-strings-in-objects/README.md)
