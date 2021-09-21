@@ -1,5 +1,6 @@
+/* eslint-disable no-param-reassign */
 function whoWon(players, extraCard, extraTakers) {
-  const aces = ['A','K','Q','J'];
+  const aces = ['A', 'K', 'Q', 'J'];
 
   if (aces.includes(extraCard)) {
     extraCard = 10;
@@ -9,8 +10,8 @@ function whoWon(players, extraCard, extraTakers) {
 
   extraTakers.forEach((name) => {
     arrayPlayers.forEach((player) => {
-      if (player[0] == name) {
-        player[1] = player[1].concat(", ", extraCard);
+      if (player[0] === name) {
+        player[1] = player[1].concat(', ', extraCard);
       }
     });
   });
@@ -18,7 +19,7 @@ function whoWon(players, extraCard, extraTakers) {
   arrayPlayers.forEach((player) => {
     let score = 0;
 
-    const arrayScore = player[1].split(", ");
+    const arrayScore = player[1].split(', ');
 
     arrayScore.forEach((value) => {
       if (aces.includes(value)) {
@@ -30,8 +31,8 @@ function whoWon(players, extraCard, extraTakers) {
 
     player[1] = score;
   });
-  arrayPlayers.sort(function (a, b) {
-    if (a[1] < b[1] || a[1] > 21 || (a[0] > b[0] && a[1] == b[1])) return 1;
+  arrayPlayers.sort((a, b) => {
+    if (a[1] < b[1] || a[1] > 21 || (a[0] > b[0] && a[1] === b[1])) return 1;
 
     if (21 - a[1] < 21 - b[1]) return -1;
 

@@ -2,9 +2,11 @@
 
 [https://edabit.com/challenge/zQm9YZTTFPhNtYjDr](https://edabit.com/challenge/zQm9YZTTFPhNtYjDr)
 
-Un grupo de amigos ha decidido iniciar una sociedad secreta. El nombre de la sociedad será la primera letra de cada uno de ellos, ordenados alfabéticamente.
+Un grupo de amigos ha decidido iniciar una sociedad secreta. El nombre de la
+sociedad será la primera letra de cada uno de ellos, ordenados alfabéticamente.
 
-Crear una función que tome una serie de nombres y retorne el nombre de la sociedad secreta.
+Crear una función que tome una serie de nombres y retorne el nombre de la sociedad
+secreta.
 
 __Ejemplos__
 
@@ -17,7 +19,6 @@ societyName(["Phoebe", "Chandler", "Rachel", "Ross", "Monica", "Joey"]) ➞ "CJM
 > __Importante__ ❗
 >
 > El nombre de la sociedad secreta debe ser enteramente en mayúsculas.
-
 
 ## Objetivos de aprendizaje (OAs)
 

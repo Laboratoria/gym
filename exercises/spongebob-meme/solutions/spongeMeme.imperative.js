@@ -1,5 +1,5 @@
 function spongeMeme(sentence) {
-  let meme = "";
+  let meme = '';
 
   for (let i = 0; i < sentence.length; i++) {
     const character = sentence[i];
