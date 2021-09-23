@@ -23,4 +23,4 @@ Explicación: "1", "2" y "anytime" son los únicos strings presentes, contados d
 
 - Objetos (key, value)
 - Tipos de datos
-- recursividad
+- Recursividad
