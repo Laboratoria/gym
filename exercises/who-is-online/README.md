@@ -56,3 +56,7 @@ y `lastActivity` sera siempre un numero >= 0.
 
 Finalmente, si no tienes ningún amigo in tu app de chat, el input sera un arreglo
 vació `[]`. En este caso deberías retornar un objeto vació `{}`
+
+## Objetivos de aprendizaje (OAs)
+
+- Objetos (key, value)

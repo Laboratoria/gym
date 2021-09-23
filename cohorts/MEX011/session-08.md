@@ -1,4 +1,12 @@
-# Sesión 8 - 22/09/2021
+# Sesión 8 - 23/09/2021
+
+## Ejercicios
+
+| Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
+| ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
+| [**Count characters in your string**](../../exercises/count-characters/README.md) | :suspect: **Warm-up** | `objects` | <ul><li> Objetos (key, value) </li></ul>  |
+| [**Who's online?**](../../exercises/who-is-online/README.md) | :rage1: **Challenge** | `objects` | <ul><li>Objetos (key, value)</li></ul>  |
+| [**Count strings in objects**](../../exercises/count-strings-in-objects/README.md) | :godmode: **Hacker Edition** | `objects`, `data types`, `recursion` | <ul><li>Objetos (key, value)</li><li> Tipos de datos </li><li> Recursividad </li></ul>  |
 
 ## Kahoot
 
@@ -71,7 +79,7 @@ de los navegadores?
 10. ¿El código de arriba NO hace lo mismo que el de abajo?
 
     ```js
-    if(age >= 18 ){ 
+    if(age >= 18 ){
             message = 'Mayor de edad';
     } else {
             message = 'Menor de edad';
