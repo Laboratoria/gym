@@ -15,3 +15,7 @@
 - ### [Sesión 06](./session-06.md)
 
 - ### [Sesión 07](./session-07.md)
+
+- ### [Sesión 08](./session-08.md)
+
+- ### [Sesión 09](./session-09.md)

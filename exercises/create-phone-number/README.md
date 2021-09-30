@@ -11,10 +11,10 @@ __Ejemplo__
 ```js
 Entrada: [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
 Salida: "(123) 456-7890"
-Explicación: En la entrada recibimos un arreglo el cual debemos utilizarlo para devolver un string con el formato de numero 
+Explicación: En la entrada recibimos un arreglo el cual debemos utilizarlo para devolver un string con el formato de numero
 ```
 
-> __Importante__ ❗  
+> __Importante__ ❗
 >
 > - El string devuelto debe contener el fomrato para ser correcto y
  completar este desafío.
@@ -23,4 +23,4 @@ Explicación: En la entrada recibimos un arreglo el cual debemos utilizarlo para
 ## Objetivos de aprendizaje (OAs)
 
 - Manipulación de strings
-- Metodos de arreglos
+- Métodos de arreglos
