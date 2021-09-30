@@ -1,5 +1,13 @@
 # Sesión 9 - 30/09/2021
 
+## Ejercicios
+
+| Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
+| ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
+| [**Counting sheep**](../../exercises/counting-sheep/README.md) | :suspect: **Warm-up** | `arrays` | <ul><li> Métodos de arreglo </li></ul>  |
+| [**Create Phone Number**](../../exercises/create-phone-number/README.md) | :rage1: **Challenge** | `arrays`, `strings` | <ul><li>Manipulación de strings</li><li>Métodos de arreglos</li></ul>  |
+| [**Roman to Integer**](../../exercises/roman-to-integer/README.md) | :godmode: **Hacker Edition** | `objects` | <ul><li>Objetos (key, value)</li></ul>  |
+
 ## Kahoot
 
 🔗[https://create.kahoot.it/details/74da1cef-1209-458d-a162-a10d91f8f714](https://create.kahoot.it/details/74da1cef-1209-458d-a162-a10d91f8f714)
@@ -37,7 +45,6 @@
     - object ✅
     - null
 
-
 6. Selecciona las declaraciones para el manejo de errores en las funciones async
 
     - .then()
@@ -45,8 +52,8 @@
     - try...catch ✅
     - Ninguna de las anteriores
 
-
 7. Selecciona el concepto que mejor describa el siguiente fragmento de código
+
     ```js
     function factorial(n) {
       if (n === 0 || n === 1) {
@@ -57,11 +64,10 @@
     }
     ```
 
-    - Callback 
+    - Callback
     - Recursión ✅
     - Promesa
     - Función asíncrona
-
 
 8. Selecciona los elementos que utilizan los templete strings para interpolar valores en una cadena
 
@@ -85,7 +91,6 @@
     - margin: 10px 20px;
     - margin: 10px 20px 30px 40px; ✅
     - margin: 30px 40px;
-
 
 10. Es la unidad relativa utilizada en CSS principalmente para la propiedad font-size, que depende del tamaño de letra base
     - em
