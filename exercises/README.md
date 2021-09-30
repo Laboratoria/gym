@@ -35,6 +35,7 @@
 
 - [**Sort an array by parity**](./sort-array-by-parity/README.md)
 - [**Count characters in your string**](./count-characters/README.md)
+- [**Counting sheep**](./counting-sheep/README.md)
 
 ### Challenge
 
