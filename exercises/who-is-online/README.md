@@ -2,16 +2,16 @@
 
 [https://www.codewars.com/kata/5b6375f707a2664ada00002a/train/javascript](https://www.codewars.com/kata/5b6375f707a2664ada00002a/train/javascript)
 
-Tienes una app de grupo de chat, pero sabes quien esta online?
+Tienes una app de chat, ¿cómo saber quién está online?
 
-Quieres mostrar a tus usuarios cuales de sus amigos están online y disponibles
-para chatear!
+Quieres mostrar a tus usuarios quiénes de tus amigas o amigos están online y
+disponibles para chatear.
 
-Dado un arreglo de objetos que contiene nombres de usuario, estado y tiempo desde
-la ultima actividad (en minutos), crea una función para determinar quien esta
+Dado un arreglo de objetos que contiene nombre de usuario, estado y tiempo desde
+la ultima actividad (en minutos), crea una función para determinar quién está
 `online`, `offline` y `away`.
 
-Si alguien esta `online` pero su `lastActivity` fue hace mas de 10 minutos entonces
+Si alguien está `online` pero su `lastActivity` fue hace más de 10 minutos, entonces
 es considerado `away`.
 
 Los datos de entrada tienen la siguiente estructura:
@@ -32,7 +32,7 @@ Los datos de entrada tienen la siguiente estructura:
 }]
 ```
 
-La salida correspondiente luce como sigue:
+La salida correspondiente a los datos de entrada sería la siguiente:
 
 ```js
 {
@@ -42,7 +42,7 @@ La salida correspondiente luce como sigue:
 }
 ```
 
-Si por ejemplo, ningún usuario esta online la salida debería lucir como sigue:
+Si, por ejemplo, ningún usuario está online, la salida debería lucir así:
 
 ```js
 {
@@ -51,11 +51,12 @@ Si por ejemplo, ningún usuario esta online la salida debería lucir como sigue:
 }
 ```
 
-username sera siempre un string, status sera siempre ya sea `online` o `offline`
-y `lastActivity` sera siempre un numero >= 0.
+`username` será siempre un string; `status` será siempre uno de los siguientes
+valores: `online` o `offline`; `lastActivity` será siempre un numero >= 0.
 
-Finalmente, si no tienes ningún amigo in tu app de chat, el input sera un arreglo
-vació `[]`. En este caso deberías retornar un objeto vació `{}`
+
+Finalmente, si no tienes ningún amigo o amiga un tu app de chat, el input será
+un arreglo vacío `[]`. Si este es el caso, debes retornar un objeto vacío `{}`.
 
 ## Objetivos de aprendizaje (OAs)
 
