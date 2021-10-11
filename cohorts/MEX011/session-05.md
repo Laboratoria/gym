@@ -2,7 +2,7 @@
 
 ## Dinámica
 
-### [9:30 - 10am]  Respondamos al Mentimeter
+### [9:30 - 10am] Respondamos al Mentimeter
 
 Vamos a responder cada una de las preguntas  usando Mentimeter. Luego algunas
 voluntarias abren micro para compartir.
@@ -40,8 +40,17 @@ reflexiones mas destacadas y/o planes de acción.
 
 En esta ocasión el hacking en vivo estará en manos de nuestro invitado especial Mariano.
 
-## Resultados
+## Respondamos al Mentimeter
 
 * [mentimeter-responses-01.pdf](https://github.com/Laboratoria/gym/files/7324990/mentimeter-responses-01.pdf)
 * [mentimeter-responses-02.pdf](https://github.com/Laboratoria/gym/files/7324991/mentimeter-responses-02.pdf)
-* [Figjam board](https://www.figma.com/file/A0JMY6wLnlB9vcz64kUbct/Retrospectiva?node-id=0%**3A1**)
+
+## Retrospectiva en FigJam
+
+[Figjam board](https://www.figma.com/file/A0JMY6wLnlB9vcz64kUbct/Retrospectiva?node-id=0%**3A1**)
+
+## Hacking en vivo
+
+[Ejercicio - sum of numbers between](https://github.com/Laboratoria/gym-exercises/tree/main/sum-of-numbers-between)
+
+[![Hacking code GYM, suma de los números del 1 al 200 by merunga](https://img.youtube.com/vi/VawgixEPvtI/0.jpg)](https://www.youtube.com/watch?v=VawgixEPvtI)
