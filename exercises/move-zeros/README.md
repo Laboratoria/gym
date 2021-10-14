@@ -10,7 +10,6 @@ __Ejemplo__
 ```js
 Entrada: [false,1,0,1,2,0,1,3,"a"]
 Salida: [false,1,1,2,1,3,"a",0,0]
-Explicación: En la entrada recibimos un arreglo el cual debemos mover todos los ceros al final y como resultado la funcion retorna un arreglo con los ceros desplazados hasta el final.
 ```
 
 > __Importante__ ❗
