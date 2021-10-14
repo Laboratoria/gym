@@ -41,6 +41,7 @@
 ### Challenge
 
 - [**Pangram**](./pangram/README.md)
+- [**Let's Recycle!**](./lets-recycle/README.md)
 
 ### Hacker Edition
 
