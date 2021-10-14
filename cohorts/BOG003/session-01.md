@@ -2,7 +2,7 @@
 
 ## Kick-off
 
-[Presentación](https://docs.google.com/presentation/d/1MELgixf5RIOMmMtPUWBQMYkfYfYCVr96FMUA9Dn17mo/edit?usp=sharing) 🔗
+[Presentación](https://docs.google.com/presentation/d/1MELgixf5RIOMmMtPUWBQMYkfYfYCVr96FMUA9Dn17mo/edit?usp=sharing)🔗
 
 - Objetivos de aprendizaje para el Gimnasio
 - Dinámica

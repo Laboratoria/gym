@@ -3,5 +3,5 @@ function getCapitalizedInitial(word) {
 }
 
 function abbrevName(name) {
-  return name.split(" ").map(getCapitalizedInitial).join(".");
+  return name.split(' ').map(getCapitalizedInitial).join('.');
 }

@@ -2,8 +2,8 @@
 
 [https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)
 
-Esto es demasiado sencillo, elimina los espacios de la cadena, luego devuelve la cadena resultante.
-
+Esto es demasiado sencillo, elimina los espacios de la cadena, luego devuelve la
+cadena resultante.
 
 __Ejemplos__
 
@@ -16,7 +16,6 @@ noSpace('8aaaaa dddd r     ') ➞ '8aaaaaddddr'
 > __Importante__ ❗
 >
 > - Las cadenas pasadas solo constarán de letras y espacios.
-
 
 ## Objetivos de aprendizaje (OAs)
 

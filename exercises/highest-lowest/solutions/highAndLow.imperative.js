@@ -1,5 +1,5 @@
 function highAndLow(stringNumber) {
-  const numbers = stringNumber.split(" ");
+  const numbers = stringNumber.split(' ');
   let lowest = Number(numbers[0]);
   let highest = lowest;
 

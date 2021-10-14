@@ -7,14 +7,14 @@ function hasMoreThanOneLetter(word) {
 }
 
 function getWordWithoutPunctuation(word) {
-  return word.endsWith("!") || word.endsWith(".")
+  return word.endsWith('!') || word.endsWith('.')
     ? word.slice(0, word.length - 1)
     : word;
 }
 
 function countSameEnds(sentence) {
   return sentence
-    .split(" ")
+    .split(' ')
     .filter(hasMoreThanOneLetter)
     .map(getWordWithoutPunctuation)
     .reduce((count, word) => (hasSameEnds(word) ? count + 1 : count), 0);
