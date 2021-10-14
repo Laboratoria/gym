@@ -9,3 +9,4 @@
 - ### [Sesión 05](./session-05.md)
 - ### [Sesión 06](./session-06.md)
 - ### [Sesión 07](./session-07.md)
+- ### [Sesión 08](./session-08.md)
