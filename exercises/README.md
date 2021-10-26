@@ -47,6 +47,7 @@
 
 - [**Convert Hash To An Array**](./convert-hash-to-an-array/README.md)
 - [**Who wins the card game?**](./who-wins-the-card-game/README.md)
+- [**HackerRank In a String**](./hackerrank-in-a-string/README.md)
 
 ## Red Social / Markdown Links - arrays, objects, data types, recursion
 
