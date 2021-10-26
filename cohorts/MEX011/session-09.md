@@ -38,7 +38,7 @@
     - Crea una función, teniendo en cuenta el nombre, parámetros y valor de retorno
     - Conjunto de instrucciones que realiza una tarea o calcula un valor
 
-5. Para la palabra clave ‘null’, el operador typeof devuelve:
+5. Para la palabra clave `null`, el operador `typeof` devuelve:
 
     - boolean
     - number
@@ -69,14 +69,16 @@
     - Promesa
     - Función asíncrona
 
-8. Selecciona los elementos que utilizan los templete strings para interpolar valores en una cadena
+8. Selecciona los elementos que utilizan los templete strings para interpolar
+   valores en una cadena.
 
     - Comillas inversas ``
     - ${}
     - Comillas dobles “”
     - Comillas inversas `` y ${} ✅
 
-9. Selecciona la opción con la que podrías escribir los estilos del siguiente código en una sola línea
+9. Selecciona la opción con la que podrías escribir los estilos del siguiente
+    código en una sola línea.
 
     ```js
     .button-login {
@@ -92,7 +94,9 @@
     - margin: 10px 20px 30px 40px; ✅
     - margin: 30px 40px;
 
-10. Es la unidad relativa utilizada en CSS principalmente para la propiedad font-size, que depende del tamaño de letra base
+10. Es la unidad relativa utilizada en CSS principalmente para la propiedad
+    font-size, que depende del tamaño de letra base.
+
     - em
     - rem ✅
     - px

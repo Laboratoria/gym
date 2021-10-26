@@ -54,7 +54,6 @@ Si, por ejemplo, ningún usuario está online, la salida debería lucir así:
 `username` será siempre un string; `status` será siempre uno de los siguientes
 valores: `online` o `offline`; `lastActivity` será siempre un numero >= 0.
 
-
 Finalmente, si no tienes ningún amigo o amiga un tu app de chat, el input será
 un arreglo vacío `[]`. Si este es el caso, debes retornar un objeto vacío `{}`.
 

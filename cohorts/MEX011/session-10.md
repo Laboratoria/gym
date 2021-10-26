@@ -33,15 +33,17 @@
   - Contar con un espíritu emprendedor que te motive a pensar en grande y
         empujar a que las cosas ocurran
   - No tener miedo a los cambios y a los grandes desafíos
-        No te preocupes si no eres “expert@” en estas tecnologías ya que sabemos que las
-        tecnologías se aprenden rápido, lo que nos importa son tus ganas de empujar a
-        que las cosas ocurran, tu ambición para pensar en grande y tu capacidad de
-        poder proponer soluciones simples a problemas complejos.
+
+  No te preocupes si no eres “expert@” en estas tecnologías ya que sabemos que las
+  tecnologías se aprenden rápido, lo que nos importa son tus ganas de empujar a
+  que las cosas ocurran, tu ambición para pensar en grande y tu capacidad de
+  poder proponer soluciones simples a problemas complejos.
 
   __¿Qué te ofrecemos?__
 
   - Días libres ilimitados. (Sí, ilimitados).
-  - Equipos de última tecnología que iremos a dejar con nuestras propias manos a tu casa.
+  - Equipos de última tecnología que iremos a dejar con nuestras propias manos
+    a tu casa.
   - Por ahora Home Office.
   - Horario flexible.
   - Free Delivery en tus restaurantes favoritos.
