@@ -33,4 +33,4 @@ salida = [
 ## Objetivos de aprendizaje (OAs)
 
 - Métodos de arrays
-- Manipulación de objetos
+- Manipular objects (key | value)
