@@ -20,6 +20,7 @@
 - [**Transformation iteration!**](./transformation-iteration/README.md)
 - [**Ask for missing details**](./ask-for-missing-details/README.md)
 - [**Create Phone Number**](./create-phone-number/README.md)
+- [**The Race Between Hare and Tortoise**](./hare-and-tortoise/README.md)
 
 ### Hacker Edition
 
