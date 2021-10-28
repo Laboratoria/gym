@@ -39,3 +39,4 @@ Explicación: No hay ninguna "c" luego de la primera ocurrencia de una "a"
 ## Objetivos de aprendizaje (OAs)
 
 - Manipulación de strings
+- Uso de expresiones regulares
