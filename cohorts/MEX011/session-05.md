@@ -54,3 +54,7 @@ En esta ocasión el hacking en vivo estará en manos de nuestro invitado especia
 [Ejercicio - sum of numbers between](https://github.com/Laboratoria/gym-exercises/tree/main/sum-of-numbers-between)
 
 [![Hacking code GYM, suma de los números del 1 al 200 by merunga](https://img.youtube.com/vi/VawgixEPvtI/0.jpg)](https://www.youtube.com/watch?v=VawgixEPvtI)
+
+## Coda
+
+[Retro en Coda](https://coda.io/d/Oraculo-MEX011_d630JkLbP--/Retrospectiva-26-08_suwrC#_luBNL)
