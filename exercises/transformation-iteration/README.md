@@ -1,4 +1,3 @@
-
 # Transformation iteration
 
 [https://www.codewars.com/kata/5872d59caa042821100001f8/train/javascript](https://www.codewars.com/kata/5872d59caa042821100001f8/train/javascript)
