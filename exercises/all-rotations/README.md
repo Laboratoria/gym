@@ -1,3 +1,13 @@
+---
+difficulties:
+  - medium
+OAs:
+  - strings
+  - arrays
+projects:
+  - data lovers
+---
+
 # All Rotations of a String
 
 [https://edabit.com/challenge/XoBFQ9CJDBFEKEAj9](https://edabit.com/challenge/XoBFQ9CJDBFEKEAj9)
@@ -16,8 +26,3 @@ leftRotations("abcdef") ➞ ["abcdef", "bcdefa", "cdefab", "defabc", "efabcd", "
 
 rightRotations("abcdef") ➞ ["abcdef", "fabcde", "efabcd", "defabc", "cdefab", "bcdefa"]
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Métodos de arrays

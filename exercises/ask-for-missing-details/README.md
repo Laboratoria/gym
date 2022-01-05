@@ -1,3 +1,13 @@
+---
+difficulties:
+  - medium
+OAs:
+  - arrays
+  - objects
+projects:
+  - emergency room
+---
+
 # Ask for missing details
 
 [https://www.codewars.com/kata/583d972b8bbc0402cf000121/train/javascript](https://www.codewars.com/kata/583d972b8bbc0402cf000121/train/javascript)
@@ -34,8 +44,3 @@ Escribe una función que:
   question: 'Hi, could you please provide your language.' }
 ]
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Métodos de arrays
-- Manipular objects (key | value)

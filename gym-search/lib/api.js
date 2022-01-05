@@ -14,10 +14,6 @@ export function getExerciseBySlug(slug, fields = []) {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
 
-  if (!content) {
-    content = fileContents;
-  }
-
   // Override function
   const renderer = {
     heading(text, level) {
@@ -33,7 +29,7 @@ export function getExerciseBySlug(slug, fields = []) {
   };
 
   marked.use({ renderer });
-  marked.parse(fileContents)
+  marked.parse(content)
 
   const items = {}
 

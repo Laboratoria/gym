@@ -8,6 +8,13 @@
 #   picture: '/assets/blog/authors/jj.jpeg'
 # ogImage:
 #   url: '/assets/blog/dynamic-routing/cover.jpg'
+difficulties:
+  - medium
+OAs:
+  - strings
+  - arrays
+projects:
+  - data lovers
 ---
 
 # Abbreviate a Two Word Name
@@ -28,8 +35,3 @@ __Ejemplo 2__
 
 - Entrada: `Patrick Feeney`
 - Salida: `P.F`
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Métodos de arreglo

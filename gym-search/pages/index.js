@@ -29,6 +29,9 @@ export async function getStaticProps() {
     'author',
     'coverImage',
     'excerpt',
+    'difficulties',
+    'projects',
+    'OAs',
   ])
 
   return {
