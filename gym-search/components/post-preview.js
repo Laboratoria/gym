@@ -40,35 +40,38 @@ export default function PostPreview({
       <p className="text-lg leading-relaxed mb-4" dangerouslySetInnerHTML={{__html: excerpt}} />
       {author && <Avatar name={author.name} picture={author.picture} />}
       {(difficulties?.length || projects?.length || OAs?.length) && (
-        <dl class="mt-6 max-w-2xl mx-auto grid grid-cols-2 gap-x-6 gap-y-10 lg:max-w-none lg:grid-cols-3 lg:gap-x-8">
+        <dl className="mt-6 max-w-2xl mx-auto grid grid-cols-2 gap-x-6 gap-y-10 lg:max-w-none lg:grid-cols-3 lg:gap-x-8">
           {difficulties?.length && (
-            <div class="border-t border-gray-200 pt-4">
-              <dt class="font-medium text-gray-900">Dificultad</dt>
-              <dd class="mt-2 text-sm text-gray-500">{difficulties.map((it) => (
+            <div className="border-t border-gray-200 pt-4">
+              <dt className="font-medium text-gray-900">Dificultad</dt>
+              <dd className="mt-2 text-sm text-gray-500">{difficulties.map((it) => (
                 <span
-                  class="px-4 py-2 rounded-full text-gray-500 bg-gray-200 font-semibold text-sm flex align-center w-max cursor-pointer active:bg-gray-300 transition duration-300 ease">
+                  key={it}
+                  className="px-4 py-2 rounded-full text-gray-500 bg-gray-200 font-semibold text-sm flex align-center w-max cursor-pointer active:bg-gray-300 transition duration-300 ease">
                   {it}
                 </span>
               ))}</dd>
             </div>
           )}
           {OAs?.length && (
-            <div class="border-t border-gray-200 pt-4">
-              <dt class="font-medium text-gray-900">OAs</dt>
-              <dd class="mt-2 text-sm text-gray-500">{OAs.map((it) => (
+            <div className="border-t border-gray-200 pt-4">
+              <dt className="font-medium text-gray-900">OAs</dt>
+              <dd className="mt-2 text-sm text-gray-500">{OAs.map((it) => (
                 <span
-                  class="px-4 py-2 rounded-full text-gray-500 bg-gray-200 font-semibold text-sm flex align-center w-max cursor-pointer active:bg-gray-300 transition duration-300 ease">
+                  key={it}
+                  className="px-4 py-2 rounded-full text-gray-500 bg-gray-200 font-semibold text-sm flex align-center w-max cursor-pointer active:bg-gray-300 transition duration-300 ease">
                   {it}
                 </span>
               ))}</dd>
             </div>
           )}
           {projects?.length && (
-            <div class="border-t border-gray-200 pt-4">
-              <dt class="font-medium text-gray-900">Proyectos</dt>
-              <dd class="mt-2 text-sm text-gray-500">{projects.map((it) => (
+            <div className="border-t border-gray-200 pt-4">
+              <dt className="font-medium text-gray-900">Proyectos</dt>
+              <dd className="mt-2 text-sm text-gray-500">{projects.map((it) => (
                 <span
-                  class="px-4 py-2 rounded-full text-gray-500 bg-gray-200 font-semibold text-sm flex align-center w-max cursor-pointer active:bg-gray-300 transition duration-300 ease">
+                  key={it}
+                  className="px-4 py-2 rounded-full text-gray-500 bg-gray-200 font-semibold text-sm flex align-center w-max cursor-pointer active:bg-gray-300 transition duration-300 ease">
                   {it}
                 </span>
               ))}</dd>

@@ -11,7 +11,7 @@ import Head from 'next/head'
 import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 
-export default function Post({ post, morePosts, preview }) {
+export default function Post({ post, moreExercises, preview }) {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
@@ -74,10 +74,10 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const posts = getAllExercises(['slug'])
+  const exercises = getAllExercises(['slug'])
 
   return {
-    paths: posts.map((post) => {
+    paths: exercises.map((post) => {
       return {
         params: {
           slug: post.slug,

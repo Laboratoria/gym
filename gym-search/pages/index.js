@@ -1,11 +1,14 @@
+import lunr from 'lunr';
 import Container from '../components/container'
 import MoreStories from '../components/more-stories'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllExercises } from '../lib/api'
 import Head from 'next/head'
+import { useState } from 'react';
 
-export default function Index({ allPosts }) {
+export default function Index({ allExercises }) {
+  const [exercises, setExercises] = useState(allExercises);
   return (
     <>
       <Layout>
@@ -13,8 +16,8 @@ export default function Index({ allPosts }) {
           <title>Ejercicios del gimnasio</title>
         </Head>
         <Container>
-          <Intro />
-          {allPosts.length > 0 && <MoreStories posts={allPosts} />}
+          <Intro setExercises={setExercises} />
+          {!!exercises?.length && <MoreStories exercises={exercises} />}
         </Container>
       </Layout>
     </>
@@ -22,7 +25,7 @@ export default function Index({ allPosts }) {
 }
 
 export async function getStaticProps() {
-  const allPosts = getAllExercises([
+  const allExercises = getAllExercises([
     'title',
     'date',
     'slug',
@@ -32,9 +35,11 @@ export async function getStaticProps() {
     'difficulties',
     'projects',
     'OAs',
-  ])
+  ])  
 
   return {
-    props: { allPosts },
+    props: {
+      allExercises,
+    },
   }
 }
