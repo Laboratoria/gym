@@ -5,7 +5,7 @@ import PostBody from '../../components/post-body'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
-import { getPostBySlug, getAllPosts } from '../../lib/api'
+import { getExerciseBySlug, getAllExercises } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Head from 'next/head'
 import { CMS_NAME } from '../../lib/constants'
@@ -27,9 +27,11 @@ export default function Post({ post, morePosts, preview }) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Next.js Blog Example with {CMS_NAME}
+                  {post.title} | Ejercicios | Gimnasio
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
+                {post.ogImage && (
+                  <meta property="og:image" content={post.ogImage.url} />
+                )}
               </Head>
               <PostHeader
                 title={post.title}
@@ -47,7 +49,7 @@ export default function Post({ post, morePosts, preview }) {
 }
 
 export async function getStaticProps({ params }) {
-  const post = getPostBySlug(params.slug, [
+  const post = getExerciseBySlug(params.slug, [
     'title',
     'date',
     'slug',
@@ -69,7 +71,7 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(['slug'])
+  const posts = getAllExercises(['slug'])
 
   return {
     paths: posts.map((post) => {

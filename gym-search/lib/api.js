@@ -14,6 +14,10 @@ export function getExerciseBySlug(slug, fields = []) {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
 
+  if (!content) {
+    content = fileContents;
+  }
+
   // Override function
   const renderer = {
     heading(text, level) {
