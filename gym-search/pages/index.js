@@ -1,4 +1,3 @@
-import lunr from 'lunr';
 import Container from '../components/container'
 import MoreStories from '../components/more-stories'
 import Intro from '../components/intro'

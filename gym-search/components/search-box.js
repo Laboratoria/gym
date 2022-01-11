@@ -1,21 +1,26 @@
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect } from "react";
 // import {useDebounce} from 'use-debounce'
 import lunr from 'lunr';
 
 import allExercises from '../data/all-exercises.json';
 import searchIndexData from '../data/search-index.json';
+import toast from "react-hot-toast";
 
 const searchIndex = lunr.Index.load(searchIndexData)
 
 export default function SearchBox({ setExercises }) {
 
   const [searchTerm, setSearchTerm] = useState("");
-
   useEffect(
     () => {
-      let result = searchIndex.search(searchTerm);
-      result = result.map((r) => allExercises.find((it) => it.slug === r.ref));
-      setExercises(result);
+      try {
+        let result = searchIndex.search(searchTerm);
+        result = result.map((r) => allExercises.find((it) => it.slug === r.ref));
+        setExercises(result);
+      } catch(e) {
+        console.error(e.message)
+        toast.error(e.message)
+      }
     }
   , [searchTerm])
 

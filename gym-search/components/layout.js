@@ -1,4 +1,4 @@
-import Alert from '../components/alert'
+import { Toaster } from 'react-hot-toast';
 import Footer from '../components/footer'
 import Meta from '../components/meta'
 
@@ -10,6 +10,7 @@ export default function Layout({ preview, children }) {
         <main>{children}</main>
       </div>
       <Footer />
+      <Toaster />
     </>
   )
 }
