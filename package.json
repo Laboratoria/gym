@@ -16,7 +16,9 @@
     "eslint": "eslint --ext .js exercises/",
     "pretest": "npm run mdlint && npm run eslint",
     "eslint:fix": "npm run eslint -- --fix",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "predeploy": "cd gym-search && yarn build",
+    "deploy": "vercel"
   },
   "repository": {
     "type": "git",
