@@ -23,7 +23,7 @@ Todos los teléfonos móviles son robots.__
 Por lo tanto podemos concluir:
 > a) Todos los teléfonos móviles son malvados.  
 > b) Todos los robots son teléfonos móviles.  
-> c) Algunos teléfonos móviles son malos.  
+> c) Algunos teléfonos móviles son malvados.  
 > d) Ninguna de las anteriores.
 
 __3)Todos los errores son software de computadora deficiente.  
