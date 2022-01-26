@@ -39,11 +39,11 @@ palabra en el [diccionario de español](https://dle.rae.es/).
 
 ### M A Ñ A
 
-Convierte la palabra CURA en la palabra PERÚ en 3 pasos o menos. Sólo debes
+Convierte la palabra CUBA en la palabra PERÚ en 3 pasos o menos. Sólo debes
 cambiar una letra de la palabra en cada paso. Cada paso debe crear una
 palabra en el [diccionario de español](https://dle.rae.es/).
 
-### C U R A
+### C U B A
 
 ### \_ \_ \_ \_
 
