@@ -47,7 +47,7 @@ Por lo tanto podemos concluir:
 
 >Los __silogismos__ son una base importante del pensamiento lógico, pensar
 con claridad comienza con la comprensión de los [silogismos](https://es.wikipedia.org/wiki/Silogismo), gran parte de los
-razonamiento erróneo involucra a personas que creen que los silogismos erróneos
+razonamientos erróneos consisten en creer que los silogismos defectuosos
 son verdaderos.
 Obtener el software correcto puede implicar este tipo de pensamiento claro sobre
 las consecuencias del código.
