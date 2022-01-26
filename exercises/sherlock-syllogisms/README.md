@@ -1,45 +1,56 @@
+---
+difficulty:
+  - no-code
+OAs:
+  - algoritmos
+projects:
+  - cipher
+  - card validation
+---
+
 # Sherlock syllogisms
 
-[https://bit.ly/3nY4eKa](https://bit.ly/3nY4eKa)
+[Booklet CS4FN Issue 1 - Reto 4 - Página 4](https://cs4fndownloads.files.wordpress.com/2016/02/cs4fnpuzzlebook11.pdf)
 * * *
 
-Silogismo: es un tipo de razonamiento deductivo que hace parte de la lógica de
-origen griego, es un rompecabezas lógico en el que obtienes una conclusión.
-Tu objetivo en este ejercicio es seleccionar la letra que mejor complete el
-enunciado.
+Silogismo (del griego syllogismos, 'conclusión, inferencia'): es un rompecabezas
+lógico en el que se extrae una conclusión a partir de unos hechos concretos y
+sólo de esos hechos.
+
+Dados los siguientes hechos, identifique la letra que mejor completa el enunciado.
 
 ¡Comenzamos!
 
-__1)Todas las gemas en el juego son compras costosas en el juego.  
-Todos los rubíes del juego son gemas.__  
+__1)Todas las gemas son caras.
+Todos los rubíes son gemas.__
 Por lo tanto podemos concluir:
-> a) Algunos rubíes en el juego son compras costosas en el juego.  
-> b) Todos los rubíes en el juego son compras costosas dentro del juego.  
-> c) Algunas gemas en el juego son compras costosas en el juego.  
+> a) Algunos rubíes son caros
+> b) Todos los rubíes son caros.
+> c) Algunas gemas son caras.
 > d) Ninguna de las anteriores.
 
-__2)Ningún robot es malvado.  
-Todos los teléfonos móviles son robots.__  
+__2)Ningún robot es malvado.
+Todos los teléfonos móviles son robots.__
 Por lo tanto podemos concluir:
-> a) Todos los teléfonos móviles son malvados.  
-> b) Todos los robots son teléfonos móviles.  
-> c) Algunos teléfonos móviles son malos.  
+> a) Todos los teléfonos móviles son malvados.
+> b) Todos los robots son teléfonos móviles.
+> c) Algunos teléfonos móviles son malos.
 > d) Ninguna de las anteriores.
 
-__3)Todos los errores son software de computadora deficiente.  
-Algunos errores de redondeo son errores.__  
+__3)Todos los errores son software de computadora deficiente.
+Algunos errores de redondeo son errores.__
 Por lo tanto podemos concluir:
-> a) Todos los errores de redondeo son software de computadora deficiente.  
-> b) Algunos errores de redondeo son software de computadora deficiente.  
-> c) Algunos errores de redondeo son falsos.  
+> a) Todos los errores de redondeo son software de computadora deficiente.
+> b) Algunos errores de redondeo son software de computadora deficiente.
+> c) Algunos errores de redondeo son falsos.
 > d) Ninguna de las anteriores.
 
-__4)Todas las cosas educativas son útiles.  
-Algunos sitios web no son útiles.__  
+__4)Todas las cosas educativas son útiles.
+Algunos sitios web no son útiles.__
 Por lo tanto podemos concluir:
-> a) Algunos sitios web no son educativos.  
-> b) Todos los sitios web son educativos.  
-> c) Todas las cosas educativas no son sitios web.  
+> a) Algunos sitios web no son educativos.
+> b) Todos los sitios web son educativos.
+> c) Todas las cosas educativas no son sitios web.
 > d) Ninguna de las anteriores.
 * * *
 
