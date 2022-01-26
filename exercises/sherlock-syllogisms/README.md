@@ -49,8 +49,7 @@ Por lo tanto podemos concluir:
 con claridad comienza con la comprensión de los [silogismos](https://es.wikipedia.org/wiki/Silogismo), gran parte de los
 razonamientos erróneos consisten en creer que los silogismos defectuosos
 son verdaderos.
-Obtener el software correcto puede implicar este tipo de pensamiento claro sobre
-las consecuencias del código.
+Hacer que el software haga las cosas bien, involucra el uso de este tipo de pesamiento para predecir las consecuencias de tu código.
 * * *
 
 ## Objetivos de aprendizaje (OAs)
