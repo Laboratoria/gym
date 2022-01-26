@@ -46,7 +46,7 @@ Por lo tanto podemos concluir:
 ## Un poco de sabiduría del pensamiento computacional❗
 
 >Los __silogismos__ son una base importante del pensamiento lógico, pensar
-claramente comienza con la comprensión de los silogismos, gran parte del
+con claridad comienza con la comprensión de los [silogismos](https://es.wikipedia.org/wiki/Silogismo), gran parte de los
 razonamiento erróneo involucra a personas que creen que los silogismos erróneos
 son verdaderos.
 Obtener el software correcto puede implicar este tipo de pensamiento claro sobre
