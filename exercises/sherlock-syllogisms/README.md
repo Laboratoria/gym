@@ -10,36 +10,36 @@ enunciado.
 
 ¡Comenzamos!
 
-__1)Todas las gemas en el juego son compras costosas en el juego.
-Todos los rubíes del juego son gemas.__
+__1)Todas las gemas en el juego son compras costosas en el juego.  
+Todos los rubíes del juego son gemas.__  
 Por lo tanto podemos concluir:
-> a) Algunos rubíes en el juego son compras costosas en el juego.
-> b) Todos los rubíes en el juego son compras costosas dentro del juego.
-> c) Algunas gemas en el juego son compras costosas en el juego.
+> a) Algunos rubíes en el juego son compras costosas en el juego.  
+> b) Todos los rubíes en el juego son compras costosas dentro del juego.  
+> c) Algunas gemas en el juego son compras costosas en el juego.  
 > d) Ninguna de las anteriores.
 
-__2)Ningún robot es malvado.
-Todos los teléfonos móviles son robots.__
+__2)Ningún robot es malvado.  
+Todos los teléfonos móviles son robots.__  
 Por lo tanto podemos concluir:
-> a) Todos los teléfonos móviles son malvados.
-> b) Todos los robots son teléfonos móviles.
-> c) Algunos teléfonos móviles son malos.
+> a) Todos los teléfonos móviles son malvados.  
+> b) Todos los robots son teléfonos móviles.  
+> c) Algunos teléfonos móviles son malos.  
 > d) Ninguna de las anteriores.
 
-__3)Todos los errores son software de computadora deficiente.
-Algunos errores de redondeo son errores.__
+__3)Todos los errores son software de computadora deficiente.  
+Algunos errores de redondeo son errores.__  
 Por lo tanto podemos concluir:
-> a) Todos los errores de redondeo son software de computadora deficiente.
-> b) Algunos errores de redondeo son software de computadora deficiente.
-> c) Algunos errores de redondeo son falsos.
+> a) Todos los errores de redondeo son software de computadora deficiente.  
+> b) Algunos errores de redondeo son software de computadora deficiente.  
+> c) Algunos errores de redondeo son falsos.  
 > d) Ninguna de las anteriores.
 
-__4)Todas las cosas educativas son útiles.
-Algunos sitios web no son útiles.__
+__4)Todas las cosas educativas son útiles.  
+Algunos sitios web no son útiles.__  
 Por lo tanto podemos concluir:
-> a) Algunos sitios web no son educativos.
-> b) Todos los sitios web son educativos.
-> c) Todas las cosas educativas no son sitios web.
+> a) Algunos sitios web no son educativos.  
+> b) Todos los sitios web son educativos.  
+> c) Todas las cosas educativas no son sitios web.  
 > d) Ninguna de las anteriores.
 * * *
 
