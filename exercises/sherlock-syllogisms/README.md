@@ -34,7 +34,7 @@ Todos los teléfonos móviles son robots.__
 Por lo tanto podemos concluir:
 > a) Todos los teléfonos móviles son malvados.
 > b) Todos los robots son teléfonos móviles.
-> c) Algunos teléfonos móviles son malos.
+> c) Algunos teléfonos móviles son malvados.
 > d) Ninguna de las anteriores.
 
 __3)Todos los errores son software de computadora deficiente.
@@ -57,11 +57,10 @@ Por lo tanto podemos concluir:
 ## Un poco de sabiduría del pensamiento computacional❗
 
 >Los __silogismos__ son una base importante del pensamiento lógico, pensar
-claramente comienza con la comprensión de los silogismos, gran parte del
-razonamiento erróneo involucra a personas que creen que los silogismos erróneos
+con claridad comienza con la comprensión de los [silogismos](https://es.wikipedia.org/wiki/Silogismo), gran parte de los
+razonamientos erróneos consisten en creer que los silogismos defectuosos
 son verdaderos.
-Obtener el software correcto puede implicar este tipo de pensamiento claro sobre
-las consecuencias del código.
+Hacer que el software haga las cosas bien, involucra el uso de este tipo de pesamiento para predecir las consecuencias de tu código.
 * * *
 
 ## Objetivos de aprendizaje (OAs)
