@@ -1,0 +1,71 @@
+# Sesión 1 
+
+## Ejercicios
+
+### No code
+
+- [**Sherlock syllogisms**](../../exercises/sherlock-syllogisms/README.md)
+- [**Word ladders**](../../exercises/word-ladders/README.md)
+- [**The tour guide**](../../exercises/the-tour-guide/README.md)
+
+### Newbie
+
+- [**Hello name**](../../ exercises/hello-name/README.md)
+- [**Int max**](../../exercises/int-max/README.md)
+- [**First last 6**](../../exercises/first-last-6/README.md)
+
+### Beginner
+
+- [**Return Something to Me**](../../exercises/return-something-warmup)
+
+
+## Kahoot
+
+[https://create.kahoot.it/share/season-1/78f177de-e4c9-4ed1-a5bf-7116b4eefa60](https://create.kahoot.it/share/season-1/78f177de-e4c9-4ed1-a5bf-7116b4eefa60)
+
+1. ¿Cual es un operador lógico?
+
+   - [ ] `++`
+   - [ ] `+=`
+   - [x] `||`
+   - [ ] `!!`
+
+2. ¿Cual no es un método de los strings?
+
+   - [ ] `split()`
+   - [x] `join()`
+   - [ ] `slice()`
+   - [ ] `substring()`
+
+3. ¿Para qué sirve el método push de los arreglos?
+
+   - [x] push nos sirve para añadir 1 o más nuevos elementos al final de un arreglo.
+   - [ ] No es método de los arreglos.
+   - [ ] push nos sirve para añadir un nuevo elemento al final de un arreglo.
+   - [ ] Push nos sirve para añadir 1 o más nuevos elementos al inicio de un arreglo.
+
+4. No hay diferencias entre parámetros y argumentos
+
+   - [ ] true
+   - [x] false
+
+5. ¿Cuál de estas instrucciones está incorrectamente escrita en Javascript?
+
+   - [ ] `if (a == 0) alert(“Hola mundo”);`
+   - [x] `if (a = 0) alert(“Hola mundo”);`
+   - [ ] `if (a == 0) { alert(“Hola mundo”) }`
+   - [ ] `if (a === 0) alert(‘Hola mundo’);`
+
+6. ¿Cuál sería el resultado de `3 + 2 + "7"` en Javascript?
+
+   - [ ] 12
+   - [ ] Lanza un error
+   - [ ] 327
+   - [x] 57
+
+7. ¿Qué valor retorna una función cuando no existe la instrucción return?
+
+   - [ ] Arroja un error al invocar la función
+   - [ ] Retorna null
+   - [x] Retorna undefined
+   - [ ] Ninguna de las anteriores
