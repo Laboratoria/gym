@@ -12,11 +12,11 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=firstLast6&title=Array-1](https://the-winter.github.io/codingjs/exercise.html?name=firstLast6&title=Array-1)
 
-Implementa la funcion firstLast6 para que dado un arreglo de ints,
+Implementa la función firstLast6 que recibe un arreglo con números y
 retorne true si el número 6 es el primer o el último elemento
 del arreglo. El arreglo tendrá 1 o más elementos.
 
-__Ejemplo__
+__Ejemplo:__
 
 ```js
     firstLast6([1, 2, 6]) → true
