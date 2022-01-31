@@ -2,8 +2,8 @@
 difficulty:
   - newbie
 OAs:
-  - Condicionales
-  - Funciones
+  - conditionals
+  - functions
 projects:
   - cipher
   - card validation
@@ -13,7 +13,7 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=intMax&title=Warmup-1](https://the-winter.github.io/codingjs/exercise.html?name=intMax&title=Warmup-1)
 
-Completa la función intMax que recibe tres valores tipo
+Completa la función `intMax` que recibe tres valores tipo
 int, a b c y retorna el mayor.
 
 __Ejemplo__
