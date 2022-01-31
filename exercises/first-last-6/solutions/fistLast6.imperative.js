@@ -1,3 +1,7 @@
 function firstLast6(nums) {
-  return nums[0] === 6 || nums[nums.length - 1] === 6;
+  const end = nums.length - 1;
+  if (nums[0] === 6 || nums[end] === 6) {
+    return true;
+  }
+  return false;
 }
