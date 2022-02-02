@@ -2,6 +2,10 @@
 
 ## Cipher / Card Validation - strings, loops, regex
 
+### No code
+
+- [**Sherlock Syllogisms**](./sherlock-syllogisms/README.md)
+
 ### Warm-up
 
 - [**Star Lovers**](./star-lovers-warmup/README.md)
