@@ -22,7 +22,3 @@ __Ejemplo__
     helloName('Alice') → Hello Alice!
     helloName('X') → Hello X!
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Strings
