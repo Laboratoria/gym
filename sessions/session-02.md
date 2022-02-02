@@ -1,23 +1,22 @@
-# Sesión 1 
+# Sesión 1
 
 ## Ejercicios
 
 ### No code
 
-- [**Sherlock syllogisms**](../../exercises/sherlock-syllogisms/README.md)
-- [**Word ladders**](../../exercises/word-ladders/README.md)
-- [**The tour guide**](../../exercises/the-tour-guide/README.md)
+- [**Sherlock syllogisms**](../exercises/sherlock-syllogisms/README.md)
+- [**Word ladders**](../exercises/word-ladders/README.md)
+- [**The tour guide**](../exercises/the-tour-guide/README.md)
 
 ### Newbie
 
-- [**Hello name**](../../ exercises/hello-name/README.md)
-- [**Int max**](../../exercises/int-max/README.md)
-- [**First last 6**](../../exercises/first-last-6/README.md)
+- [**Hello name**](../ exercises/hello-name/README.md)
+- [**Int max**](../exercises/int-max/README.md)
+- [**First last 6**](../exercises/first-last-6/README.md)
 
 ### Beginner
 
-- [**Return Something to Me**](../../exercises/return-something-warmup)
-
+- [**Return Something to Me**](../exercises/return-something-warmup)
 
 ## Kahoot
 
