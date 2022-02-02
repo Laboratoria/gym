@@ -23,7 +23,3 @@ __Ejemplo:__
     firstLast6([6, 1, 2, 3]) → true
     firstLast6([13, 6, 1, 2, 3]) → false
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Arreglos
