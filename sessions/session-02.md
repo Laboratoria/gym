@@ -20,7 +20,7 @@
 
 ## Kahoot
 
-[https://create.kahoot.it/share/season-1/78f177de-e4c9-4ed1-a5bf-7116b4eefa60](https://create.kahoot.it/share/season-1/78f177de-e4c9-4ed1-a5bf-7116b4eefa60)
+[https://create.kahoot.it/details/c6f02512-5052-48d6-8f14-1ab7b1aada39](https://create.kahoot.it/details/c6f02512-5052-48d6-8f14-1ab7b1aada39)
 
 1. ¿Cual es un operador lógico?
 
