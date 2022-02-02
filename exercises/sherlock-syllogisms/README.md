@@ -10,7 +10,7 @@ projects:
 
 # Sherlock syllogisms
 
-[Booklet CS4FN Issue 1 - Reto 4 - Página 4](https://cs4fndownloads.files.wordpress.com/2016/02/cs4fnpuzzlebook11.pdf)
+[Booklet CS4FN Issue 1 - Reto 4 - Página 4](https://cs4fndownloads.files.wordpress.com/2016/02/cs4fnpuzzlebook11.pdf#page=4)
 * * *
 
 Silogismo (del griego syllogismos, 'conclusión, inferencia'): es un rompecabezas

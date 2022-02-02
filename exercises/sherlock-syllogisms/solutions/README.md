@@ -1,7 +1,7 @@
 # Solutions sherlock syllogisms
 
 > 1 )
-> __b: todos los rubíes en el juego son compras caras dentro del juego.__
+> __b: todos los rubíes son caros.__
 > >(a) y (c) también son verdaderas aunque dan menos información
 * * *
 
