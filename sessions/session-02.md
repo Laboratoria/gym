@@ -1,4 +1,4 @@
-# Sesión 1 
+# Sesión 1
 
 ## Ejercicios
 
@@ -17,7 +17,6 @@
 ### Beginner
 
 - [**Return Something to Me**](../../exercises/return-something-warmup)
-
 
 ## Kahoot
 
