@@ -4,7 +4,6 @@ function comboString(a, b) {
 
   if (lengthA > lengthB) {
     return b + a + b;
-  } else {
-    return a + b + a;
   }
+  return a + b + a;
 }
