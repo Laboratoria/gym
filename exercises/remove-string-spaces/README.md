@@ -1,3 +1,13 @@
+---
+difficulty:
+  - beginner
+OAs:
+  - strings
+projects:
+  - cipher
+  - card validation
+---
+
 # Remove String Spaces
 
 [https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)
@@ -16,7 +26,3 @@ noSpace('8aaaaa dddd r     ') ➞ '8aaaaaddddr'
 > __Importante__ ❗
 >
 > - Las cadenas pasadas solo constarán de letras y espacios.
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
