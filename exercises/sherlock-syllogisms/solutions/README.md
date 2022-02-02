@@ -10,7 +10,7 @@
 * * *
 
 > 3 )
-> __b: Algunos errores de redondeo son un software informático deficiente.__
+> __b: Algunos errores de redondeo son mal código.__
 * * *
 
 > 4 )
