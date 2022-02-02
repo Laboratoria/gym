@@ -1,3 +1,13 @@
+---
+difficulty:
+  - beginner
+OAs:
+  - strings
+projects:
+  - cipher
+  - card validation
+---
+
 # Same on both ends
 
 [https://edabit.com/challenge/JDDeK9jSFKJbfzhMt](https://edabit.com/challenge/JDDeK9jSFKJbfzhMt)
@@ -23,8 +33,3 @@ Notas
   coincidir con la "p" minúscula.
 - Ten ojo con los signos de puntuación u otros caracteres que no sean letras.
 - ¡“Puntos” extra si usas expresiones regulares!
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Uso de expresiones regulares

@@ -1,3 +1,13 @@
+---
+difficulty:
+  - beginner
+OAs:
+  - arrays
+projects:
+  - cipher
+  - card validation
+---
+
 # Secret Society
 
 [https://edabit.com/challenge/zQm9YZTTFPhNtYjDr](https://edabit.com/challenge/zQm9YZTTFPhNtYjDr)
@@ -19,8 +29,3 @@ societyName(["Phoebe", "Chandler", "Rachel", "Ross", "Monica", "Joey"]) ➞ "CJM
 > __Importante__ ❗
 >
 > El nombre de la sociedad secreta debe ser enteramente en mayúsculas.
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Métodos de arrays
