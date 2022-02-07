@@ -13,17 +13,17 @@ projects:
 
 [https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/javascript](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/javascript)
 
-Escribe una función que convierte un nombre en iniciales. Esta función toma
-exactamente dos palabras con un espacio entre ellos.
+Escreva uma função que converte um nome em iniciais. Esta função leva
+exatamente duas palavras com um espaço entre elas.
 
-La salida debe ser dos letras capitalizadas con un punto que las separa.
+A saída deve ser duas letras maiúsculas com um ponto separando-as.
 
-__Ejemplo 1__
+__Exemplo 1__
 
 - Entrada: `Sam Harris`
-- Salida: `S.H`
+- Saída: `S.H`
 
-__Ejemplo 2__
+__Exemplo 2__
 
 - Entrada: `Patrick Feeney`
-- Salida: `P.F`
+- Saída: `P.F`

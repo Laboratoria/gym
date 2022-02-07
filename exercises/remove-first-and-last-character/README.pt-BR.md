@@ -13,11 +13,11 @@ projects:
 
 [https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript)
 
-El objetivo es crear una función que elimine el primer y último carácter del string.
-La función tiene como parámetro un string 'str'. No tienes que preocuparte por
-cadenas con menos de dos caracteres.
+O objetivo é criar uma função que remova o primeiro e o último caractere da corda.
+A função tem como parâmetro uma string 'str'. Você não tem que se preocupar com
+cordas com menos de dois caracteres.
 
-__Ejemplos__
+__Exemplos__
 
 ```js
 removeChar('eloquent') ➞ 'loquen';
