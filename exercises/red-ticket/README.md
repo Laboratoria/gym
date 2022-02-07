@@ -12,9 +12,9 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=redTicket&title=Logic-1](https://the-winter.github.io/codingjs/exercise.html?name=redTicket&title=Logic-1)
 
-Tienes un billete de lotería rojo que muestra los enteros a, b y c, cada uno
+Tienes un billete de lotería rojo que muestra los enteros `a`, `b` y `c`, cada uno
 de los cuales es 0, 1 o 2. Si todos tienen el valor 2, el resultado es 10.
-Si son todos iguales, el resultado es 5. Si b y c son diferentes de a, el
+Si son todos iguales, el resultado es 5. Si `b` y `c` son diferentes de `a`, el
 resultado es 1. Si no, el resultado es 0.
 
 __Ejemplo__
