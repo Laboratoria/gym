@@ -13,11 +13,11 @@ projects:
 
 [https://www.codewars.com/kata/5872d59caa042821100001f8/train/javascript](https://www.codewars.com/kata/5872d59caa042821100001f8/train/javascript)
 
-Escribe una función que reciba dos cadenas como parámetros e iteralas para
-trasformar la cadena `source` y termine convertida en la cadena `target` el
-resultado de cada iteración guardalo en un arreglo.
+Escreva uma função que receba duas cordas como parâmetros e as itere para
+transformam a string "fonte" e terminam convertendo-a para a string "alvo".
+resultado de cada iteração armazenam-no em uma matriz.
 
-__Ejemplos__
+__Exemplos__
 
 ```js
 transform('car','see') ➞ ["car", "sar", "ser", "see"]
@@ -27,8 +27,8 @@ transform('kata','math') ➞ ["kata", "mata", "math"]
 ```
 
 > __Importante__ ❗
->
-> - Deberás retornar un array con los strings correspondientes a cada iteración
-> - `source` y `target` siempre tendrán la misma longitud
-> - Si una letra  de `source` coincide al momento de iterar con otra letra de `target`
-> entonces no hay transformación de letras
+
+> - Você deve devolver uma matriz com as cordas correspondentes a cada iteração.
+> - "fonte" e "alvo" terão sempre o mesmo comprimento
+> - Se uma letra em 'fonte' corresponder a outra letra em 'alvo' no momento da iteração
+> então não há transformação de cartas

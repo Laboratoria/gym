@@ -16,8 +16,6 @@
 
 - [**Return Something to Me**](./return-something-warmup/README.md)
 - [**Star Lovers**](./star-lovers-warmup/README.md)
-- [**Abbreviate a Two Word Name**](./abbreviation/README.md)
-- [**Remove First and Last Character**](./remove-first-and-last-character/README.md)
 - [**Odd or Even**](./odd-or-even/README.md)
 - [**Moving Zeros To The End**](./move-zeros/README.md)
 
@@ -25,8 +23,6 @@
 
 - [**Star Lovers 2**](./star-lovers-challenge/README.md)
 - [**SpongeBob MeMe**](./spongebob-meme/README.md)
-- [**Transformation iteration!**](./transformation-iteration/README.md)
-- [**Ask for missing details**](./ask-for-missing-details/README.md)
 - [**Create Phone Number**](./create-phone-number/README.md)
 - [**The Race Between Hare and Tortoise**](./hare-and-tortoise/README.md)
 
