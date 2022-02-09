@@ -5,6 +5,7 @@
 ### No code
 
 - [**Sherlock Syllogisms**](./sherlock-syllogisms/README.md)
+- [**Word Ladders**](./word-ladders/README.md)
 
 ### Beginner
 
