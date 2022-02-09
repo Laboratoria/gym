@@ -36,6 +36,10 @@
 
 ## Data Lovers / Red Social - arrays, loops, objects, sorting
 
+### Beginner
+
+- [**Job Matching**](./job-matching/README.md)
+
 ### Warm-up
 
 - [**Sort an array by parity**](./sort-array-by-parity/README.md)
