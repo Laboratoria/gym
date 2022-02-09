@@ -13,7 +13,7 @@ projects:
 [https://the-winter.github.io/codingjs/exercise.html?name=teenSum&title=Logic-1](https://the-winter.github.io/codingjs/exercise.html?name=teenSum&title=Logic-1)
 
 Dados 2 ints, `a` y `b`, devuelve su suma. Sin embargo, los valores "adolescentes"
-en el rango 13..19 inclusive, son más afortunados. Así que si cualquiera de
+en el rango desde 13 hasta 19 inclusive, son más afortunados. Así que si cualquiera de
 los valores es un adolescente, simplemente devuelve 19.
 
 __Ejemplo__

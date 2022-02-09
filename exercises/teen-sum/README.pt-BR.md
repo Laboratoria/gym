@@ -12,9 +12,10 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=teenSum&title=Logic-1](https://the-winter.github.io/codingjs/exercise.html?name=teenSum&title=Logic-1)
 
-Dadas 2 polegadas, `a` e `b`, devolvam sua soma. Entretanto, os valores dos
-"adolescentes na faixa 13..19 inclusive, são mais sortudos. Então, se
-qualquer um dos os valores são de um adolescente, basta retornar 19.
+Dadas 2 polegadas, `a` e `b`, devolvam sua soma. No entanto, os
+valores "adolescente" na faixa de 13 a 19 inclusive, são mais
+afortunados. Então, se qualquer um dos os valores é um adolescente,
+ele simplesmente retorna 19.
 
 __Exemplo__
 
