@@ -24,7 +24,6 @@
 
 - [**Star Lovers 2**](./star-lovers-challenge/README.md)
 - [**SpongeBob MeMe**](./spongebob-meme/README.md)
-- [**Create Phone Number**](./create-phone-number/README.md)
 - [**The Race Between Hare and Tortoise**](./hare-and-tortoise/README.md)
 
 ### Hacker Edition
@@ -36,6 +35,10 @@
 - [**Find Words**](./find-words/README.md)
 
 ## Data Lovers / Red Social - arrays, loops, objects, sorting
+
+### Beginner
+
+- [**Create Phone Number**](./create-phone-number/README.md)
 
 ### Warm-up
 
