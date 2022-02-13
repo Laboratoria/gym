@@ -2,7 +2,7 @@
 difficulty:
   - beginner
 OAs:
-  - objects
+  - arrays
 projects:
   - data lovers
   - memory match
