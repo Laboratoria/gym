@@ -13,12 +13,11 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=comboString&title=String-1](https://the-winter.github.io/codingjs/exercise.html?name=comboString&title=String-1)
 
-Implementar a função `comboString` para que ela receba duas cordas, a e b, e
-retornar um fio da forma `curto + longo + curto`, com o fio mais curto no
-fio no exterior e o fio mais longo no interior. As cordas não
-ser de igual comprimento, mas pode estar vazio (comprimento 0).
+Dadas 2 strings, a e b, retorne uma string no formato `curta+longa+curta`, com
+a string mais curta no exterior e a string mais longa no interior. As strings
+não terão o mesmo comprimento, mas podem estar vazias (comprimento 0).
 
-__Exemplo:__
+**Exemplo:**
 
 ```js
     comboString('Hello', 'hi') → "hiHellohi"

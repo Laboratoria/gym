@@ -13,8 +13,8 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=icyHot&title=Warmup-1](https://the-winter.github.io/codingjs/exercise.html?name=icyHot&title=Warmup-1)
 
-Dadas duas temperaturas, o retorno é verdadeiro se uma for inferior a 0 e a
-outra superior a 100.
+Dadas duas temperaturas, retorne `true` se uma for menor que 0 e a
+outra maior que 100.
 
 __Exemplos:__
 

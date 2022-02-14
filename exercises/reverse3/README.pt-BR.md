@@ -12,7 +12,7 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=reverse3&title=Array-1](https://the-winter.github.io/codingjs/exercise.html?name=reverse3&title=Array-1)
 
-Dado um array de inteiros de comprimento 3, devolva um novo array com os
+Dado um array de números inteiros de comprimento 3, retorne um novo array com os
 elementos em ordem inversa, de modo que `[1, 2, 3]`  se torne `[3, 2, 1]`.
 
 __Exemplos:__
