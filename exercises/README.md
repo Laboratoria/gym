@@ -18,7 +18,6 @@
 - [**Return Something to Me**](./return-something-warmup/README.md)
 - [**Star Lovers**](./star-lovers-warmup/README.md)
 - [**Odd or Even**](./odd-or-even/README.md)
-- [**Moving Zeros To The End**](./move-zeros/README.md)
 
 ### Challenge
 
@@ -39,6 +38,7 @@
 ### Beginner
 
 - [**Create Phone Number**](./create-phone-number/README.md)
+- [**Moving Zeros To The End**](./move-zeros/README.md)
 
 ### Warm-up
 
