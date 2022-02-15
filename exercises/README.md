@@ -23,7 +23,6 @@
 
 - [**Star Lovers 2**](./star-lovers-challenge/README.md)
 - [**SpongeBob MeMe**](./spongebob-meme/README.md)
-- [**Create Phone Number**](./create-phone-number/README.md)
 - [**The Race Between Hare and Tortoise**](./hare-and-tortoise/README.md)
 
 ### Hacker Edition
@@ -38,6 +37,7 @@
 
 ### Beginner
 
+- [**Create Phone Number**](./create-phone-number/README.md)
 - [**Moving Zeros To The End**](./move-zeros/README.md)
 
 ### Warm-up
