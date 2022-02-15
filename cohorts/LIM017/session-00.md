@@ -11,7 +11,7 @@
 
 | Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
 | ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
-| [**105. Otro nRueda de números**](https://www.cgtentubanco.org/bbva/2/rompecocos/rompecocos.htm)                                                  |  **no-code**        | `logic`           | <ul><li> Pensamiento lógico </li></ul>                                       |
+| [**105. Rueda de números**](https://www.cgtentubanco.org/bbva/2/rompecocos/rompecocos.htm)                                                  |  **no-code**        | `logic`           | <ul><li> Pensamiento lógico </li></ul>                                       |
 | [**89. Otro de ciclistas**](https://www.cgtentubanco.org/bbva/2/rompecocos/rompecocos_histo.htm)                                                  |  **no-code**        | `logic`           | <ul><li> Pensamiento lógico </li></ul>                                       |
 | [**99. Agudeza visual**](https://www.cgtentubanco.org/bbva/2/rompecocos/rompecocos_histo.htm)       | **no-code**        | `logic`,`homework`           | <ul><li> Pensamiento lógico </li><li> Ejercicio para hacer en casa </li></ul>                                       |
-| [**97.Otro cuadrado mágico**](https://www.cgtentubanco.org/bbva/2/rompecocos/rompecocos_histo.htm) | **no-code** | `logic`, `homework` | <ul><li> Pensamiento lógico</li><li> Ejercicio para hacer en casa </li></ul> |
+| [**97. cuadrado mágico**](https://www.cgtentubanco.org/bbva/2/rompecocos/rompecocos_histo.htm) | **no-code** | `logic`, `homework` | <ul><li> Pensamiento lógico</li><li> Ejercicio para hacer en casa </li></ul> |
