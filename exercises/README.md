@@ -40,6 +40,10 @@
 - [**Create Phone Number**](./create-phone-number/README.md)
 - [**Moving Zeros To The End**](./move-zeros/README.md)
 
+### Intermediate
+
+- [**Format words into a sentence**](./find-words/README.md)
+
 ### Warm-up
 
 - [**Sort an array by parity**](./sort-array-by-parity/README.md)
