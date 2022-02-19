@@ -41,12 +41,12 @@ let job = {
 }
 ```
 
-Para que la coincidencia sea válida, el salario mínimo de la candidata debe ser
-inferior o igual al salario máximo del puesto. Sin embargo, incluyamos también
-un 10% de margen flexible (restándose del salario mínimo de la candidata) en
-caso de que la candidata sea una estrella del rock que disfruta programando en
-LABORATORIA durante su tiempo libre, es posible que la empresa que ofrece el puesto
-pueda llegar a un acuerdo con ella.
+Para que la coincidencia sea válida, el salario deseado de la candidata debe ser
+inferior o igual al salario máximo del puesto por la empresa. Sin embargo,
+incluyamos también un 10% de margen flexible (restándose del salario mínimo de
+la candidata) en caso de que la candidata sea una estrella del rock que disfruta
+programando en LABORATORIA durante su tiempo libre, y esté dispuesta a reducir
+su aspiración salarial para llegar a un acuerdo con la empresa.
 
 __Ejemplo__
 
