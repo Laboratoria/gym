@@ -4,19 +4,19 @@
 
 ### No code
 
-- [**Sherlock syllogisms**](../exercises/sherlock-syllogisms/README.md)
-- [**Word ladders**](../exercises/word-ladders/README.md)
-- [**The tour guide**](../exercises/the-tour-guide/README.md)
+- [**Sherlock syllogisms**](../exercises/sherlock-syllogisms/)
+- [**Word ladders**](../exercises/word-ladders/)
+- [**The tour guide**](../exercises/the-tour-guide/)
 
 ### Newbie
 
-- [**Hello name**](../ exercises/hello-name/README.md)
-- [**Int max**](../exercises/int-max/README.md)
-- [**First last 6**](../exercises/first-last-6/README.md)
+- [**Hello name**](../exercises/hello-name/)
+- [**Int max**](../exercises/int-max/)
+- [**First last 6**](../exercises/first-last-6/)
 
 ### Beginner
 
-- [**Return Something to Me**](../exercises/return-something-warmup)
+- [**Return Something to Me**](../exercises/return-something-warmup/)
 
 ## Kahoot
 
