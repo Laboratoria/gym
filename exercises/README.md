@@ -5,6 +5,7 @@
 ### No code
 
 - [**Sherlock Syllogisms**](./sherlock-syllogisms/README.md)
+- [**Word Ladders**](./word-ladders/README.md)
 
 ### Beginner
 
@@ -17,13 +18,11 @@
 - [**Return Something to Me**](./return-something-warmup/README.md)
 - [**Star Lovers**](./star-lovers-warmup/README.md)
 - [**Odd or Even**](./odd-or-even/README.md)
-- [**Moving Zeros To The End**](./move-zeros/README.md)
 
 ### Challenge
 
 - [**Star Lovers 2**](./star-lovers-challenge/README.md)
 - [**SpongeBob MeMe**](./spongebob-meme/README.md)
-- [**Create Phone Number**](./create-phone-number/README.md)
 - [**The Race Between Hare and Tortoise**](./hare-and-tortoise/README.md)
 
 ### Hacker Edition
@@ -38,6 +37,8 @@
 
 ### Beginner
 
+- [**Create Phone Number**](./create-phone-number/README.md)
+- [**Moving Zeros To The End**](./move-zeros/README.md)
 - [**Job Matching**](./job-matching/README.md)
 
 ### Warm-up

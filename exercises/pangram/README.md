@@ -1,3 +1,13 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - objects
+projects:
+  - data-lovers
+  - memory-match
+---
+
 # Pangram
 
 [https://leetcode.com/problems/check-if-the-sentence-is-pangram/](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
@@ -26,7 +36,3 @@ Ejemplo 2
 > __Importante__ ❗
 >
 > - sentence consiste solo de letras del alfabeto Ingles.
-
-## Objetivos de aprendizaje (OAs)
-
-- Objetos (key, value)

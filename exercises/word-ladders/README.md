@@ -1,54 +1,53 @@
 ---
 difficulty:
   - no-code
-  - newbie
 OAs:
-  - algoritmos
+  - algorithms
 projects:
   - cipher
   - card validation
 ---
 
-# Escaleras de letras
+# Escaleras de Letras
 
 ## Ejercicios
 
-Convierte la palabra PALO en la palabra GATA en 2 pasos o menos. Sólo debes
-cambiar una letra de la palabra en cada paso. Cada paso debe crear una
-palabra en el [diccionario de español](https://dle.rae.es/).
+1. Convierte la palabra `PALO` en la palabra `GATA` en 2 pasos. Solo debes cambiar una letra de la palabra en cada paso. Cada paso debe crear una palabra válida del [diccionario de español](https://dle.rae.es/). Además, considera que el último paso que te lleva a la palabra final ya viene incorporado.
 
-### P A L O
+   ```
+   P A L O
 
-### \_ \_ \_ \_
+   _ _ _ _
 
-### \_ \_ \_ \_
+   _ _ _ _
 
-### G A T A
+   G A T A
+   ```
 
-Convierte la palabra DEMO en la palabra MAÑA en 3 pasos o menos. Sólo debes
-cambiar una letra de la palabra en cada paso. Cada paso debe crear una
-palabra en el [diccionario de español](https://dle.rae.es/).
+2. Convierte la palabra `DEMO` en la palabra `MAÑA` en 3 pasos. Solo debes cambiar una letra de la palabra en cada paso. Cada paso debe crear una palabra válida del [diccionario de español](https://dle.rae.es/). Además, considera que el último paso que te lleva a la palabra final ya viene incorporado.
 
-### D E M O
+   ```
+   D E M O
 
-### \_ \_ \_ \_
+   _ _ _ _
 
-### \_ \_ \_ \_
+   _ _ _ _
 
-### \_ \_ \_ \_
+   _ _ _ _
 
-### M A Ñ A
+   M A Ñ A
+   ```
 
-Convierte la palabra CUBA en la palabra PERÚ en 3 pasos o menos. Sólo debes
-cambiar una letra de la palabra en cada paso. Cada paso debe crear una
-palabra en el [diccionario de español](https://dle.rae.es/).
+3. Convierte la palabra `CUBA` en la palabra `PERÚ` en 3 pasos. Solo debes cambiar una letra de la palabra en cada paso. Cada paso debe crear una palabra válida del [diccionario de español](https://dle.rae.es/). Además, considera que el último paso que te lleva a la palabra final ya viene incorporado.
 
-### C U B A
+   ```
+   C U B A
 
-### \_ \_ \_ \_
+   _ _ _ _
 
-### \_ \_ \_ \_
+   _ _ _ _
 
-### \_ \_ \_ \_
+   _ _ _ _
 
-### P E R Ú
+   P E R Ú
+   ```

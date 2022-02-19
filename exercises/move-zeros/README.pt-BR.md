@@ -2,7 +2,7 @@
 difficulty:
   - beginner
 OAs:
-  - arrays
+  - objects
 projects:
   - data lovers
   - memory match
@@ -13,14 +13,14 @@ projects:
 
 [https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript)
 
-Escribe un algoritmo que recibe un arreglo con elementos y mueva todos los ceros
-al final, preservando el orden de los otros elementos que no sean cero.
+Escreva um algoritmo que receba um array com elementos e mova todos os zeros
+no final, preservando a ordem dos demais elementos não nulos.
 
-__Ejemplo__
+__Exemplo__
 
 ```js
-Entrada: [false,1,0,1,2,0,1,3,"a"]
-Salida: [false,1,1,2,1,3,"a",0,0]
+Entradas: [false,1,0,1,2,0,1,3,"a"]
+Resultados: [false,1,1,2,1,3,"a",0,0]
 ```
 
 > __Importante__ ❗
