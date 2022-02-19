@@ -53,7 +53,7 @@ __Ejemplo__
 ```js
 Entradas: {minSalary:190000} {maxSalary:171000}
 Salida: true
-Explicación: "La candidata establece un salario mínimo de 190000 menos 19000 correspondientes al 10% de margen nos quedan 171000 y esto es igual al salario máximo de 171000 por lo tanto retornamos true"
+Explicación: "La candidata establece un salario deseado de 190000 menos 19000 correspondientes al 10% de margen nos quedan 171000 y esto es igual al salario máximo de 171000 por lo tanto retornamos true"
 ```
 
 > __Importante__ ❗
