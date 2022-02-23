@@ -4,9 +4,17 @@
 
 ### Newbie
 
+[**Plus Two**](../exercises/plus-two/README.md)
 ### Beginner
 
+[**Job Matching**](../exercises/job-matching/README.md)
+
 ### Intermediate
+
+- [**Transformation iteration**](../exercises/transformation-iteration/README.md)
+- [**Ask for missing details**](../exercises/ask-for-missing-details/README.md)
+- [**Array diff**](../exercises/array-diff/README.md)
+- [**Pangram**](../exercises/pangram/README.md)
 
 ## Kahoot
 
