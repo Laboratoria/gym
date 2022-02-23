@@ -12,8 +12,8 @@ projects:
 
 [https://www.codewars.com/kata/51689e27fe9a00b126000004](https://www.codewars.com/kata/51689e27fe9a00b126000004)
 
-Função completa que adiciona formatação às palavras em um único valor
-separados por vírgulas.
+Implement a function that, given an array of words, returns a string with the
+words separated by commas.  
 A última palavra deve ser separada pela palavra 'and' em vez de
 uma vírgula.
 O método recebe um array de strings e retorna apenas uma string formatada.

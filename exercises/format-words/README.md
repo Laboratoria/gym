@@ -12,8 +12,8 @@ projects:
 
 [https://www.codewars.com/kata/51689e27fe9a00b126000004](https://www.codewars.com/kata/51689e27fe9a00b126000004)
 
-Completa la función que agrega el formato a las palabras en un único valor
-separado por comas.
+Implementa una función que dado un arreglo de palabras devuelve una cadena con
+las palabras separadas con comas.  
 La última palabra debería estar separada por la palabra 'and' en lugar de
 una coma.
 El método recibe un array de cadenas y devuelve solo una cadena formateada.
