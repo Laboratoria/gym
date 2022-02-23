@@ -5,9 +5,10 @@ OAs:
   - arrays
 projects:
   - data lovers
+  - memory match
 ---
 
-# teenSum
+# plusTwo
 
 [https://the-winter.github.io/codingjs/exercise.html?name=plusTwo&title=Array-1](https://the-winter.github.io/codingjs/exercise.html?name=plusTwo&title=Array-1)
 
