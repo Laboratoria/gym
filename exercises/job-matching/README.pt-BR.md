@@ -41,11 +41,9 @@ let job = {
 }
 ```
 
-Para uma correspondência válida, o salário mínimo do candidato deve ser menor
-ou igual ao salário máximo do cargo. Entretanto, vamos também incluir 10% de
-espaço de manobra (deduzido do salário mínimo do candidato) caso o candidato
-seja um astro do rock que gosta de programar no LABORATORIA em seu tempo livre.
-A empresa que oferece o trabalho pode ser capaz de resolver alguma coisa.
+Para que a correspondência seja válida, o salário máximo do cargo deve ser maior
+ou igual ao salário desejado do candidato. Também inclui a possibilidade de o
+candidato reduzir em 10% o salário desejado para chegar a um acordo com a empresa.
 
 > __Importante__ ❗
 >
