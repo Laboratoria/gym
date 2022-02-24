@@ -4,15 +4,15 @@
 
 ### Newbie
 
-[**Plus Two**](../exercises/plus-two/README.md)
+- [**Plus Two**](../exercises/plus-two/README.md)
+
 ### Beginner
 
-[**Job Matching**](../exercises/job-matching/README.md)
+- [**Job Matching**](../exercises/job-matching/README.md)
 
 ### Intermediate
 
-- [**Transformation iteration**](../exercises/transformation-iteration/README.md)
-- [**Ask for missing details**](../exercises/ask-for-missing-details/README.md)
+- [**Format words into a sentence**](../exercises/format-words/README.md)
 - [**Array diff**](../exercises/array-diff/README.md)
 - [**Pangram**](../exercises/pangram/README.md)
 
