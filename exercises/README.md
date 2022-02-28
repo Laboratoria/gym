@@ -7,6 +7,18 @@
 - [**Sherlock Syllogisms**](./sherlock-syllogisms/README.md)
 - [**Word Ladders**](./word-ladders/README.md)
 
+### Newbie
+
+- [**helloName**](./hello-name/README.md)
+- [**intMax**](./int-max/README.md)
+- [**fistLast6**](./first-last-6/README.md)
+- [**Icy-hot**](./icy-hoy/README.md)
+- [**comboString**](./combo-string/README.md)
+- [**Reverse 3**](./reverse3/README.md)
+- [**biggerTwo**](./bigger-two/README.md)
+- [**redTicket**](./red-ticket/README.md)
+- [**middleThree**](./middle-three/README.md)
+
 ### Beginner
 
 - [**Remove String Spaces**](./remove-string-spaces/README.md)
@@ -35,10 +47,20 @@
 
 ## Data Lovers / Red Social - arrays, loops, objects, sorting
 
+### Newbie
+
+- [**teenSum**](./teen-sum/README.md)
+- [**plusTwo**](./plus-two/README.md)
+
 ### Beginner
 
 - [**Create Phone Number**](./create-phone-number/README.md)
 - [**Moving Zeros To The End**](./move-zeros/README.md)
+- [**Job Matching**](./job-matching/README.md)
+
+### Intermediate
+
+- [**Format words into a sentence**](./format-words/README.md)
 
 ### Warm-up
 

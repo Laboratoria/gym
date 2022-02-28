@@ -13,9 +13,9 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=biggerTwo&title=Array-1](https://the-winter.github.io/codingjs/exercise.html?name=biggerTwo&title=Array-1)
 
-Você tem duas matrizes de inteiros, `a` e `b`, cada uma de dois comprimentos.
-Calcule a soma dos valores de cada matriz. Devolva a matriz que tem o
-soma maior. No caso de um empate, devolva a matriz `a`.
+Comece com 2 arrays de números inteiros, `a` e `b`, cada um com comprimento 2.
+Calcule a soma dos valores em cada array. Retorne o array que tem a
+maior soma. No caso de um empate, retorne o array `a`.
 
 __Exemplo__
 
