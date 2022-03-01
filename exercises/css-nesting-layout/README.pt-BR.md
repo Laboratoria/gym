@@ -2,14 +2,14 @@
 difficulty:
   - beginner
 OAs:
-  - css selectors, layout
+  - css selectors, layout, margin, flex
 projects:
   - all
 ---
 
-# CSS Dice four
+# CSS Nesting layout
 
-[https://cssbattle.dev/play/2](https://cssbattle.dev/play/2)
+[https://cssbattle.dev/play/23](https://cssbattle.dev/play/23)
 
 ![](css_dice_four.png)
 
