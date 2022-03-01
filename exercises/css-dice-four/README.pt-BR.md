@@ -4,7 +4,7 @@ difficulty:
 OAs:
   - css selectors, layout
 projects:
-  - *
+  - all
 ---
 
 # CSS Dice four
