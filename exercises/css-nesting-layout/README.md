@@ -9,7 +9,7 @@ projects:
 
 # CSS Nesting Layout
 
-[https://cssbattle.dev/play/4](https://cssbattle.dev/play/4)
+[https://cssbattle.dev/play/23](https://cssbattle.dev/play/23)
 
 ![](css_nesting_layout.png)
 
