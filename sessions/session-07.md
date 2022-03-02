@@ -4,6 +4,8 @@
 
 ### Newbie
 
+- [**CSS Stripes**](../exercises/css-stripes/README.md)
+
 ### Beginner
 
 - [**CSS Dice four**](../exercises/css-dice-four/README.md)
