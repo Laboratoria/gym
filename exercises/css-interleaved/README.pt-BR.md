@@ -1,17 +1,17 @@
 ---
 difficulty:
-  - newbie
+  - beginner
 OAs:
-  - css selectors, layout
+  - css selectors, layout, border-radius
 projects:
   - all
 ---
 
-# CSS Dice four
+# CSS Interleaved
 
-[https://cssbattle.dev/play/2](https://cssbattle.dev/play/2)
+[https://cssbattle.dev/play/36](https://cssbattle.dev/play/36)
 
-![](css_dice_four.png)
+![](css_interleaved.png)
 
 __Objetivo__
 

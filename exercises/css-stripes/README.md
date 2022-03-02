@@ -2,16 +2,16 @@
 difficulty:
   - newbie
 OAs:
-  - css selectors, layout
+  - css selectors, properties
 projects:
   - all
 ---
 
-# CSS Dice four
+# CSS Stripes
 
-[https://cssbattle.dev/play/2](https://cssbattle.dev/play/2)
+[https://cssbattle.dev/play/30](https://cssbattle.dev/play/30)
 
-![](css_dice_four.png)
+![](css_sunset.png)
 
 __Objetivo__
 

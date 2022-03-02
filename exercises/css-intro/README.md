@@ -1,17 +1,17 @@
 ---
 difficulty:
-  - newbie
+  - beginner
 OAs:
-  - css selectors, layout
+  - layout
 projects:
   - all
 ---
 
-# CSS Dice four
+# CSS Intro
 
-[https://cssbattle.dev/play/2](https://cssbattle.dev/play/2)
+[https://cssbattle.dev/play/1](https://cssbattle.dev/play/1)
 
-![](css_dice_four.png)
+![](css_intro.png)
 
 __Objetivo__
 
