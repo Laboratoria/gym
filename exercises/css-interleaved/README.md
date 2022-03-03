@@ -4,7 +4,8 @@ difficulty:
 OAs:
   - css selectors, layout, border-radius, flex
 projects:
-  - all
+  - data lovers
+  - social network
 ---
 
 # CSS Interleaved
