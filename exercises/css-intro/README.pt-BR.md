@@ -4,7 +4,8 @@ difficulty:
 OAs:
   - css selectors, layout, border-radius
 projects:
-  - all
+  - data lovers
+  - social network
 ---
 
 # CSS Intro
