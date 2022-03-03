@@ -4,7 +4,8 @@ difficulty:
 OAs:
   - css selectors, layout
 projects:
-  - all
+  - data lovers
+  - social network
 ---
 
 # CSS Dice four
