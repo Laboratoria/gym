@@ -4,7 +4,8 @@ difficulty:
 OAs:
   - css selectors, layout, margin, flex
 projects:
-  - all
+  - data lovers
+  - social network
 ---
 
 # CSS Nesting layout
