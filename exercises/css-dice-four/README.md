@@ -2,7 +2,8 @@
 difficulty:
   - newbie
 OAs:
-  - css selectors, layout
+  - css selectors
+  - layout
 projects:
   - all
 ---
