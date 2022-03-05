@@ -11,7 +11,7 @@ projects:
 
 [https://cssbattle.dev/play/30](https://cssbattle.dev/play/30)
 
-![](css_sunset.png)
+![](css_stripes.png)
 
 __Objetivo__
 
