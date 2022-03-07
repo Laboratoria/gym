@@ -4,13 +4,13 @@
 
 ### Newbie
 
-- [**CSS Intro**](../exercises/css-intro/README.md)
-- [**CSS Stripes**](../exercises/css-stripes/README.md)
-- [**CSS Dice four**](../exercises/css-dice-four/README.md)
+- [**CSS Simply Square**](../exercises/css-simply_square/README.md)
+- [**CSS Horizon**](../exercises/css-horizon/README.md)
+- [**CSS Carrom**](../exercises/css-carrom/README.md)
 
 ### Beginner
 
-- [**CSS Nesting layout**](../exercises/css-nesting-layout/README.md)
+- [**CSS Boxception**](../exercises/css-boxception/README.md)
 - [**CSS Interleaved**](../exercises/css-interleaved/README.md)
 
 ### Intermediate
