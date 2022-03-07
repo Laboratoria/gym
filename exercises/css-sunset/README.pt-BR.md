@@ -2,9 +2,13 @@
 difficulty:
   - intermediate
 OAs:
-  - css selectors, box model, border-radius, position
+  - css selectors
+  - box model
+  - border-radius
+  - position
 projects:
-  - all
+  - social network
+  - data lovers
 ---
 
 # CSS Sunset

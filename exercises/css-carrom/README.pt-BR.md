@@ -2,7 +2,8 @@
 difficulty:
   - newbie
 OAs:
-  - css selectors, box model
+  - css selectors
+  - box model
 projects:
   - data lovers
   - social network

@@ -2,9 +2,12 @@
 difficulty:
   - newbie
 OAs:
-  - css selectors, box model, css units
+  - css selectors
+  - box model
+  - css units
 projects:
-  - all
+  - social network
+  - data lovers
 ---
 
 # CSS Horizon

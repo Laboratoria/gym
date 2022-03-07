@@ -2,7 +2,9 @@
 difficulty:
   - beginner
 OAs:
-  - css selectors, layout, border-radius, flex
+  - css selectors
+  - box model
+  - border-radius
 projects:
   - data lovers
   - social network

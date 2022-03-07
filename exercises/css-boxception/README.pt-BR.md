@@ -2,7 +2,9 @@
 difficulty:
   - beginner
 OAs:
-  - css selectors, box model, margin, flex
+  - css selectors
+  - box model
+  - position
 projects:
   - data lovers
   - social network
