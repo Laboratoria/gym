@@ -12,9 +12,10 @@
 
 - [**CSS Nesting layout**](../exercises/css-nesting-layout/README.md)
 - [**CSS Interleaved**](../exercises/css-interleaved/README.md)
-- [**CSS Sunset**](../exercises/css-sunset/README.md)
 
 ### Intermediate
+
+- [**CSS Sunset**](../exercises/css-sunset/README.md)
 
 
 ## Kahoot

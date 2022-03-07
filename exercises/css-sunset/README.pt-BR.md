@@ -1,6 +1,6 @@
 ---
 difficulty:
-  - beginner
+  - intermediate
 OAs:
   - css selectors, layout, border-radius
 projects:
