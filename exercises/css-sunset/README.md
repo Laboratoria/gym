@@ -2,7 +2,7 @@
 difficulty:
   - intermediate
 OAs:
-  - css selectors, box model, border-radius
+  - css selectors, box model, border-radius, position
 projects:
   - all
 ---

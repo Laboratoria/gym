@@ -2,7 +2,7 @@
 difficulty:
   - newbie
 OAs:
-  - css selectors, box model
+  - css selectors, box model, css units
 projects:
   - all
 ---
