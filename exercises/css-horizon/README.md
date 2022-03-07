@@ -2,16 +2,16 @@
 difficulty:
   - newbie
 OAs:
-  - css selectors, properties
+  - css selectors, box model
 projects:
   - all
 ---
 
-# CSS Stripes
+# CSS Horizon
 
 [https://cssbattle.dev/play/30](https://cssbattle.dev/play/30)
 
-![](css_stripes.png)
+![](css_horizon.png)
 
 __Objetivo__
 

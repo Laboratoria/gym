@@ -1,17 +1,17 @@
 ---
 difficulty:
-  - beginner
+  - newbie
 OAs:
-  - css selectors, layout, border-radius
+  - css selectors, box model
 projects:
   - all
 ---
 
-# CSS Stripes
+# CSS Horizon
 
 [https://cssbattle.dev/play/30](https://cssbattle.dev/play/30)
 
-![](css_stripes.png)
+![](css_horizon.png)
 
 __Objetivo__
 
