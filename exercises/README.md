@@ -24,8 +24,6 @@
 - [**Remove String Spaces**](./remove-string-spaces/README.md)
 - [**Same on Both Ends**](./same-on-both-ends/README.md)
 - [**Secret Society**](./secret-society/README.md)
-- [**CSS Dice four**](./css-dice-four/README.md)
-- [**CSS Nested layout**](./css-nesting-layout/README.md)
 
 ### Warm-up
 
