@@ -2,16 +2,17 @@
 difficulty:
   - beginner
 OAs:
-  - css selectors, layout, margin, flex
+  - css selectors, box model, margin
 projects:
-  - all
+  - data lovers
+  - social network
 ---
 
-# CSS Nesting Layout
+# CSS Boxception
 
 [https://cssbattle.dev/play/23](https://cssbattle.dev/play/23)
 
-![](css_nesting_layout.png)
+![](css_boxception.png)
 
 __Objetivo__
 
