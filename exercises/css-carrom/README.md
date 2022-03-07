@@ -2,21 +2,22 @@
 difficulty:
   - newbie
 OAs:
-  - css selectors, layout
+  - css selectors
+  - box layout
 projects:
   - data lovers
   - social network
 ---
 
-# CSS Dice four
+# CSS Carrom
 
 [https://cssbattle.dev/play/2](https://cssbattle.dev/play/2)
 
-![](css_dice_four.png)
+![](css-carrom.png)
 
 __Objetivo__
 
-Escreva o HTML/CSS no editor para replicar a imagem de destino à direita. 
+Escriba el HTML/CSS en el editor para replicar la imagen objetivo de la derecha.
 
 __Código de base__
 
