@@ -2,21 +2,21 @@
 difficulty:
   - beginner
 OAs:
-  - css selectors, layout, border-radius
+  - box model
 projects:
   - data lovers
   - social network
 ---
 
-# CSS Intro
+# CSS Simply Square
 
 [https://cssbattle.dev/play/1](https://cssbattle.dev/play/1)
 
-![](css_intro.png)
+![](css_simply_square.png)
 
 __Objetivo__
 
-Escreva o HTML/CSS no editor para replicar a imagem de destino à direita. 
+Escriba el HTML/CSS en el editor para replicar la imagen objetivo de la derecha.
 
 __Código de base__
 
