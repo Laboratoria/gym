@@ -1,3 +1,13 @@
+---
+difficulty:
+  - Newbie
+OAs:
+  - Métodos de arrays
+projects:
+  - data-lovers
+  - memory-match
+---
+
 # Counting sheep
 
 [https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
@@ -18,8 +28,6 @@ entrada: [true,  true,  true,  false,
 salida: 17
 ```
 
-_Pista_: No te olvides de verificar por valores malos como `null` o `undefined`
-
-## Objetivos de aprendizaje (OAs)
-
-- Métodos de arreglo
+> __Importante__ ❗
+>
+> _Pista_: No te olvides de verificar por valores malos como `null` o `undefined`
