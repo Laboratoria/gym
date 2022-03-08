@@ -1,0 +1,40 @@
+---
+dificuldade:
+  - beginner
+AOs:
+  - Métodos de arranjo
+projetos:
+  - data-lovers
+  - memory-match
+---
+
+# Ímpar ou par
+
+[https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript](https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript)
+
+Seu objetivo neste exercício é implementar uma função que receba um array
+com inteiros e determine se a soma dos números é 'par' ou 'ímpar'
+
+De acordo com o resultado da soma, você deve retornar uma string caso
+é par `'ímpar'` e se for ímpar `'par'`
+
+__Exemplo 1__
+
+``` js
+Entrada: [0, 1, 4]
+Saída: 'odd'
+Explicação: Somando 0 + 1 + 4 = 5 então é ímpar e como resultado 'odd'
+```
+
+__Exemplo 2__
+
+``` js
+Entrada: [0, -1, -5]
+Saída: 'even'
+Explicação: Adicionando 0 -1 -5 = -6 então é par e como resultado 'even'
+```
+
+> __Importante__ ❗
+>
+> - Se o array de entrada estiver vazio, considere-o como:
+[0] (fixar com zero).
