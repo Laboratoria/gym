@@ -57,6 +57,7 @@
 - [**Create Phone Number**](./create-phone-number/README.md)
 - [**Moving Zeros To The End**](./move-zeros/README.md)
 - [**Job Matching**](./job-matching/README.md)
+- [**Sort an array by parity**](./sort-array-by-parity/README.md)
 
 ### Intermediate
 
@@ -64,7 +65,6 @@
 
 ### Warm-up
 
-- [**Sort an array by parity**](./sort-array-by-parity/README.md)
 - [**Count characters in your string**](./count-characters/README.md)
 - [**Counting sheep**](./counting-sheep/README.md)
 
