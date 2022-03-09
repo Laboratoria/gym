@@ -1,5 +1,5 @@
 
-# Sesión 4 - 22/02/2022
+# Sesión 3 - 22/02/2022
 
 ## Ejercicios
 
