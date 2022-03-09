@@ -14,10 +14,10 @@ projects:
 
 [https://leetcode.com/problems/sort-array-by-parity/](https://leetcode.com/problems/sort-array-by-parity/)
 
-Dado un arreglo de números enteros `nums`, mueve todos los enteros pares al inicio
-del arreglo seguido por todos los enteros impares.
+Dada uma matriz de inteiros `nums`, mova todos os inteiros pares para o início
+do array seguido por todos os inteiros ímpares.
 
-Retorna un arreglo que satisfaga la condición.
+Retorna uma matriz que satisfaz a condição.
 
 __Ejemplo__
 
