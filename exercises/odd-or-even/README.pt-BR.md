@@ -1,14 +1,14 @@
 ---
-dificuldade:
+difficulty:
   - beginner
-AOs:
-  - Métodos de arranjo
-projetos:
+OAs:
+  - Métodos de arrays
+projects:
   - data-lovers
   - memory-match
 ---
 
-# Ímpar ou par
+# Odd or Even
 
 [https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript](https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript)
 

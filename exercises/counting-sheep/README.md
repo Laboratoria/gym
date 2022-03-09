@@ -1,6 +1,6 @@
 ---
 difficulty:
-  - Newbie
+  - newbie
 OAs:
   - Métodos de arrays
 projects:

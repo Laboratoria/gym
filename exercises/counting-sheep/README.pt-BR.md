@@ -1,19 +1,19 @@
 ---
-dificuldade:
-  -novato
-AOs:
-  - Métodos de matriz
-projetos:
+difficulty:
+  - newbie
+OAs:
+  - Métodos de arrays
+projects:
   - data-lovers
   - memory-match
 ---
 
-# Contando ovelhas
+# Counting sheep
 
 [https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
 
 Considere um array/lista de ovelhas onde algumas ovelhas podem estar faltando.
-Precisamos de uma função que conte o número de ovelhas presentes em uma matriz
+Precisamos de uma função que conte o número de ovelhas presentes em um array
 (`true` significa presente)
 
 __Exemplo__
@@ -25,7 +25,7 @@ entrada: [true,  true,  true,  false,
   true,  false, false, true ,
   true,  true,  true,  true ,
   false, false, true,  true]
-partida: 17
+saída: 17
 ```
 
 > __Importante__ ❗

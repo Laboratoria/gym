@@ -23,9 +23,8 @@ valor `type` dos objetos que devem ser nos mesmos contenedores.
 
 __Notas__
 
-1. Los contenedores deben venir en el mismo orden que los materiales
-enumerados anteriormente. (papel, vidro, orgânico, y plástico).
-2. Todos os contenedores deben aparecem na salida, inclusive si algunos de
+1. Os contenedores devem vir na mesma ordem dos materiais listados acima (paper, glass, organic, y plastic).
+2. Todos os contenedores deben aparecem na saída, inclusive si algunos de
 ellos están vacíos,
 3. Se um objeto está dentro dos materiais, `type` deve aparecer em seus
 respectivos contenedores.
@@ -39,10 +38,10 @@ entrada = [
   {"type": "rotten apples", "material": "organic"},
   {"type": "out of date yogurt", "material": "organic", "secondMaterial": "plastic"},
   {"type": "wine bottle", "material": "glass", "secondMaterial": "paper"},
-  {"type": "amazon box", "material": "paper"},
+  {"type": "amazon  box", "material": "paper"},
   {"type": "beer bottle", "material": "glass", "secondMaterial": "paper"}
 ]
-salida = [
+saída = [
   ["wine bottle", "amazon box", "beer bottle"],
   ["wine bottle", "beer bottle"],
   ["rotten apples", "out of date yogurt"],
