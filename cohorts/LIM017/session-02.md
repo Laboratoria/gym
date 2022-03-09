@@ -1,5 +1,5 @@
 
-# Sesión 3 - 15/02/2022
+# Sesión 2 - 15/02/2022
 
 ## Ejercicios
 
