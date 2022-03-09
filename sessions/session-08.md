@@ -8,12 +8,9 @@
 
 - [**CSS Junction**](../exercises/css-junction/README.md)
 
-#### Beginner
-
-- [**CSS Piano**](../exercises/css-piano/README.md)
-
 #### Intermediate
 
+- [**CSS Piano**](../exercises/css-piano/README.md)
 - [**CSS Ripples**](../exercises/css-ripples/README.md)
 
 ### JavaScript
