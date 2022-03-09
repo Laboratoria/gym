@@ -1,6 +1,6 @@
 ---
 difficulty:
-  - newbie
+  - intermediate
 OAs:
   - css selectors
   - box model
@@ -9,11 +9,11 @@ projects:
   - social network
 ---
 
-# CSS Carrom
+# CSS Ripples
 
-[https://cssbattle.dev/play/2](https://cssbattle.dev/play/2)
+[https://cssbattle.dev/play/84](https://cssbattle.dev/play/84)
 
-![](css-carrom.png)
+![](css-ripples.png)
 
 __Objetivo__
 

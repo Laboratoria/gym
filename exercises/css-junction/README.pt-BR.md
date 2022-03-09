@@ -9,11 +9,11 @@ projects:
   - social network
 ---
 
-# CSS Carrom
+# CSS Junction
 
-[https://cssbattle.dev/play/2](https://cssbattle.dev/play/2)
+[https://cssbattle.dev/play/84](https://cssbattle.dev/play/84)
 
-![](css-carrom.png)
+![](css-junction.png)
 
 __Objetivo__
 

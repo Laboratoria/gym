@@ -12,11 +12,11 @@ projects:
 
 [https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
 
-Considera un arreglo/lista de ovejas donde algunas ovejas pueden estar perdidas.
-Necesitamos a una función que cuente el numero de ovejas presentes en un arreglo
+Considere um array/lista de ovelhas onde algumas ovelhas podem estar faltando.
+Precisamos de uma função que conte o número de ovelhas presentes em um array
 (`true` significa presente)
 
-__Ejemplo__
+__Exemplo__
 
 ```js
 entrada: [true,  true,  true,  false,
@@ -25,9 +25,9 @@ entrada: [true,  true,  true,  false,
   true,  false, false, true ,
   true,  true,  true,  true ,
   false, false, true,  true]
-salida: 17
+saída: 17
 ```
 
 > __Importante__ ❗
 >
-> _Pista_: No te olvides de verificar por valores malos como `null` o `undefined`
+> _Dica_: Não esqueça de verificar se há valores incorretos como `null` ou `undefined`
