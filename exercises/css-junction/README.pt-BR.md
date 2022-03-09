@@ -17,7 +17,7 @@ projects:
 
 __Objetivo__
 
-Escriba el HTML/CSS en el editor para replicar la imagen objetivo de la derecha.
+Escreva o HTML/CSS no editor para replicar a imagem de destino à direita. 
 
 __Código de base__
 
