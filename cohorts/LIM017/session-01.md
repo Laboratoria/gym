@@ -1,4 +1,4 @@
-# Sesión 2 - 08/02/2022
+# Sesión 1 - 08/02/2022
 
 ## Ejercicios
 
