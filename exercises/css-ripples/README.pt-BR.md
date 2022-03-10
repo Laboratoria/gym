@@ -11,7 +11,7 @@ projects:
 
 # CSS Ripples
 
-[https://cssbattle.dev/play/84](https://cssbattle.dev/play/84)
+[https://cssbattle.dev/play/94](https://cssbattle.dev/play/94)
 
 ![](css-ripples.png)
 
