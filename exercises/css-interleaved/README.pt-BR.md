@@ -14,7 +14,7 @@ projects:
 
 [https://cssbattle.dev/play/36](https://cssbattle.dev/play/36)
 
-![](css_interleaved.png)
+![CSS Interleaved](css_interleaved.png)
 
 __Objetivo__
 

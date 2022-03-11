@@ -15,7 +15,7 @@ projects:
 
 [https://cssbattle.dev/play/91](https://cssbattle.dev/play/91)
 
-![](css_sunset.png)
+![CSS Sunset](css_sunset.png)
 
 __Objetivo__
 

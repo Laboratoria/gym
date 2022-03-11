@@ -13,7 +13,7 @@ projects:
 
 [https://cssbattle.dev/play/2](https://cssbattle.dev/play/2)
 
-![](css-carrom.png)
+![CSS Carrom](css-carrom.png)
 
 __Objetivo__
 

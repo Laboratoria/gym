@@ -14,7 +14,7 @@ projects:
 
 [https://cssbattle.dev/play/30](https://cssbattle.dev/play/30)
 
-![](css_horizon.png)
+![CSS Horizon](css_horizon.png)
 
 __Objetivo__
 

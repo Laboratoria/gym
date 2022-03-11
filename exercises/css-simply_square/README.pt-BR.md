@@ -12,7 +12,7 @@ projects:
 
 [https://cssbattle.dev/play/1](https://cssbattle.dev/play/1)
 
-![](css_simply_square.png)
+![CSS Simply Square](css_simply_square.png)
 
 __Objetivo__
 

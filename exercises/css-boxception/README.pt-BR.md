@@ -14,7 +14,7 @@ projects:
 
 [https://cssbattle.dev/play/23](https://cssbattle.dev/play/23)
 
-![](css_boxception.png)
+![CSS Boxception](css_boxception.png)
 
 __Objetivo__
 

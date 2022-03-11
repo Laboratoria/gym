@@ -13,7 +13,7 @@ projects:
 
 [https://cssbattle.dev/play/84](https://cssbattle.dev/play/84)
 
-![](css-junction.png)
+![CSS Junction](css-junction.png)
 
 __Objetivo__
 

@@ -13,7 +13,7 @@ projects:
 
 [https://cssbattle.dev/play/94](https://cssbattle.dev/play/94)
 
-![](css-ripples.png)
+![CSS Ripples](css-ripples.png)
 
 __Objetivo__
 
