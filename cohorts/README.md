@@ -3,4 +3,4 @@
 - [MEX011](./MEX011/README.md)
 - [BOG003](./BOG003/README.md)
 - [SCL017](./SCL017/README.md)
-- [SCL019](https://github.com/Laboratoria/SCL019-gym/)
+- - [SCL019](./SCL019/README.md)
