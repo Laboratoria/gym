@@ -33,6 +33,6 @@ Ejemplo 2
 **Salida**: false
 ```
 
-> __Importante__ ❗
+> **Importante** ❗
 >
 > - sentence consiste solo de letras del alfabeto Ingles.
