@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Code challenges para ejercitar la capacidad de analisis y resolucion de problemas",
   "devDependencies": {
-    "@laboratoria/mdlint": "^1.2.1",
+    "@laboratoria/mdlint": "^1.2.3",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-filename-rules": "^1.2.0",
     "eslint-plugin-folders": "^1.0.3",
-    "eslint-plugin-import": "^2.24.2",
-    "husky": "^7.0.2"
+    "eslint-plugin-import": "^2.25.4",
+    "husky": "^7.0.4"
   },
   "scripts": {
     "mdlint": "mdlint . --config .markdownlint.json",

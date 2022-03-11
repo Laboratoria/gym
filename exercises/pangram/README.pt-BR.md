@@ -33,6 +33,6 @@ Ejemplo 2
 **Saída**: false
 ```
 
-> __Importante__ ❗
+> **Importante** ❗
 >
 > - a frase consiste apenas em letras do alfabeto inglês.
