@@ -23,7 +23,8 @@ valor `type` dos objetos que devem ser nos mesmos contenedores.
 
 __Notas__
 
-1. Os contenedores devem vir na mesma ordem dos materiais listados acima (paper, glass, organic, y plastic).
+1. Os contenedores devem vir na mesma ordem dos materiais listados acima
+(paper, glass, organic, y plastic).
 2. Todos os contenedores deben aparecem na saída, inclusive si algunos de
 ellos están vacíos,
 3. Se um objeto está dentro dos materiais, `type` deve aparecer em seus

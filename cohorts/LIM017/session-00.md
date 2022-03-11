@@ -5,7 +5,6 @@
 - Objetivos de aprendizaje para el Gimnasio
 - Explicación Dinámica
 - Expectativas sobre el compromiso de las estudiantes
-- 
 
 ## Ejercicios
 

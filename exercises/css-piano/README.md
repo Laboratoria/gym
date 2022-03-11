@@ -13,7 +13,7 @@ projects:
 
 [https://cssbattle.dev/play/80](https://cssbattle.dev/play/80)
 
-![](css-piano.png)
+![CSS Piano](css-piano.png)
 
 __Objetivo__
 
