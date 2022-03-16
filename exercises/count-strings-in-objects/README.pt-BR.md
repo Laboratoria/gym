@@ -13,8 +13,7 @@ projects:
 
 [https://www.codewars.com/kata/565b3542af398bfb50000003/train/javascript](https://www.codewars.com/kata/565b3542af398bfb50000003/train/javascript)
 
-Crea una función `strCount`, la cual recibe un objeto `obj` como argumento y
-retorna la cantidad de valores del tipo string dentro del objeto.
+Crie uma função `str Count`, que recebe um objeto `obj` como argumento e retorna o número de valores de string dentro do objeto.
 
 __Ejemplo__
 
@@ -26,6 +25,6 @@ Entrada: obj = {
   fourth: ["anytime",2,3,4],
   fifth:  null
 }
-Salida: 3
-Explicación: "1", "2" y "anytime" son los únicos strings presentes, contados dan 3
+Saída: 3
+Explicação: "1", "2" y "anytime" são as únicas strings presentes, contadas dão 3
 ```
