@@ -4,8 +4,6 @@
 
 ### HTML/CSS
 
-#### Newbie
-
 #### Beginner
 
 [Totally Triangle](../exercises/css-totally-triangle/README.md)
