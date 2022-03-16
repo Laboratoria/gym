@@ -11,7 +11,9 @@ projects:
 
 [https://www.codewars.com/kata/541c8630095125aba6000c00/train/javascript](https://www.codewars.com/kata/541c8630095125aba6000c00/train/javascript)
 
-Dado n, tome la suma de los dígitos de n. Si ese valor tiene más de un dígito, continúe reduciendo de esta manera hasta que se produzca un número de un solo dígito. La entrada será un número entero no negativo.
+Dado n, tome la suma de los dígitos de n. Si ese valor tiene más de un
+dígito, continúe reduciendo de esta manera hasta que se produzca un número
+de un solo dígito. La entrada será un número entero no negativo.
 
 __Ejemplo 1__
 
