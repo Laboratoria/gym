@@ -14,6 +14,8 @@
 
 #### Newbie
 
+[swampEnds](../exercises/swap-ends/README.md)
+
 #### Beginner
 
 #### Intermediate
