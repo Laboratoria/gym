@@ -24,9 +24,11 @@
 
 #### Beginner
 
+[Sum of digits](../exercises/sum-of-digits/README.md)
+
 #### Intermediate
 
-- [**Count strings in objects**](../exercises/count-strings-in-objects/README.md)
+- [Count strings in objects](../exercises/count-strings-in-objects/README.md)
 
 ## Kahoot
 
