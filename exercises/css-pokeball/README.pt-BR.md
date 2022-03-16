@@ -1,6 +1,6 @@
 ---
 difficulty:
-  - beginner
+  - intermediate
 OAs:
   - css/box-model
 projects:
@@ -8,11 +8,11 @@ projects:
   - social-network
 ---
 
-# CSS Matrix
+# CSS Pokebola
 
-[https://cssbattle.dev/play/18](https://cssbattle.dev/play/18)
+[https://cssbattle.dev/play/95](https://cssbattle.dev/play/95)
 
-![Matrix](css_matrix.png)
+![Pokebola](css_pokeball.png)
 
 __Objetivo__
 

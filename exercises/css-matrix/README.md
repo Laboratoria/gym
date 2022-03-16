@@ -31,4 +31,4 @@ __Código de base__
     </style>
 ```
 
-> *Hint:* [https://singhak.in › draw-half-and-quarter-circle-with-css](https://singhak.in › draw-half-and-quarter-circle-with-css) 
+> *Hint:* [https://singhak.in/draw-half-and-quarter-circle-with-css/](https://singhak.in/draw-half-and-quarter-circle-with-css/)
