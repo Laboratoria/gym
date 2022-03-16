@@ -13,7 +13,8 @@ projects:
 
 [https://www.codewars.com/kata/565b3542af398bfb50000003/train/javascript](https://www.codewars.com/kata/565b3542af398bfb50000003/train/javascript)
 
-Crie uma função `str Count`, que recebe um objeto `obj` como argumento e retorna o número de valores de string dentro do objeto.
+Crie uma função `str Count`, que recebe um objeto `obj` como argumento e retorna
+o número de valores de string dentro do objeto.
 
 __Ejemplo__
 
