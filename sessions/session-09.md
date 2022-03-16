@@ -14,6 +14,8 @@
 
 #### Intermediate
 
+[Pokeball](../exercises/css-pokeball/README.md)
+
 ### JavaScript
 
 #### Newbie
