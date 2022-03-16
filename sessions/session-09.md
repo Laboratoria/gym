@@ -8,6 +8,10 @@
 
 #### Beginner
 
+[Totally Triangle](../exercises/css-totally-triangle/README.md)
+
+[Matrix](../exercises/css-matrix/README.md)
+
 #### Intermediate
 
 ### JavaScript
