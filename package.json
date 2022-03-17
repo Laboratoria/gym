@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/Laboratoria/gym/issues"
   },
-  "homepage": "https://github.com/Laboratoria/gym#README.md"
+  "homepage": "https://github.com/Laboratoria/gym#README.md",
+  "dependencies": {
+    "@marp-team/marp-cli": "^1.7.0"
+  }
 }

@@ -1,0 +1,19 @@
+section { 
+  font-size-adjust: 0.4; 
+} 
+pre { 
+  margin: 1px;
+}
+img { 
+  position:fixed; 
+  right: 0px; 
+  top: 0px; 
+  transform-origin: top right;
+  transform: scale(0.6);
+} 
+section {
+  padding: 20px;
+}
+section p {
+  margin: 0px;
+}
