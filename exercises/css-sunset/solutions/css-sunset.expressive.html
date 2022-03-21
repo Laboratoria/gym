@@ -1,0 +1,41 @@
+<div class="circle"></div>
+<div class="heaven"></div>
+<div class="stripes">
+  <div class="row"></div>
+  <div class="row"></div>
+  <div class="row"></div>
+  <div class="row"></div>
+</div>
+<style>
+  body, html {
+    margin: 0px;
+    height: 100vh;
+    background: #6CB3A9;
+  }
+  div.circle {
+    position: absolute;
+    left: 25%;
+    top: 50px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background: #F6DF96;
+    z-index: 10;
+  }
+  div.heaven {
+    width: 100vw;
+    height: 50vh;
+    background: #D25B70;
+  }
+  div.stripes {
+    position: absolute;
+    z-index: 20;
+  }
+  div.row {
+    z-index: 100;
+    margin-bottom: 10px;
+    background: #6CB3A9;
+    height: 15px;
+    width: 100vw;
+  }
+</style>

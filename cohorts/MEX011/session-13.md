@@ -17,7 +17,7 @@
    - true ❌
    - false ✅
 
-    __OAs:__ [Asincronia](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/AsyncFunction)
+    **OAs:** [Asincronia](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/AsyncFunction)
 
 2. Cual es el propósito principal de Promise.all??
 
@@ -26,7 +26,7 @@
    - Las funciones son siempre ejecutadas primero. ✅
    - Las funciones son objetos. ❌
 
-    __OAs:__ [Consumo de promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
+    **OAs:** [Consumo de promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
 
 3. Cual es la diferencia principal entre While & Do While??
 
@@ -35,7 +35,7 @@
    - Do While se ejecuta por lo menos la primer iteración. ✅
    - While se ejecuta siempre y cuando la condición se cumpla y do while no ❌
 
-    __OAs:__ [bucles](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/do...while)
+    **OAs:** [bucles](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/do...while)
 
 4. ¿Qué combiene usar para manejar las excepciones en async/await??
 
@@ -44,21 +44,21 @@
    - reject ❌
    - try/catch ✅
 
-    __OAs:__ [excepciones](https://javascript.info/async-await)
+    **OAs:** [excepciones](https://javascript.info/async-await)
 
 5. Para promesas usamos .then/.catch y para funciones asíncronas usamos try/catch?
 
    - True ✅
    - False ❌
 
-    __OAs:__ [excepciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)
+    **OAs:** [excepciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)
 
 6. finally se ejecuta antes de catch?
 
    - True ❌
    - False ✅
 
-    __OAs:__ [Consumo de promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally)
+    **OAs:** [Consumo de promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally)
 
 7. Que hace Promise.race?
 
@@ -67,7 +67,7 @@
    - Retorna rápidamente la primer promesa en cola ❌
    - Fuerza una rápida ejecución de promesas simultáneas. ❌
 
-    __OAs:__ [Consumo de promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/race)
+    **OAs:** [Consumo de promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/race)
 
 8. Que se imprime en consola cuando se ejecuta...?
 
@@ -94,14 +94,14 @@
    - > "calling" > "resolved"✅
    - > "resolved" > "calling" ❌
 
-    __OAs:__ [Asincronia](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
+    **OAs:** [Asincronia](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
 
 9. usamos await para especificar que nuestra función es asíncrona?
 
    - True ❌
    - False ✅
 
-    __OAs:__ [Función async](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
+    **OAs:** [Función async](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
 
 10. La diferencia principal entre throw "I'm evil" y throw Error({error:"I'm evil"})?
 
@@ -110,4 +110,4 @@
     - throw es mas rápido y optimo ❌
     - throw Error no esta optimizado ❌
 
-    __OAs__: [throw](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/throw)
+    **OAs**: [throw](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/throw)

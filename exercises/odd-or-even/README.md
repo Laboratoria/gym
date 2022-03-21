@@ -1,3 +1,13 @@
+---
+difficulty:
+  - beginner
+OAs:
+  - Métodos de arreglos
+projects:
+  - data-lovers
+  - memory-match
+---
+
 # Odd or Even
 
 [https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript](https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript)
@@ -28,7 +38,3 @@ Explicación: Sumando 0 -1 -5 = -6 entonces es par y como resultado 'even'
 >
 > - Si el arreglo de entrada está vacío, considéralo como:
 [0] (arreglo con cero).
-
-## Objetivos de aprendizaje (OAs)
-
-- Métodos de arreglos

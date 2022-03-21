@@ -27,7 +27,7 @@
    - false, true ❌
    - true, true ❌
 
-    __OAs:__ [Comparadores de igualdad e identidad](https://developer.mozilla.org/es/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+    **OAs:** [Comparadores de igualdad e identidad](https://developer.mozilla.org/es/docs/Web/JavaScript/Equality_comparisons_and_sameness)
 
 2. Qué imprime console.log?
 
@@ -41,7 +41,7 @@
    - 4, 2 ✅
    - error ❌
 
-    __OAs:__: Set
+    **OAs:**: Set
 
 3. Cual de las siguientes afirmaciones acerca de las funciones NO es verdad?
 
@@ -50,7 +50,7 @@
    - Las funciones son siempre ejecutadas primero. ✅
    - Las funciones son objetos. ❌
 
-    __OAs:__ Funciones
+    **OAs:** Funciones
 
 4. Como comprobar si un valor es un tipo array?
 
@@ -59,7 +59,7 @@
    - Array.isArray(value) ✅
    - typeof value === 'object' && value !== null ❌
 
-    __OAs:__ Data types
+    **OAs:** Data types
 
 5. Qué imprime console.log?
 
@@ -77,7 +77,7 @@
    - "dog" ❌
    - "cat" ✅
 
-    __OAs:__ [Evaluación de circuito corto](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
+    **OAs:** [Evaluación de circuito corto](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
 
 6. Qué imprime console.log?
 
@@ -102,7 +102,7 @@
    - "Hi", "Baz" ✅
    - "Hi", "Foo" ❌
 
-    __OAs:__ Funciones, const, scope
+    **OAs:** Funciones, const, scope
 
 7. Qué imprime console.log?
 
@@ -122,7 +122,7 @@
    - true, true, true ❌
    - false, false, false ❌
 
-    __OAs:__ [Diferencia entre values y references](https://dmitripavlutin.com/value-vs-reference-javascript/)
+    **OAs:** [Diferencia entre values y references](https://dmitripavlutin.com/value-vs-reference-javascript/)
 
 8. Qué imprime console.log?
 
@@ -150,7 +150,7 @@
    - "Success 1", "Error 1", "Success 2" ❌
    - "Error 1", "Success 2" ✅
 
-    __OAs:__ [Encadenamiento de promesas](https://javascript.info/promise-chaining),
+    **OAs:** [Encadenamiento de promesas](https://javascript.info/promise-chaining),
     [Manejo de errores en promesas](https://javascript.info/promise-error-handling)
 
 9. Qué imprime console.log?
@@ -174,7 +174,7 @@
    - "SUCCESS!" ✅
    - Error ❌
 
-    __OAs:__ [Encadenamiento de promesas](https://javascript.info/promise-chaining)
+    **OAs:** [Encadenamiento de promesas](https://javascript.info/promise-chaining)
 
 10. Qué imprime console.log al dar click sobre el div start?
 
@@ -204,4 +204,4 @@
     - start, parent, document, window ✅
     - document, parent, start ❌
 
-    __OAs__: [Propagación de eventos](https://www.freecodecamp.org/news/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e/)
+    **OAs**: [Propagación de eventos](https://www.freecodecamp.org/news/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e/)
