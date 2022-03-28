@@ -1,0 +1,42 @@
+<div class="oval a"></div>
+<div class="oval b"></div>
+<div class="square"></div>
+<div class="circle"></div>
+<style>
+  *{
+    background:#243D83;
+  }
+  .oval{
+    width:100px;
+    height:230px;
+    background:#6592CF;
+    border-radius:50px;
+    position:fixed;
+    top: 35px;
+    left:150px;
+  }
+  .a{
+    transform: rotate(45deg); 	
+  }
+  .b{
+    transform: rotate(-45deg);
+  }
+  .square{
+    border:60px solid #243D83;
+    position:fixed;
+    left:140px;
+    top:90px;
+    z-index:4;
+    transform: rotate(45deg)
+  }
+  .circle{
+    width:60px;
+    height:60px;
+    background:#EEB850;
+    border-radius:50%;
+    left:170px;
+    top:120px;
+    z-index:7;
+    position:fixed;
+  }
+</style>
