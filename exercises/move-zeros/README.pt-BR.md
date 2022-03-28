@@ -16,14 +16,14 @@ projects:
 Escreva um algoritmo que receba um array com elementos e mova todos os zeros
 no final, preservando a ordem dos demais elementos não nulos.
 
-__Exemplo__
+**Exemplo**
 
 ```js
-Entradas: [false,1,0,1,2,0,1,3,"a"]
-Resultados: [false,1,1,2,1,3,"a",0,0]
+Entradas: [false, 1, 0, 1, 2, 0, 1, 3, 'a'];
+Resultados: [false, 1, 1, 2, 1, 3, 'a', 0, 0];
 ```
 
-> __Importante__ ❗
+> **Importante** ❗
 >
-> - Considera el tipo de dato
-> - ¡No olvides retornar el  arreglo con los ceros al final!
+> - Considere o tipo de dado
+> - Não se esqueça de retornar o array com os zeros no final!

@@ -12,7 +12,7 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=plusTwo&title=Array-1](https://the-winter.github.io/codingjs/exercise.html?name=plusTwo&title=Array-1)
 
-Dado 2 arrays int, cada comprimento 2, devolve um novo array de
+Dados 2 arrays int, cada array com comprimento 2, retorne um novo array de
 comprimento 4 contendo todos os seus elementos.
 
 __Exemplo__
