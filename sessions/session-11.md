@@ -31,5 +31,6 @@
 
 - [Linear In](../exercises/linear-in/README.md)
 - [Can balance](../exercises/can-balance/README.md)
+- [Simple Elevator](../exercises/simple-elevator/README.md)
 
 ## Kahoot
