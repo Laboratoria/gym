@@ -13,6 +13,7 @@ Un edificio de varios pisos tiene un ascensor.
 
 La gente espera en fila en cada piso por el ascensor.
 
+
 El piso al que quieren ir está representado por un número 
 (será el número del botón que presionarán cuando entren al ascensor).
 
@@ -49,14 +50,21 @@ ANTES (gente esperando en cola)               DESPUÉS (gente en su destino)
 ### Reglas del ascensor
 
 * ¡El ascensor solo sube o baja!
-* Cada piso tiene botones para SUBIR y para BAJAR (excepto el primer y último piso, los cuales tienen solo SUBIR o BAJAR respectivamente)
-* El ascensor nunca cambia de dirección a menos que no haya más gente esperando subir o bajar en la dirección en la que va
+* Cada piso tiene botones para SUBIR y para BAJAR 
+(excepto el primer y último piso, los cuales tienen 
+solo SUBIR o BAJAR respectivamente)
+* El ascensor nunca cambia de dirección a menos que no haya más gente 
+esperando subir o bajar en la dirección en la que va
 * Cuando está vacío, el ascensor intentará ser inteligente. Por ejemplo:
-  * Si iba hacia arriba, podrá continuar hacia arriba para recoger a la persona en el piso más alto, que quiera bajar
-  * Si iba hacia abajo, entonces podrá seguir hacia abajo para recoger a la persona en el piso más bajo, que quiera subir
+  * Si iba hacia arriba, podrá continuar hacia arriba para recoger 
+  a la persona en el piso más alto, que quiera bajar
+  * Si iba hacia abajo, entonces podrá seguir hacia abajo para recoger 
+  a la persona en el piso más bajo, que quiera subir
 * El ascensor tiene una capacidad máxima de personas
-* Al ser llamado, el ascensor se detendrá aunque esté lleno, aunque - a menos que alguien se baje - ¡nadie más podrá subir!
-* Si el ascensor está vacío, y nadie espera por él, entonces deberá volver al primer piso
+* Al ser llamado, el ascensor se detendrá aunque esté lleno, 
+aunque - a menos que alguien se baje - ¡nadie más podrá subir!
+* Si el ascensor está vacío, y nadie espera por él, 
+entonces deberá volver al primer piso
 
 ### Reglas para personas
 
