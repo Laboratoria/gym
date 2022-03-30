@@ -55,10 +55,10 @@ solo SUBIR o BAJAR respectivamente)
 * El ascensor nunca cambia de dirección a menos que no haya más gente
 esperando subir o bajar en la dirección en la que va
 * Cuando está vacío, el ascensor intentará ser inteligente. Por ejemplo:
-  * Si iba hacia arriba, podrá continuar hacia arriba para recoger
-  a la persona en el piso más alto, que quiera bajar
-  * Si iba hacia abajo, entonces podrá seguir hacia abajo para recoger
-  a la persona en el piso más bajo, que quiera subir
+  - Si iba hacia arriba, podrá continuar hacia arriba para recoger
+  a la persona en el piso más alto, que quiera bajar.
+  - Si iba hacia abajo, entonces podrá seguir hacia abajo para recoger
+  a la persona en el piso más bajo, que quiera subir.
 * El ascensor tiene una capacidad máxima de personas
 * Al ser llamado, el ascensor se detendrá aunque esté lleno,
 aunque - a menos que alguien se baje - ¡nadie más podrá subir!
@@ -67,8 +67,12 @@ entonces deberá volver al primer piso
 
 ### Reglas para personas
 
-* La gente espera en "filas" que representan su orden de llegada a la espera del ascensor
+* La gente espera en "filas" que representan su orden de llegada a la espera
+del ascensor
 * Toda persona puede oprimir los botones de SUBIR o BAJAR para llamar al ascensor
 * Solo la gente que va en la misma dirección que el ascensor podrá entrar en él
-* La entrada es de acuerdo al orden de la "fila", aunque - aquellos que no puedan entrar no bloquean a los que estén por detrás que sí puedan entrar al ascensor
-* Si una persona no puede entrar al ascensor, oprimirá el botón de llamada SUBIR/BAJAR nuevamente una vez que el ascensor haya partido sin ella
+* La entrada es de acuerdo al orden de la "fila", aunque - aquellos
+que no puedan entrar no bloquean a los que estén por detrás que sí
+puedan entrar al ascensor
+* Si una persona no puede entrar al ascensor, oprimirá el botón de llamada
+SUBIR/BAJAR nuevamente una vez que el ascensor haya partido sin ella
