@@ -15,8 +15,8 @@ projects:
 Dados dois valores inteiros, a e b:
 
 - Retorna verdadeiro se qualquer um deles for 6.
-- Devolve OU se sua soma for 6
-- Devolve OU se sua diferença for 6
+- Devolve verdadeiro se sua soma for 6
+- Devolve verdadeiro se sua diferença for 6
 
 Nota: A função Math.abs(num) calcula o valor absoluto de um número.
 
