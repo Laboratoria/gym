@@ -9,9 +9,12 @@ OAs:
 
 [https://www.codewars.com/kata/59f061773e532d0c87000d16/train/javascript](https://www.codewars.com/kata/59f061773e532d0c87000d16/train/javascript)
 
-Imagina que empiezas en el 5to piso de un edificio, luego bajas al 2do piso, luego subes al 8vo. Has viajado un total de 3 + 6 = 9 pisos de distancia.
+Imagina que empiezas en el 5to piso de un edificio, luego bajas al 2do piso, 
+luego subes al 8vo. Has viajado un total de 3 + 6 = 9 pisos de distancia.
 
-Dado un arreglo que represente una serie de pisos que debes alcanzar en ascensor, retorne un número entero que represente la distancia total recorrida al visitar cada uno de los pisos del arreglo en orden.
+Dado un arreglo que represente una serie de pisos que debes alcanzar en ascensor, 
+retorne un número entero que represente la distancia total recorrida al visitar
+cada uno de los pisos del arreglo en orden.
 
 __Ejemplos simples__
 
