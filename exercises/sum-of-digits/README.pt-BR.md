@@ -1,7 +1,7 @@
 ---
 dificuldade:
   -Principiante
-OAs:
+AOs:
   - condicionais, strings, arrays
 projetos:
   - card validation
@@ -11,7 +11,7 @@ projetos:
 
 [https://www.codewars.com/kata/541c8630095125aba6000c00/train/javascript](https://www.codewars.com/kata/541c8630095125aba6000c00/train/javascript)
 
-Dado `n`, tome a soma dos dígitos de `n`. Se esse valor tiver mais de um dígito,
+Dado n, tome a soma dos dígitos de n. Se esse valor tiver mais de um dígito,
 continue reduzindo dessa forma até que um número de um único dígito seja
 produzido. A entrada será um inteiro não negativo.
 

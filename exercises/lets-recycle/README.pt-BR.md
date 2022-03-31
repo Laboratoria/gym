@@ -13,23 +13,23 @@ projects:
 
 [https://www.codewars.com/kata/5b6db1acb118141f6b000060/javascript](https://www.codewars.com/kata/5b6db1acb118141f6b000060/javascript)
 
-Você receberá um array de objetos. Cada objeto possui `type`, `material` e
+Se você fornecer uma lista de objetos. Cada objeto tiene `type`, `material` y
 possivelmente `secondMaterial`. Os materiais existentes são: papel, vidro,
-orgânico e plástico.
+orgânico, y plástico.
 
-Seu trabalho é classificar esses objetos nas 4 lixeiras de acordo com seu
-`material` (e `secondMaterial`, quando presente), listando o `type` dos objetos
-que devem ir para essas lixeiras.
+O trabalho é classificado como objetos nos 4 contenedores de reciclagem de
+acuerdo com seu `material` (e `secondMaterial`, no caso de existir), listando o
+valor `type` dos objetos que devem ser nos mesmos contenedores.
 
 __Notas__
 
-1. As lixeiras devem vir na mesma ordem dos materiais listados acima
-(`paper`, `glass`, `organic` e `plastic`).
-2. Todas as lixeiras devem ser listadas na saída, mesmo que algumas estejam
-vazias,
-3. Se um objeto for feito de dois materiais, seu `type` deve aparecer em ambas
-respectivas lixeiras.
-4. A ordem de `type` em cada lixeira deve ser a mesma que a ordem de seus
+1. Os contenedores devem vir na mesma ordem dos materiais listados acima
+(paper, glass, organic, y plastic).
+2. Todos os contenedores deben aparecem na saída, inclusive si algunos de
+ellos están vacíos,
+3. Se um objeto está dentro dos materiais, `type` deve aparecer em seus
+respectivos contenedores.
+4. A ordem dos 'tipos' em cada conteúdo deve ser o mismo que a ordem de seus
 respectivos objetos na lista de entrada.
 
 __Exemplo__

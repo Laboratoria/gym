@@ -18,7 +18,7 @@ __Objetivo__
 
 Escreva o HTML/CSS no editor para replicar a imagem de destino à direita.
 
-__Código base__
+__Código de base__
 
 ```html
     <div></div>
@@ -31,4 +31,4 @@ __Código base__
     </style>
 ```
 
-> *Dica:* [https://singhak.in/draw-half-and-quarter-circle-with-css/](https://singhak.in/draw-half-and-quarter-circle-with-css/)
+> *Hint:* [https://singhak.in/draw-half-and-quarter-circle-with-css/](https://singhak.in/draw-half-and-quarter-circle-with-css/)
