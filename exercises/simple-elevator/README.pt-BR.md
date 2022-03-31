@@ -1,6 +1,13 @@
 ---
 difficulty:
   - intermediate
+OAs:
+  - conditionals
+  - arrays
+projects:
+  - cipher
+  - card-validation
+  - data-lovers
 ---
 
 # Simple Elevator
