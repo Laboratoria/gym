@@ -32,11 +32,11 @@ No podemos arriesgar las vidas de nuestros pasajeros, de modo que si obtenemos
 entradas erróneas, nuestro ascensor deberá permanecer en el mismo nivel.
 Entonces por ejemplo:
 
-  * `goto(2, '4')` debe retornar 0, porque no hay botón `'4'` en el ascensor
-  * `goto(4, '0')` debe retornar 0, porque no hay nivel 4
-  * `goto(3, undefined)` debe retornar 0
-  * `goto(undefined, '2')` debe retornar 0
-  * `goto([], '2')` debe retornar 0 porque el tipo del nivel es un arreglo en
+- `goto(2, '4')` debe retornar 0, porque no hay botón `'4'` en el ascensor
+- `goto(4, '0')` debe retornar 0, porque no hay nivel 4
+- `goto(3, undefined)` debe retornar 0
+- `goto(undefined, '2')` debe retornar 0
+- `goto([], '2')` debe retornar 0 porque el tipo del nivel es un arreglo en
   vez de un número
-  * `goto(3, {})` debe retornar 0 porque el tipo del botón es un objeto en vez
+- `goto(3, {})` debe retornar 0 porque el tipo del botón es un objeto en vez
   de un _string_

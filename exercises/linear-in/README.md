@@ -20,12 +20,10 @@ Nota: La mejor solución hace una sola pasada "lineal"
 por ambas matrizes, aprovechando que ambas matrizes
 ya está ordenado.
 
-__Ejemplo__
+**Ejemplo**
 
 ```js
     linearIn([1, 2, 4, 6], [2, 4]) → true
     linearIn([1, 2, 4, 6], [2, 3, 4]) → false
     linearIn([1, 2, 4, 4, 6], [2, 4]) → true
 ```
-
-
