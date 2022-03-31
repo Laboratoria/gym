@@ -1,6 +1,6 @@
 ---
 difficulty:
-  - newbie
+  - intermediate
 ---
 
 # Simple Elevator
@@ -23,7 +23,7 @@ deberá retornar `2`.
 
 Si el ascensor está en el 3er nivel y el usuario oprime el botón `'0'`,
 el ascensor deberá bajar 3 niveles, de modo que nuestra función deberá
-retornar `-3).
+retornar `-3`).
 
 Si el ascensor está en el 2do nivel, y el usuario oprime el botón `'2'`,
 el ascensor no se moverá, y retornaremos `0`.
@@ -32,10 +32,10 @@ No podemos arriesgar las vidas de nuestros pasajeros, de modo que si obtenemos
 entradas erróneas, nuestro ascensor deberá permanecer en el mismo nivel.
 Entonces por ejemplo:
 
-- `goto(2, '4')` debe retornar 0, porque no hay botón `'4'` en el ascensor
-- `goto(4, '0')` debe retornar 0, porque no hay nivel 4
-- `goto(3, undefined)` debe retornar 0
-- `goto(undefined, '2')` debe retornar 0
+- `goto(2, '4')` debe retornar `0`, porque no hay botón `'4'` en el ascensor
+- `goto(4, '0')` debe retornar `0`, porque no hay nivel 4
+- `goto(3, undefined)` debe retornar `0`
+- `goto(undefined, '2')` debe retornar `0`
 - `goto([], '2')` debe retornar 0 porque el tipo del nivel es un arreglo en
   vez de un número
 - `goto(3, {})` debe retornar 0 porque el tipo del botón es un objeto en vez
