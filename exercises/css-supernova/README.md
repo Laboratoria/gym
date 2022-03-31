@@ -10,7 +10,7 @@ projects:
   - social network
 ---
 
-# CSS Boxception
+# CSS Supernova
 
 [https://cssbattle.dev/play/83](https://cssbattle.dev/play/83)
 
