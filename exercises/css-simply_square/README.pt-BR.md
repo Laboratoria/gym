@@ -18,7 +18,7 @@ __Objetivo__
 
 Escreva o HTML/CSS no editor para replicar a imagem de destino à direita.
 
-__Código de base__
+__Código base__
 
 ```html
     <div></div>
