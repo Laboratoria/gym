@@ -13,10 +13,10 @@ projects:
 [https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript](https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript)
 
 Seu objetivo neste exercício é implementar uma função que receba um array
-com inteiros e determine se a soma dos números é 'par' ou 'ímpar'
+com inteiros e determine se a soma dos números é 'ímpar' ou 'par'
 
 De acordo com o resultado da soma, você deve retornar uma string caso
-é par `'ímpar'` e se for ímpar `'par'`
+é ímpar `'odd'` e se for par `'even'`
 
 __Exemplo 1__
 
