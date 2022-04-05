@@ -21,7 +21,7 @@
 
 #### Beginner
 
-- [Spongebob Meme](../exercises/spongebob-meme/README.md)
+- [sPoNgEbOb MeMe](../exercises/spongebob-meme/README.md)
 - [Star Lovers Warmup](../exercises/star-lovers-warmup/README.md)
 
 #### Intermediate
