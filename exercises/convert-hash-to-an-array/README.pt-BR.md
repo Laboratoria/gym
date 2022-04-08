@@ -14,17 +14,17 @@ projects:
 
 [https://www.codewars.com/kata/59557b2a6e595316ab000046/train/javascript](https://www.codewars.com/kata/59557b2a6e595316ab000046/train/javascript)
 
-Convertir un hash a un arreglo. Nada mas, nada menos.
+Converter um haxixe em uma matriz. Nada mais, nada menos.
 
-__Ejemplo__
+__Exemplo:__
 
 ```js
 Input: { name: 'Jeremy', age: 24, role: 'Software Engineer' }
-Salida: [["age", 24], ["name", "Jeremy"], ["role", "Software Engineer"]]
+Saída: [["age", 24], ["name", "Jeremy"], ["role", "Software Engineer"]]
 ```
 
 > __Importante__ ❗
 >
-> - La salida debe ser ordenada alfabéticamente
+> - A matriz de saída deve ser ordenada por ordem alfabética.
 
-Buena suerte!
+Boa Sorte!
