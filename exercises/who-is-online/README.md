@@ -1,3 +1,12 @@
+---
+difficulty:
+  - Beginner
+OAs:
+  - Objetos (key, value)
+projects:
+  - Data-lovers
+---
+
 # Who's online?
 
 [https://www.codewars.com/kata/5b6375f707a2664ada00002a/train/javascript](https://www.codewars.com/kata/5b6375f707a2664ada00002a/train/javascript)
@@ -56,7 +65,3 @@ valores: `online` o `offline`; `lastActivity` será siempre un numero >= 0.
 
 Finalmente, si no tienes ningún amigo o amiga un tu app de chat, el input será
 un arreglo vacío `[]`. Si este es el caso, debes retornar un objeto vacío `{}`.
-
-## Objetivos de aprendizaje (OAs)
-
-- Objetos (key, value)
