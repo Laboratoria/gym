@@ -1,0 +1,54 @@
+<div class="firstRow">
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</div>
+<div class="secondRow">
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</div>
+<style>
+  body {
+    margin: 90px 70px;
+    background-color: #1a4341;
+  }
+  .firstRow,
+  .secondRow {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    margin-bottom: 20px;
+  }
+  .firstRow div:nth-child(2n) {
+    background-color: #f3ac3c;
+  }
+  .firstRow div:nth-child(3n + 1) {
+    border-radius: 50%;
+  }
+  .firstRow div:nth-child(-3n + 3),
+  .firstRow div:nth-child(-3n + 2) {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+  }
+  .secondRow div:nth-child(2n-1) {
+    background-color: #f3ac3c;
+  }
+  .secondRow div:nth-child(-3n + 3),
+  .secondRow div:nth-child(-3n + 2) {
+    border-radius: 50%;
+  }
+  .secondRow div:nth-child(3n + 1) {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+  .firstRow div,
+  .secondRow div {
+    width: 50px;
+    height: 50px;
+    background: #998235;
+    outline: 1px solid green;
+  }
+</style>
