@@ -12,7 +12,7 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=frontAgain&title=String-1](https://the-winter.github.io/codingjs/exercise.html?name=frontAgain&title=String-1)
 
-Dada un string, devuelve true si los 2 primeros caracteres 
+Dada un string, devuelve true si los 2 primeros caracteres
 también aparecen al final, como en el caso de "edited".
 
 __Ejemplo__

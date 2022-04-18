@@ -12,10 +12,10 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=maxMod5&title=Logic-1](https://the-winter.github.io/codingjs/exercise.html?name=maxMod5&title=Logic-1)
 
-Dados dos valores int, devuelve el que sea mayor. Sin embargo, 
-si los dos valores tienen el mismo residuo cuando se dividen 
-por 5, entonces se devuelve el valor más pequeño. Sin embargo, 
-en todos los casos, si los dos valores son iguales, devuelve 0. 
+Dados dos valores int, devuelve el que sea mayor. Sin embargo,
+si los dos valores tienen el mismo residuo cuando se dividen
+por 5, entonces se devuelve el valor más pequeño. Sin embargo,
+en todos los casos, si los dos valores son iguales, devuelve 0.
 Nota: el operador % "mod" calcula el residuo, por ejemplo, 7 % 5 es 2.
 
 __Ejemplo:__
