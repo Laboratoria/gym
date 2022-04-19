@@ -4,16 +4,17 @@ difficulty:
 OAs:
   - css selectors
   - box model
+  - border radius
 ---
 
-# CSS Cups-and-Balls
+# CSS Smiley
 
-[https://cssbattle.dev/play/28](https://cssbattle.dev/play/28)
-![CSS cups and balls](css-cups-and-balls.png)
+[https://cssbattle.dev/play/26](https://cssbattle.dev/play/26)
+![CSS Smiley](css_smiley.png)
 
 __Objetivo__
 
-Escriba el HTML/CSS en el editor para replicar la imagen objetivo de la derecha.
+Escreva o HTML/CSS no editor para replicar a imagem de destino à direita.
 
 __Código de base__
 
@@ -27,3 +28,5 @@ __Código de base__
       }
     </style>
 ```
+
+Tip: _border-radius_ recebe vários parámetros.
