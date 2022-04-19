@@ -1,15 +1,16 @@
 ---
 difficulty:
-  - Beginner
+  - intermediate
 OAs:
   - css selectors
   - box model
+  - border-radius
 ---
 
-# CSS Cups-and-Balls
+# CSS Blossom
 
-[https://cssbattle.dev/play/28](https://cssbattle.dev/play/28)
-![CSS cups and balls](css-cups-and-balls.png)
+[https://cssbattle.dev/play/25](https://cssbattle.dev/play/25)
+![CSS Blossom](css-blossom.png)
 
 __Objetivo__
 
@@ -27,3 +28,5 @@ __Código de base__
       }
     </style>
 ```
+
+Tip: _border-radius_ recibe varios parámetros.

@@ -7,10 +7,12 @@
 #### Beginner
 
 - [CSS Cups and Balls](../exercises/css-cups-and-balls/README.md)
+- [CSS Smiley](../exercises/css-smiley/README.md)
 
 #### Intermediate
 
 - [CSS Magical Tree](../exercises/css-magical-tree/README.md)
+- [CSS Blossom](../exercises/css-blossom/README.md)
 
 ### JavaScript
 
