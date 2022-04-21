@@ -1,10 +1,10 @@
-
-# Sesión 3 - 15/02/2022
+# Sesión 2 - 08/02/2022
 
 ## Ejercicios
 
 | Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
 | ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
-| [**Sherlock Syllogisms**](https://github.com/Laboratoria/gym/tree/main/exercises/sherlock-syllogisms)                                                 |  **no-code** , **newbie**        | `logic`           | <ul><li> Pensamiento lógico </li></ul>                                       |
-| [**Return Something**](https://github.com/Laboratoria/gym/tree/main/exercises/return-something-warmup)                                                 |  **newbie**        | `strings`, `structura funciones`           | <ul><li> Funciones </li><li> Strings </li></ul>                                       |
-| [**Secret Society**](https://github.com/Laboratoria/gym/tree/main/exercises/secret-society)       | **beginner**       | `homework`,`arrays`,`strings`          | <ul><li> Funciones </li><li> Arrays </li><li> Strings </li></ul>                              |
+| [**Word ladders**](../exercises/word-ladders/)                                                 |  **no-code** , **newbie**        | `algoritmos`           | <ul><li> Pensamiento lógico </li><li> Algoritmos </li></ul>                                       |
+| [**95. Criptograma producto**](https://www.cgtentubanco.org/bbva/2/rompecocos/rompecocos_histo.htm)                                                  |  **no-code**        | `logic`           | <ul><li> Pensamiento lógico </li></ul>                                       |
+| [**93. La fiesta del barrio**](https://www.cgtentubanco.org/bbva/2/rompecocos/rompecocos_histo.htm)       | **no-code**        | `logic`,`homework`           | <ul><li> Pensamiento lógico </li><li> Ejercicio para hacer en casa </li></ul>                                       |
+| [**87. Las tres novias**](https://www.cgtentubanco.org/bbva/2/rompecocos/rompecocos_histo.htm) | **no-code** | `logic`, `homework` | <ul><li> Pensamiento lógico</li><li> Ejercicio para hacer en casa </li></ul> |
