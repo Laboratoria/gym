@@ -8,11 +8,11 @@ projects:
   - social-network
 ---
 
-# CSS Ukulele
+# CSS Totally Triangle
 
 [https://cssbattle.dev/play/78](https://cssbattle.dev/play/78)
 
-![CSS Totally Triangle](css-ukulele.png)
+![CSS Ukulele](css_ukulele.png)
 
 __Objetivo__
 
