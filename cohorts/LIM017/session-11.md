@@ -1,10 +1,9 @@
 # Session 11 - 12.04.2022
 
-
 ## lLove6
 
 | difficulty: | OAs:        | projects: |
-| ----------- | ----------- | -----------| 
+| ----------- | ----------- | -----------|
 | newbie      | conditionals| cipher |
 |             |             | card-validation |
 
@@ -28,14 +27,12 @@ Nota: la función `Math.abs(num)` calcula el valor absoluto de un número.
 
 ___
 
-
 ## Stop gninnipS My sdroW
 
 | difficulty: | OAs:        | projects: |
 | ----------- | ----------- | -----------|
 | beginner    | Manipulación de strings | data-lovers|
 |             |  Métodos de arreglos    | memory-match|
-
 
 [https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript](https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript)
 
@@ -66,9 +63,7 @@ ___
 |             | box model    | social network |
 |             | position |
 
-
 [https://cssbattle.dev/play/23](https://cssbattle.dev/play/23)
-
 
 **Objetivo**
 
