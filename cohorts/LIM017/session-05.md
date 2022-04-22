@@ -4,7 +4,7 @@
 
 ### Newbie
 
-- [**Star Lovers**](https://github.com/Laboratoria/gym/tree/main/exercises/star-lovers-warmup )
+- [**Star Lovers**](https://github.com/Laboratoria/gym/tree/main/exercises/star-lovers-warmup)
 
 ### Beginner
 
