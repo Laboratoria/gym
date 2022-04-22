@@ -1,6 +1,5 @@
 # Sesión 6 - 08/03/2022
 
-
 ## Ejercicios
 
 ### Newbie
@@ -14,7 +13,6 @@
 ### Intermediate
 
 - [**Format words into a sentence**](../exercises/format-words/README.md) (tarea)
-
 
 ## Kahoot en el checkout
 
