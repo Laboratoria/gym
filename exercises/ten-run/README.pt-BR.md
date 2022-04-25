@@ -12,12 +12,11 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=tenRun&title=Array-2](https://the-winter.github.io/codingjs/exercise.html?name=tenRun&title=Array-2)
 
-Para cada múltiplo de 10 del arreglo, cambia todos
-los valores que le siguen para que sean são múltiplos
-de 10, hasta encontrar otro múltiplo de 10.
-Así, [2, 10, 3, 4, 20, 5] da como resultado [2, 10, 10, 10, 20, 20].
+Para cada múltiplo de 10 no array fornecido, altere todos os valores seguintes
+para ser esse múltiplo de 10, até encontrar outro múltiplo de 10. Portanto,
+[2, 10, 3, 4, 20, 5] resulta em [2, 10, 10, 10, 20, 20].
 
-__Ejemplo__
+**Exemplo**
 
 ```js
     tenRun([2, 10, 3, 4, 20, 5]) → [2,10,10,10,20,20]

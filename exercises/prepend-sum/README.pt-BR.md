@@ -12,11 +12,11 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=prependSum&title=Array-2](https://the-winter.github.io/codingjs/exercise.html?name=prependSum&title=Array-2)
 
-Retorna uma versão modificada do array de entrada (nums),
-em que os dois primeiros elementos foram removidos e adicionados
-um elemento -a soma desses dois elementos- no início do array.
+Retorne uma versão modificada do array de entrada (nums), onde os dois primeiros
+itens foram removidos e um item – a soma desses dois itens – é adicionado ao
+início do array.
 
-__Ejemplo__
+**Exemplo**
 
 ```js
     prependSum([1, 2, 4, 4]) → 3,4,4
