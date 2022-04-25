@@ -8,19 +8,16 @@ projects:
   - card-validation
 ---
 
-# lLove6
+# love6
 
 [https://the-winter.github.io/codingjs/exercise.html?name=love6&title=Logic-1](https://the-winter.github.io/codingjs/exercise.html?name=love6&title=Logic-1)
 
-Dados dois valores inteiros, a e b:
+O número 6 é realmente um grande número. Dados dois valores int, `a` e `b`,
+retorne `true` se um deles for 6. Ou se sua soma ou diferença for 6.
 
-- Retorna verdadeiro se qualquer um deles for 6.
-- Devolve verdadeiro se sua soma for 6
-- Devolve verdadeiro se sua diferença for 6
+Nota: a função `Math.abs(num)` calcula o valor absoluto de um número.
 
-Nota: A função Math.abs(num) calcula o valor absoluto de um número.
-
-**Ejemplo**
+**Exemplo**
 
 ```js
     love6(6, 4) → true
