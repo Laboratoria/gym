@@ -1,5 +1,5 @@
 # Gimnasio
 
-## [Ejercicios](./exercises/README.md)
+## [Ejercicios](./exercises/)
 
-## [Cohorts](./cohorts/README.md)
+## [Sesiones](./sessions/)
