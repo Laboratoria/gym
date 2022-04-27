@@ -22,6 +22,8 @@
 
 - [Find Multiples](../exercises/find-multiples/)
 
+- [Move All Balls to Each Box](../exercises/move-balls-boxes/)
+
 #### Advanced
 
 - [The Lift](../exercises/the-lift/)
