@@ -1,6 +1,6 @@
 ---
 difficulty:
-  - intermediate
+  - newbie
 OAs:
   - css selectors
   - box model
