@@ -76,3 +76,33 @@ que no puedan entrar no bloquean a los que estén por detrás que sí
 puedan entrar al ascensor
 * Si una persona no puede entrar al ascensor, oprimirá el botón de llamada
 SUBIR/BAJAR nuevamente una vez que el ascensor haya partido sin ella
+
+### Tarea del Kata
+
+* Llevar a todas las personas a los pisos a los que desean ir, obedeciendo las reglas
+para el ascensor y las reglas para personas
+* **Retorna una lista de todos los pisos que el ascensor visitó (en el orden visitado!)**
+
+## Entrada y Salida
+
+### Entrada
+
+* `queues` una lista con las personas en cola para cada piso del edificio
+* La altura del edificio varía
+* 0 = la planta base
+* No hay cola en cada piso
+* El elemento 0 es el primero de cada cola
+* Los números indican a qué piso quiere ir la persona
+* `capacity` indica la capacidad máxima del ascensor
+
+_Validación de parámetros_ Podemos asumir que los parámetros están OK. No hay necesidad
+de comprobar cosas como:
+
+* Que la gente quiera ir a pisos que no existen
+* Que la gente quiera ir a un piso en el que ya está
+* Edificios con menos de 2 pisos
+* Sótanos
+
+### Salida
+
+* **Una lista de todos los pisos que el ascensor visitó (en el orden visitado!)**
