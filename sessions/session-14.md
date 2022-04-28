@@ -4,6 +4,10 @@
 
 ### HTML/CSS
 
+#### Newbie
+
+- [CSS Wash your hands](../exercises/css-wash_your_hands/)
+
 #### Beginner
 
 - [CSS Ukulele](../exercises/css-ukulele/)
