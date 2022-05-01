@@ -1,12 +1,12 @@
 ---
-dificuldade:
-  - novato
-AOs:
-  - Uso de expressões regulares
-  - Manipulação de strings
-projetos:
-  - cifra
-  - validação do cartão
+difficulty:
+  - Newbie
+OAs:
+  - regular expression
+  - string manipulation
+projects:
+  - cypher
+  - card validation
 ---
 
 # Disemvowel Trolls
@@ -15,19 +15,19 @@ projetos:
 
 Trolls estão atacando sua seção de comentários!
 
-Uma maneira comum de lidar com essa situação é remover todas as vogais do
-troll comentários para neutralizar o tópico de comentários.
+Uma maneira comum de lidar com essa situação é remover todas as vogais dos
+comentários dos trolls, neutralizando a ameaça.
 
 Sua tarefa é escrever uma função que receba uma string e retorne uma nova string
 com todas as vogais removidas.
 
-__Exemplo__
+**Exemplo**
 
-``` js
-Entrada: "This website is for losers LOL!"
-Saída: "Ths wbsts fr lsrs LL!"
+```js
+Entrada: 'This website is for losers LOL!';
+Saída: 'Ths wbsts fr lsrs LL!';
 ```
 
-> __Importante__ ❗
+> **Importante** ❗
 >
 > "y" não é considerado uma vogal.
