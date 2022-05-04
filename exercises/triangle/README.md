@@ -9,7 +9,7 @@ projects:
 
 # Triangle
 
-[https://the-winter.github.io/codingjs/exercise.html?name=triangle&title=Recursion-1]https://the-winter.github.io/codingjs/exercise.html?name=triangle&title=Recursion-1)
+[https://the-winter.github.io/codingjs/exercise.html?name=triangle&title=Recursion-1](https://the-winter.github.io/codingjs/exercise.html?name=triangle&title=Recursion-1)
 
 Tenemos un triángulo hecho de bloques. La fila superior tiene 1 bloque,
 la siguiente fila hacia abajo tiene 2 bloques, la siguiente fila tiene 3
