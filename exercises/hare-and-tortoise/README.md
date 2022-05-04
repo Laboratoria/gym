@@ -1,3 +1,11 @@
+---
+difficulty:
+  - Intermediate
+OAs:
+  - Uso de condicionales (if-else | switch | operador ternario)
+  - Manipulación de strings
+---
+
 # The Race Between Hare and Tortoise :checkered_flag: :rabbit: :turtle
 
 [https://www.codewars.com/kata/57c398c0210f3e6f150001fc/train/javascript](https://www.codewars.com/kata/57c398c0210f3e6f150001fc/train/javascript)
@@ -58,8 +66,3 @@ race(100,10,1500,500,100)
 race(100,10,1200,500,100)
 "The hare won the race. He is sleeping for 105 minutes."
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Uso de condicionales (if-else | switch | operador ternario)
-- Manipulación de strings
