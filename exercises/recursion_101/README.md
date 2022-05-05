@@ -1,6 +1,6 @@
 # Recursion 101
 
-https://www.codewars.com/kata/5b752a42b11814b09c00005d
+https://www.codewars.com/kata/5b752a42b11814b09c00005d/train/javascript
 
 En este Kata, te serán dados dos números enteros positivos a y b,
 y tu tarea será aplicar los siguientes pasos:
