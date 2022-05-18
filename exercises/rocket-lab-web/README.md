@@ -1,9 +1,10 @@
 ---
 difficulty:
-  - beginner
+  - advance
 OAs:
   - HTML
   - CSS
+  - JS
 projects:
   - labnotes
   - burger-queen
