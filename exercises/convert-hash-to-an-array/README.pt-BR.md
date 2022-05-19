@@ -14,7 +14,7 @@ projects:
 
 [https://www.codewars.com/kata/59557b2a6e595316ab000046/train/javascript](https://www.codewars.com/kata/59557b2a6e595316ab000046/train/javascript)
 
-Converter um haxixe em uma matriz. Nada mais, nada menos.
+Converter um hash (objeto) em um array. Nada mais, nada menos.
 
 __Exemplo:__
 
@@ -25,6 +25,6 @@ Saída: [["age", 24], ["name", "Jeremy"], ["role", "Software Engineer"]]
 
 > __Importante__ ❗
 >
-> - A matriz de saída deve ser ordenada por ordem alfabética.
+> - O array de saída deve ser ordenado por ordem alfabética.
 
 Boa Sorte!

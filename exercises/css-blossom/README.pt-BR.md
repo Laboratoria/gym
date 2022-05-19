@@ -10,13 +10,14 @@ OAs:
 # CSS Blossom
 
 [https://cssbattle.dev/play/25](https://cssbattle.dev/play/25)
+
 ![CSS Blossom](css-blossom.png)
 
 __Objetivo__
 
 Escreva o HTML/CSS no editor para replicar a imagem de destino à direita.
 
-__Código de base__
+__Código base__
 
 ```html
     <div></div>
@@ -29,4 +30,4 @@ __Código de base__
     </style>
 ```
 
-Tip: _border-radius_ recebe vários parámetros.
+Dica: _border-radius_ recebe vários parâmetros.

@@ -9,14 +9,16 @@ projects:
 
 # Who's online?
 
+[https://www.codewars.com/kata/5b6375f707a2664ada00002a/train/javascript](https://www.codewars.com/kata/5b6375f707a2664ada00002a/train/javascript)
+
 Você tem um aplicativo de bate-papo, como você sabe quem está online?
 
 Você quer mostrar a seus usuários quais de seus amigos estão online e
 disponível para conversar.
 
-Dada uma matriz de objetos contendo nome de usuário, status e tempo desde
-a última atividade (em minutos), crie uma função para determinar quem é
-`online`, `offline` y `away`.
+Dado um array de objetos contendo nome de usuário, status e tempo desde
+a última atividade (em minutos), crie uma função para determinar quem está
+`online`, `offline` e `away`.
 
 Se alguém está `online` mas sua `lastActivity` foi há mais de 10 minutos, então
 é considerado `away`.
@@ -63,7 +65,7 @@ Se, por exemplo, nenhum usuário estiver online, a saída deverá ficar assim:
 ```
 
 `username` sempre será uma string; `status` sempre será um dos seguintes
-valores: `online` o `offline`; `lastActivity` sempre será um número >= 0.
+valores: `online` ou `offline`; `lastActivity` sempre será um número >= 0.
 
 Por fim, se você não tiver amigos em seu aplicativo de bate-papo, a entrada será
-uma matriz vazia `[]`. Se for esse o caso, você deve retornar um objeto `{}` vazio.
+um array vazio `[]`. Se for esse o caso, você deve retornar um objeto `{}` vazio.
