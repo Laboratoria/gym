@@ -12,9 +12,8 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=frontAgain&title=String-1](https://the-winter.github.io/codingjs/exercise.html?name=frontAgain&title=String-1)
 
-Dada uma corda, retornar verdadeiro se os 2 primeiros
-caracteres da corda também aparecerem no final da corda,
-tal como com "editado".
+Dada uma string, retorne `true` se os primeiros 2 caracteres da string também
+aparecerem no final da string, como com "edited".
 
 __Exemplo__
 

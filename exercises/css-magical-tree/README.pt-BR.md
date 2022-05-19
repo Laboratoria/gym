@@ -13,7 +13,7 @@ OAs:
 
 ![Css Magical Tree](css-magical-tree.png)
 
-__Meta__
+__Objetivo__
 
 Escreva o HTML/CSS no editor para replicar a imagem de destino à direita.
 

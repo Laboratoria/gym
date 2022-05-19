@@ -9,13 +9,14 @@ OAs:
 # CSS Cups-and-Balls
 
 [https://cssbattle.dev/play/28](https://cssbattle.dev/play/28)
-![CSS Equals](css-cups-and-balls.png)
+
+![CSS Cups-and-Balls](css-cups-and-balls.png)
 
 __Objetivo__
 
 Escreva o HTML/CSS no editor para replicar a imagem de destino à direita.
 
-__Código de base__
+__Código base__
 
 ```html
     <div></div>
