@@ -45,7 +45,7 @@ visualizar la información de las capsulas que se han mandado al espacio.
 > > > - `#65799b`, `#5e2563`
 > > > - `#7117ea`, `#ea6060`
 >
-> - Si quieres consultar el sitio web podras hacerlo en [https://rocket-laboratoria.vercel.app](https://rocket-laboratoria.vercel.app)
+> - Si quieres consultar el sitio web podrás hacerlo en [https://rocket-laboratoria.vercel.app](https://rocket-laboratoria.vercel.app)
 >
 > - En algunas ocasiones nos vamos a enfrentar a retos donde demoremos mas de un
 > dia en terminarlo (este reto puede ser el caso).
