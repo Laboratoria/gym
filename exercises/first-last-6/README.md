@@ -8,7 +8,7 @@ projects:
   - card validation
 ---
 
-# fistLast6
+# firstLast6
 
 [https://the-winter.github.io/codingjs/exercise.html?name=firstLast6&title=Array-1](https://the-winter.github.io/codingjs/exercise.html?name=firstLast6&title=Array-1)
 
