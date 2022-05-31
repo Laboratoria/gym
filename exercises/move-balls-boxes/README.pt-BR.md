@@ -12,50 +12,44 @@ projects:
 
 [https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
 
-Você receberá um `string` de comprimento n. Cada caractere na corda
-representa uma caixa. Se no caracter `i` houver um `0` então a caixa
- está vazia. Sehá um `1` então a caixa contém uma bola.
+Você receberá string chamada `boxes` de comprimento `n`, onde cada posição
+`boxes[i]` é considerada uma caixa, que terá valor `'0'` se estiver **vazia** e
+`'1'` se contiver **uma** bola.
 
-Por exemplo, o "cordão" "110", é de comprimento 3 e representa 3 caixas.
-No primeiro e segundo caracteres (posições 0 e 1) é um "1", ou seja, a
-primeira e segunda caixas têm uma bola cada uma. A segunda caixa tem uma bola
-cada. O terceiro caractere (posição 2) tem um "0", ou seja, a terceira caixa
-tem uma bola cada.
+Em uma operação, você pode mover **uma** bola de uma caixa para uma caixa
+adjacente. A caixa `i` é adjacente à caixa `j` se `abs(i - j) == 1`. Observe
+que após executar a operação, pode haver mais de uma bola dentro das caixas.
 
-É então necessário calcular para cada caixa o número mínimo de
-movimentos necessário para mover todas as bolas para dentro de
-cada caixa. Em um movimento, apenas uma bola pode ser movida
-entre caixas adjacentes. A caixa i é adjacente à caixa j
-se abs(i - j) == 1. Note que após fazer isso, pode haver
-mais de uma bola em algumas caixas.
+Retorne array `answer` de tamanho `n`, onde `answer[i]` é o número **mínimo** de
+operações necessárias para mover todas as bolas para a caixa na posição `i`.
 
-Retornar uma resposta de matriz de tamanho n, onde a resposta[i] é
-o número mínimo de operações necessárias para mover todas as bolas.
-de operações necessárias para mover todas as bolas para a cela iital.
+Cada `answer[i]` é calculada considerando o estado inicial das caixas.
 
-Por exemplo, para o "cordão" "110", a resposta é o "barulho" [1,1,3].
+**Exemplo 1:**
 
-1) Primeira caixa: você terá que mover uma bola da segunda caixa para a
-primeira caixa em uma caixa em uma única operação.
+```text
+Entrada: boxes = "110"
+Saída: [1,1,3]
+Explicação: A resposta para cada caixa é a seguinte:
 
-2) Segunda caixa: você terá que mover uma bola da primeira caixa para a
-segunda em uma única operação.
+1. Primeira caixa: você terá que mover uma bola da segunda caixa para a primeira
+em uma operação.
+2. Segunda caixa: você terá que mover uma bola da primeira caixa para a segunda
+caixa em uma operação.
+3. Terceira caixa: você terá que mover uma bola da primeira caixa para a
+terceira caixa em duas operações e mover uma bola da segunda caixa para a
+terceira caixa em uma operação.
+```
 
-3) Terceira caixa: você terá que mover uma bola da primeira caixa para a
-terceira caixa em duas operações, e mover uma bola da segunda caixa para
-a terceira caixa em uma operação.
+**Exemplo 2:**
 
-Dica 1:
+```text
+Entrada: caixas = "001011"
+Saída: [11,8,5,4,3,4]
+```
 
-Se você quiser mover uma bola da caixa i para a caixa j, você precisará
-abs(i-j) move-se.
+**Restrições:**
 
-Dica 2:
-
-Para mover todas as bolas para alguma caixa, você pode movê-las uma
-de cada vez.
-
-Dica 3:
-
-Para cada caixa i, iterar sobre cada bola em uma caixa j, e adicionar abs(i-j)
-para a posição i da resposta de "array".
+- `n == boxes.length`
+- `1 <= n <= 2000`
+- `boxes[i]` é `'0'` ou `'1'`.
