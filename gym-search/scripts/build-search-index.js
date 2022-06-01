@@ -10,7 +10,7 @@ const allExercises = getAllExercises([
   'OAs',
 ]);
 
-await $`echo ${JSON.stringify(allExercises)} > data/all-exercises.json`;
+await fs.writeJson('data/all-exercises.json', allExercises)
 
 const searchIndex = lunr(function () {
   this.ref('slug')
@@ -25,9 +25,9 @@ const searchIndex = lunr(function () {
   }, this)
 });
 
-const serializedIdx = JSON.stringify(searchIndex)
+// const serializedIdx = JSON.stringify(searchIndex)
 
-await $`echo ${serializedIdx} > data/search-index.json`;
+await fs.writeJson('data/search-index.json', searchIndex)
 
 // let branch = await $`git branch --show-current`
 // await $`dep deploy --branch=${branch}`
@@ -39,4 +39,5 @@ await $`echo ${serializedIdx} > data/search-index.json`;
 // ])
 
 // let name = 'foo bar'
+// await $`mkdir /tmp/${name}`
 // await $`mkdir /tmp/${name}`
