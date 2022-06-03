@@ -1,3 +1,14 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - objects
+projects:
+  - memory-match
+  - data-lovers
+  - social-network
+---
+
 # Count strings in objects
 
 [https://www.codewars.com/kata/565b3542af398bfb50000003/train/javascript](https://www.codewars.com/kata/565b3542af398bfb50000003/train/javascript)
@@ -18,9 +29,3 @@ Entrada: obj = {
 Salida: 3
 Explicación: "1", "2" y "anytime" son los únicos strings presentes, contados dan 3
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Objetos (key, value)
-- Tipos de datos
-- Recursividad

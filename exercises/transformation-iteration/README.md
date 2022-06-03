@@ -1,3 +1,14 @@
+---
+difficulty:
+  - beginner
+OAs:
+  - strings
+  - arrays
+projects:
+  - cipher
+  - card validation
+---
+
 # Transformation iteration
 
 [https://www.codewars.com/kata/5872d59caa042821100001f8/train/javascript](https://www.codewars.com/kata/5872d59caa042821100001f8/train/javascript)
@@ -21,8 +32,3 @@ transform('kata','math') ➞ ["kata", "mata", "math"]
 > - `source` y `target` siempre tendrán la misma longitud
 > - Si una letra  de `source` coincide al momento de iterar con otra letra de `target`
 > entonces no hay transformación de letras
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Métodos de arrays

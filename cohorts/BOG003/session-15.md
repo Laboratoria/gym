@@ -2,4 +2,5 @@
 
 ## Ejercicios
 
-Durante esta sesión las estudiantes compartieron sus soluciones de los problemas de la [sesión #13](./session-13.md)
+Durante esta sesión las estudiantes compartieron sus soluciones
+de los problemas de la [sesión #13](./session-13.md)

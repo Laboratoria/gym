@@ -1,9 +1,11 @@
 ---
-difficulties:
-  - medium
+difficulty:
+  - intermediate
 OAs:
   - arrays
 projects:
+  - data-lovers
+  - memory-match
   - md-links
 ---
 

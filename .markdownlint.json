@@ -12,6 +12,7 @@
     "style": "ordered"
   },
   "no-duplicate-header": false,
+  "no-bare-urls": false,
   "no-trailing-punctuation": {
     "punctuation": ".,;:!"
   },

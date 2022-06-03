@@ -2,7 +2,8 @@
 
 ## Ejercicios
 
-De forma aleatoria, las estudiantes se dividieron en duplas y se les asigno un de los siguients problemas.
+De forma aleatoria, las estudiantes se dividieron en duplas y se
+les asigno un de los siguients problemas.
 
 | Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
 | ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |

@@ -1,3 +1,14 @@
+---
+difficulty:
+  - beginner
+OAs:
+  - Manipulación de strings
+  - Métodos de arreglos
+projects:
+  - data-lovers
+  - memory-match
+---
+
 # Stop gninnipS My sdroW
 
 [https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript](https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript)
@@ -18,8 +29,3 @@ spinWords("This is another test") ➞ "This is rehtona test"
 >
 > - Las cadenas pasadas solo constarán de letras y espacios.
 > - Los espacios se incluirán solo cuando hay más de una palabra en la cadena.
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Métodos de arrays

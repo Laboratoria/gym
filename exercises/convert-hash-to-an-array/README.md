@@ -1,3 +1,15 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - arrays
+  - objects
+projects:
+  - social-network
+  - notes
+  - md-links
+---
+
 # Convert Hash To An Array
 
 [https://www.codewars.com/kata/59557b2a6e595316ab000046/train/javascript](https://www.codewars.com/kata/59557b2a6e595316ab000046/train/javascript)
@@ -16,8 +28,3 @@ Salida: [["age", 24], ["name", "Jeremy"], ["role", "Software Engineer"]]
 > - La salida debe ser ordenada alfabéticamente
 
 Buena suerte!
-
-## Objetivos de aprendizaje (OAs)
-
-- Métodos de arreglo
-- Objetos (key, value)

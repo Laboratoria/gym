@@ -1,3 +1,14 @@
+---
+difficulty:
+  - beginner
+OAs:
+  - strings
+  - arrays
+projects:
+  - cipher
+  - card validation
+---
+
 # Remove First and Last Character
 
 [https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript)
@@ -12,8 +23,3 @@ __Ejemplos__
 removeChar('eloquent') ➞ 'loquen';
 removeChar('country') ➞ 'ountr';
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Métodos de arrays

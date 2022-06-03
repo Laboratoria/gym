@@ -1,3 +1,14 @@
+---
+difficulty:
+  - beginner
+OAs:
+  - arrays
+projects:
+  - data lovers
+  - memory match
+  - emergency room
+---
+
 # Moving Zeros To The End
 
 [https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript)
@@ -16,7 +27,3 @@ Salida: [false,1,1,2,1,3,"a",0,0]
 >
 > - Considera el tipo de dato
 > - ¡No olvides retornar el  arreglo con los ceros al final!
-
-## Objetivos de aprendizaje (OAs)
-
-- Métodos de arreglos

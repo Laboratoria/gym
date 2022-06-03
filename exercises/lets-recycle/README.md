@@ -1,3 +1,15 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - arrays
+  - objects
+  - conditionals
+projects:
+  - data-lovers
+  - social-network
+---
+
 # Let's Recycle
 
 [https://www.codewars.com/kata/5b6db1acb118141f6b000060/javascript](https://www.codewars.com/kata/5b6db1acb118141f6b000060/javascript)
@@ -38,8 +50,3 @@ salida = [
   ["out of date yogurt"]
 ]
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Métodos de arreglo
-- Objetos (key, value)

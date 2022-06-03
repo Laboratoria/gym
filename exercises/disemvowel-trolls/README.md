@@ -1,3 +1,14 @@
+---
+difficulty:
+  - newbie
+OAs:
+  - Uso de expresiones regulares
+  - Manipulación de strings
+projects:
+  - cipher
+  - card validation
+---
+
 # Disemvowel Trolls
 
 [https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript)
@@ -20,8 +31,3 @@ Salida: "Ths wbsts fr lsrs LL!"
 > __Importante__ ❗
 >
 > "y" no es considerado una vocal.
-
-## Objetivos de aprendizaje (OAs)
-
-- Uso de expresiones regulares
-- Manipulación de strings
