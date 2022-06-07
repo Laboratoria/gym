@@ -11,10 +11,10 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=triangle&title=Recursion-1]https://the-winter.github.io/codingjs/exercise.html?name=triangle&title=Recursion-1)
 
-Temos um triângulo feito de blocos. A fileira mais alta tem 1 bloco, a
-fileira mais baixa tem 2 blocos, a fileira mais próxima tem 3 blocos,
-e assim por diante. Calcule recursivamente (sem loops ou multiplicação)
-o número total de blocos em tal triângulo com o número dado de fileiras.
+Temos triângulo feito de blocos. A linha superior tem 1 bloco, a próxima linha
+abaixo tem 2 blocos, a próxima linha tem 3 blocos e assim por diante. Calcule
+recursivamente (sem loops ou multiplicação) o número total de blocos em tal
+triângulo com o número dado de linhas `rows`.
 
 __Exemplos__
 
