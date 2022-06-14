@@ -11,21 +11,19 @@ projects:
 
 # Freelancer
 
-O desafio é replicar o site __Freelancer__, esse será o resultado
-alcançar:
+O desafio é replicar o site __Freelancer__. Esse será o resultado a ser alcançado:
 
 ![Freelancer Website](fullpage.png)
 
-Concentre-se em obter o layout
-o mais parecido possível.
+Concentre-se em obter o layout mais parecido possível.
 
 ## Considerações
 
-> - Você iniciará seu próprio clichê para construir a estrutura do seu projeto e
-vincule seus arquivos de estilo (CSS).
+> - Você iniciará seu próprio boilerplate para construir a estrutura do seu
+projeto e vincular seus arquivos de estilo (CSS).
 >
-> - Dentro da pasta `assets` você encontrará todos
- as imagens necessárias para completar seu projeto.
+> - Dentro da pasta `assets` você encontrará todas as imagens necessárias para
+completar seu projeto.
 >
 > - Este site usa 2 fontes: `Montserrat` e `Lato`.
 >
@@ -35,14 +33,14 @@ vincule seus arquivos de estilo (CSS).
 > > - `#18bc9c`
 > > - `#212529`
 >
-> - Ícones de mídia social podem ser obtidos em [Font Awesome](http://fontawesome.io/).
+> - Os ícones de mídia social podem ser obtidos em [Font Awesome](http://fontawesome.io/).
 >
-> - O sublinhado inclui a estrela nas várias seções do site e
-é um desafio divertido, no entanto, não tente se concentrar nessa parte de
-um começo, pois __não é o objetivo principal__ do desafio.
+> - O sublinhado inclui a estrela nas várias seções do site e é um desafio
+divertido, no entanto, não tente se concentrar nessa parte desde o começo,
+pois __não é o objetivo principal__ do desafio.
 
 ## Considerar
 
-> - Trabalhe colaborativamente em pares ou tríades
+> - Trabalhe colaborativamente em pares ou trios
 >
-> - Pixel perfeito (replica exatamente o design)
+> - Pixel perfect (replicar exatamente o layout)

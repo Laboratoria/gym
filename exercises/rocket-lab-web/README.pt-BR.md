@@ -14,8 +14,8 @@ projects:
 
 __Objetivo:__
 
-O desafio é consumir um __api__ e replicar o site __RocketLab__,
-Este será o resultado a alcançar:
+O desafio é consumir um __api__ e replicar o site __RocketLab__. Este será o
+resultado a ser alcançado:
 
 ![Freelancer Website](fullpage.png)
 
@@ -52,11 +52,11 @@ visualizar as informações das cápsulas que foram enviadas ao espaço.
 
 ## Considerar
 
-> - Trabalhe colaborativamente em pares ou tríades
+> - Trabalhe colaborativamente em pares ou trios
 >
 > - Você pode consultar a seguinte documentação:
 > >
 > > - [https://bennettfeely.com/clippy](https://bennettfeely.com/clippy/)
 > > - [https://gradients.cssgears.com](https://gradients.cssgears.com)
-> > - [https://developer.mozilla.org/es/docs/Web/CSS/@keyframes](https://developer.mozilla.org/es/docs/Web/CSS/@keyframes)
-> > - [https://developer.mozilla.org/es/docs/Web/API/Fetch_API](https://developer.mozilla.org/es/docs/Web/API/Fetch_API)
+> > - [https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)
+> > - [https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
