@@ -1,3 +1,13 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - arrays
+projects:
+  - data-lovers
+  - memory-match
+---
+
 # Count of positives / sum of negatives
 
 [https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/javascript](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/javascript)
@@ -20,7 +30,3 @@ Explicación: contaremos cuantos números positivos hay para la posición 0  del
 > __Importante__ ❗
 >
 > - Considera las reglas sobre una entrada `null`
-
-## Objetivos de aprendizaje (OAs)
-
-- Métodos de arreglos
