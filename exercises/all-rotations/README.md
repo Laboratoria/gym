@@ -1,3 +1,14 @@
+---
+difficulty:
+  - newbie
+OAs:
+  - Manipulación de strings
+  - Métodos de arrays
+projects:
+  - data-lovers
+  - memory-match
+---
+
 # All Rotations of a String
 
 [https://edabit.com/challenge/XoBFQ9CJDBFEKEAj9](https://edabit.com/challenge/XoBFQ9CJDBFEKEAj9)
