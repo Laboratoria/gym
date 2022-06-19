@@ -1,11 +1,12 @@
 ---
-difficulties:
-  - medium
+difficulty:
+  - intermediate
 OAs:
-  - arrays
-  - objects
+  - Métodos de arrays
+  - Manipulación de objetos
 projects:
-  - emergency room
+  - data-lovers
+  - memory-match
 ---
 
 # Ask for missing details
