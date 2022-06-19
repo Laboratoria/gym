@@ -1,3 +1,14 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - Métodos de arrays
+  - Manipulación de objetos
+projects:
+  - data-lovers
+  - memory-match
+---
+
 # Ask for missing details
 
 [https://www.codewars.com/kata/583d972b8bbc0402cf000121/train/javascript](https://www.codewars.com/kata/583d972b8bbc0402cf000121/train/javascript)
