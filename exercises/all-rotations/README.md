@@ -1,11 +1,12 @@
 ---
-difficulties:
-  - medium
+difficulty:
+  - newbie
 OAs:
-  - strings
-  - arrays
+  - Manipulación de strings
+  - Métodos de arrays
 projects:
-  - data lovers
+  - data-lovers
+  - memory-match
 ---
 
 # All Rotations of a String
