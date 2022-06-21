@@ -1,3 +1,15 @@
+---
+difficulty:
+  - advanced
+OAs:
+  - conditionals
+  - functions
+projects:
+  - memory match
+  - data lovers
+  - social network
+---
+
 # HackerRank in a string
 
 [https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)
@@ -35,8 +47,3 @@ Entrada: s = hccaakkerannkk
 Salida: NO
 Explicación: No hay ninguna "c" luego de la primera ocurrencia de una "a"
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Uso de expresiones regulares
