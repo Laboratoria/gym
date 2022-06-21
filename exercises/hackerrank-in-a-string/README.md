@@ -2,8 +2,8 @@
 difficulty:
   - advanced
 OAs:
-  - conditionals
-  - functions
+  - string
+  - regex
 projects:
   - memory match
   - data lovers
