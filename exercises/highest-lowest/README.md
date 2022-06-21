@@ -1,3 +1,13 @@
+---
+difficulty:
+  - advanced
+OAs:
+  - strings
+projects:
+  - cipher
+  - card validation
+---
+
 # Highest and Lowest
 
 Crear una función que dado un string de números separados por espacios retorne
@@ -16,7 +26,3 @@ highAndLow("1 9 3 4 -5"); // return "9 -5"
 > - Al menos un número estará presente en el string de entrada.
 > - El string retornado por la función debe estar compuesto por dos números
 > separados por un único espacio, y el número mayor va primero.
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
