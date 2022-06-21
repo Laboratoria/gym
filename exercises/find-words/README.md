@@ -1,3 +1,14 @@
+---
+difficulty:
+  - advanced
+OAs:
+  - strings
+  - arrays
+projects:
+  - cipher
+  - card validation
+---
+
 # Find Words
 
 [https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
@@ -24,8 +35,3 @@ Entrada: words = ["hello","world","leetcode"], chars = "welldonehoneyr"
 Salida: 10
 Explicación: Los strings que pueden ser formados son "hello" y "world" por lo tanto la respuesta es 5 + 5 = 10.
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Métodos de arreglo
