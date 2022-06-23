@@ -37,6 +37,17 @@ El equipo de gimnasio-planning tiene un espacio semanal para conversar sobre
 mejoras en cada iteración del uso de este material. Contacta a los mantenedores
 para coordinar mejoras mayores.
 
+## Créditos
+
+La mayoría de los ejercicios son tomados de plataformas externas, y muchos
+mentores han contribuído a su documentación, registro y traducción. Este es un
+esfuerzo realmente distribuído que recoge el trabajo de mentores en varias
+iteraciones de gimnasios de bootcamp.
+
 ### Mantenedores
+
+Los mantenedores prestamos el servicio de revisar los PR en concordancia con los
+principios del gimnasio y las coordinaciones del equipo y afinar la documentación
+en torno al proyecto.
 
 [@icarito](https://github.com/icarito) y [@reloadercf](https://github.com/reloadercf)
