@@ -39,4 +39,4 @@ para coordinar mejoras mayores.
 
 ### Mantenedores
 
-@icarito y @reloadercf
+[@icarito](https://github.com/icarito) y [@reloadercf](https://github.com/reloadercf)
