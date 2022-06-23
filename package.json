@@ -18,8 +18,7 @@
     "eslint:fix": "npm run eslint -- --fix",
     "prepare": "husky install",
     "predeploy": "cd gym-search && yarn build",
-    "deploy": "vercel",
-    "export": "npm run next export"
+    "deploy": "vercel"
   },
   "repository": {
     "type": "git",
