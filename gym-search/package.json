@@ -8,7 +8,7 @@
     "search-index:build": "zx scripts/build-search-index.js",
     "postsearch-index:build": "zx scripts/module-type-patch.js --off",
     "prebuild": "yarn search-index:build",
-    "export": "npm run next export"
+    "export": "next export"
   },
   "dependencies": {
     "classnames": "2.2.6",
