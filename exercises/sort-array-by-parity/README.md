@@ -1,3 +1,12 @@
+---
+difficulty:
+  - beginner
+OAs:
+  - Métodos de arrays
+projects:
+  - data-lovers
+  - memory-match
+---
 # Sort Array By Parity
 
 [https://leetcode.com/problems/sort-array-by-parity/](https://leetcode.com/problems/sort-array-by-parity/)

@@ -1,3 +1,14 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - Métodos de arrays
+  - Objetos (key, value)
+projects:
+  - data-lovers
+  - memory-match
+---
+
 # Who wins the card game?
 
 [https://www.codewars.com/kata/5a03157f8ba914fcf50000d4/train/javascript](https://www.codewars.com/kata/5a03157f8ba914fcf50000d4/train/javascript)
