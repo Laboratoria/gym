@@ -17,6 +17,8 @@ los mentores puedan explorarlos, sugerir mejoras e ir a su propio ritmo.
 Nota: Las [soluciones](https://github.com/Laboratoria/gym-solutions) se
 encuentran en un repositorio privado :imp:
 
+### Buscador (¡Beta!): https://laboratoria.github.io/gym
+
 ## [Sesiones](./sessions/)
 
 Este repositorio busca contener la "receta" para le ejecución de cada
