@@ -45,8 +45,3 @@ Escribe una función que:
   question: 'Hi, could you please provide your language.' }
 ]
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Métodos de arrays
-- Manipular objects (key | value)

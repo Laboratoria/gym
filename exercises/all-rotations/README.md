@@ -27,8 +27,3 @@ leftRotations("abcdef") ➞ ["abcdef", "bcdefa", "cdefab", "defabc", "efabcd", "
 
 rightRotations("abcdef") ➞ ["abcdef", "fabcde", "efabcd", "defabc", "cdefab", "bcdefa"]
 ```
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Métodos de arrays
