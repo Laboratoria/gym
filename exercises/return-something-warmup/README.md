@@ -1,4 +1,17 @@
-# Return Something to Me! {:suspect: Warm-up}
+---
+difficulty:
+  - beginner
+OAs:
+  - strings
+  - arrays
+projects:
+  - cipher
+  - card validation
+---
+
+# Mutual Recursion
+
+## Return Something to Me! {:suspect: Warm-up}
 
 [https://edabit.com/challenge/MvZK536X7fyrWH8Qc](https://edabit.com/challenge/MvZK536X7fyrWH8Qc)
 

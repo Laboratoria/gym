@@ -1,3 +1,14 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - strings
+  - arrays
+projects:
+  - cipher
+  - card validation
+---
+
 # Unique Morse Code Words
 
 [https://leetcode.com/problems/unique-morse-code-words/](https://leetcode.com/problems/unique-morse-code-words/)
@@ -58,9 +69,3 @@ words = ["a"]
 > __Importante__ ❗
 >
 > Cada palabra `words[i]` esta compuesta de letras minúsculas del Ingles.
-
-## Objetivos de aprendizaje (OAs)
-
-- Manipulación de strings
-- Métodos de arreglos
-- Objetos
