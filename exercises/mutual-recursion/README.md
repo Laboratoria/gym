@@ -1,3 +1,14 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - strings
+  - arrays
+projects:
+  - cipher
+  - card validation
+---
+
 # Mutual Recursion
 
 [https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b/train/javascript](https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b/train/javascript)

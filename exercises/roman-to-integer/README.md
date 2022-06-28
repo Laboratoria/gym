@@ -1,4 +1,17 @@
-# Roman to Integer
+---
+difficulty:
+  - intermediate
+OAs:
+  - strings
+  - arrays
+projects:
+  - cipher
+  - card validation
+---
+
+# Mutual Recursion
+
+## Roman to Integer
 
 [https://leetcode.com/problems/roman-to-integer/](https://leetcode.com/problems/roman-to-integer/)
 
@@ -73,7 +86,3 @@ Explicación: M = 1000, CM = 900, XC = 90 and IV = 4.
 > - `1 <= s.length <= 15`
 > - `s` contiene solo los caracteres `('I', 'V', 'X', 'L', 'C', 'D', 'M')`.
 > - Esta __garantizado__ que `s` es un numero romano valido en el rango `[1, 3999]`.
-
-## Objetivos de aprendizaje (OAs)
-
-- Objetos (key, value)
