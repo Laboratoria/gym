@@ -2,7 +2,7 @@
 
 ## Presentación
 
-[Presentación](https://docs.google.com/presentation/d/1dhM22X_1n3yQxrQQJ-aGOjajHP0BF9-Fmw0N0PQ_60w/edit#slide=id.g13dbdc459ec_0_25)
+[Presentación](https://docs.google.com/presentation/d/1dhM22X_1n3yQxrQQJ-aGOjajHP0BF9-Fmw0N0PQ_60w)
 
 ## Ejercicios
 
