@@ -7,6 +7,8 @@
 - [**Sherlock Syllogisms**](./sherlock-syllogisms/README.md)
 - [**Word Ladders**](./word-ladders/README.md)
 
+- [**KINEMARTOPHOBIA**](./kinemartophobia/README.md)
+
 ### Newbie
 
 - [**helloName**](./hello-name/README.md)
