@@ -2,6 +2,10 @@
 
 ## Ejercicios
 
+### No code
+
+- [**kinemartophobia**](../exercises/kinemartophobia/README.md)
+
 ### Newbie
 
 - [**Icy-hot**](../exercises/icy-hoy/README.md )
