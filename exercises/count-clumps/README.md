@@ -12,7 +12,6 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=countClumps&title=Array-3](https://the-winter.github.io/codingjs/exercise.html?name=countClumps&title=Array-3)
 
-
 Un "clump" en un `array` es una serie de 2 o más elementos
 adyacentes del mismo valor. Devuelve el número de clumps en
 un arreglo dado.
