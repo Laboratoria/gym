@@ -12,8 +12,6 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=maxSpan&title=Array-3](https://the-winter.github.io/codingjs/exercise.html?name=maxSpan&title=Array-3)
 
-
-
 Considere as aparências mais à esquerda e mais à direita
 de algum valor em uma matriz. Diremos que o "span" é o
 número de elementos entre os dois inclusive. Um único valor
