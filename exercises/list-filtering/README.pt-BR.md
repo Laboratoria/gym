@@ -1,8 +1,9 @@
 ---
 difficulty:
-  - intermediate
+  - beginner
 OAs:
   - arrays
+  - Métodos de arrays
 projects:
   - data-lovers
   - memory-match
