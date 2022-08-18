@@ -59,6 +59,7 @@
 - [**Create Phone Number**](./create-phone-number/README.md)
 - [**Moving Zeros To The End**](./move-zeros/README.md)
 - [**Job Matching**](./job-matching/README.md)
+- [**list-filtering**](./list-filtering/README.md)
 
 ### Intermediate
 
