@@ -10,6 +10,8 @@ projects:
 
 # List Filtering
 
+[https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript)
+
 En este ejercicio vas a crear una función que reciba un arreglo con strings y
 números enteros no negativos, la cual retorna un nuevo arreglo con las cadenas
 filtradas.
