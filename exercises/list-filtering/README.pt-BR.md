@@ -10,6 +10,8 @@ projects:
 
 # List Filtering
 
+[https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript)
+
 Neste exercício, você criará uma função que recebe uma lista de inteiros e
 strings não negativos e retorna uma nova lista com as strings filtradas.
 
