@@ -18,4 +18,4 @@
 
 ## Kahoot
 
-[https://create.kahoot.it/share/session-4-gym/966aea9b-079e-4515-b8fe-61eaf5e9d9cc](https://create.kahoot.it/share/session-4-gym/966aea9b-079e-4515-b8fe-61eaf5e9d9cc)
+[https://create.kahoot.it/details/109feb5e-8f37-4d9e-ab88-dd1fbed3fdc9](https://create.kahoot.it/details/109feb5e-8f37-4d9e-ab88-dd1fbed3fdc9)
