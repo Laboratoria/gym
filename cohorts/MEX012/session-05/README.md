@@ -8,7 +8,6 @@
 
 ### Beginner
 
-- [**List Filtering**](../../../exercises/list-filtering/README.md)
 - [**Create Phone Number**](../../../exercises/create-phone-number/README.md)
 - [**Moving Zeros To The End**](../../../exercises/move-zeros/README.md)
 
