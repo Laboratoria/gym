@@ -11,7 +11,7 @@ con la complejidad que necesaria que abacar el status actual.
 La estudiante actualmente esta atravesando el garabato de social network, ha
 pasado pori cipher/card validation y data-lovers.
 
-## Dinamica
+## Dinámica
 
 ### Inicio (5-7 min)
 
@@ -19,7 +19,7 @@ pasado pori cipher/card validation y data-lovers.
 
   Antes de ponerte en modo entrevistadorx es importante recordarle a la
   estudiante que esta es una entrevista de práctica, es sobre todo para
-  identificar qué haría en una entrevisa real, cómo se comportaría si se pone
+  identificar qué haría en una entrevista real, cómo se comportaría si se pone
   nerviosa, o que recursos puede usar para controlar o manejar esas situaciones.
 
 - **Intro**
@@ -57,4 +57,13 @@ pasado pori cipher/card validation y data-lovers.
   
 ## Cierre
   
-  Aquí llega la entrevista a su fin y finaliza tu rol de entrevistadorx.
+  Aquí llega la entrevista a su fin y finaliza tu rol de entrevistadorx, puedes
+  compartir algo de feedback.
+
+## Ejemplos de entrevistas
+
+[![Mock mock interview 21/04/2022 by Margarita](https://img.youtube.com/vi/JPwObIeVSgw/0.jpg)](https://youtu.be/JPwObIeVSgw)
+
+[![Mock mock interview 5/05/2022 by Isabela](https://img.youtube.com/vi/35Yr3XtRDIg/0.jpg)](https://youtu.be/35Yr3XtRDIg)
+
+[![Mock Interview sesión 10 - 7/10/2021 by Melisa & Fernando](https://img.youtube.com/vi/TEbiUVmZIS4/0.jpg)](https://www.youtube.com/watch?v=TEbiUVmZIS4)
