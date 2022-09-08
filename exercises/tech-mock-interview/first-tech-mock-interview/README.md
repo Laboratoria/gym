@@ -1,15 +1,15 @@
-# Guia para entrevista GYM
+# Guía para entrevista GYM
 
 ## Objetivo
 
 Que las estudiantes tenga una primer experiencia de entrevista técnica si tener
 que esperar a iniciar un proceso real
-con la complejidad que necesaria que abacar el status actual.
+con la complejidad que necesaria que abarcar el status actual.
 
 ## Status actual
 
 La estudiante actualmente esta atravesando el garabato de social network, ha
-pasado pori cipher/card validation y data-lovers.
+pasado por cipher/card validation y data-lovers.
 
 ## Dinámica
 
@@ -17,7 +17,7 @@ pasado pori cipher/card validation y data-lovers.
 
 - **Contexto**
 
-  Antes de ponerte en modo entrevistadorx es importante recordarle a la
+  Antes de ponerte en modo entrevistadorx es importante recordar a la
   estudiante que esta es una entrevista de práctica, es sobre todo para
   identificar qué haría en una entrevista real, cómo se comportaría si se pone
   nerviosa, o que recursos puede usar para controlar o manejar esas situaciones.
@@ -28,16 +28,13 @@ pasado pori cipher/card validation y data-lovers.
   cuál será la estructura de este espacio, por ejemplo:
   
   > _"Te comento el proceso: al comienzo te pediré que te presentes, me cuentes
-  un poco sobre tí y por qué estás postulando a este puesto, luego te haré una
-  serie de preguntas conceptuales, y por último resolveremos 1 o 2 ejercicios de
-  código"_.
+  un poco sobre tí y por último resolveremos 1 o 2 ejercicios de código"_.
 
 - **Presentación**
 
   En este punto, ya en modo entrevistadorx, te presentas y la invitas a ella a
-  que se presente. El foco aquí es que su presentación sea breve, clara y aporte
-  al puesto al que postula, por lo que siéntete en libertad de hacerle las
-  preguntas que consideres relevantes.
+  que se presente. El foco aquí es que su presentación sea breve, clara
+  por lo que siéntete en libertad de hacerle las preguntas que consideres relevantes.
   
   > Ejemplo de preguntas:
   >
@@ -45,7 +42,7 @@ pasado pori cipher/card validation y data-lovers.
   > - ¿Que es lo que mas disfrutas de programar?
   > - ¿Que rol te gustaría tener o que te gustaría estar haciendo?
   
-## Ejercicio tenico (25 min)
+## Ejercicio técnico (25 min)
 
   El objetivo de esta etapa es ver cómo se enfrenta la estudiante a la
   resolución en tiempo real de un ejercicio de código.
