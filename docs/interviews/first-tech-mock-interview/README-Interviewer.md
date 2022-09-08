@@ -8,7 +8,7 @@ con la complejidad que necesaria que abarcar el status actual.
 
 ## Status actual
 
-La estudiante actualmente esta atravesando el garabato de social network, ha
+La estudiante actualmente esta atravesando social network, ha
 pasado por cipher/card validation y data-lovers.
 
 ## Dinámica
