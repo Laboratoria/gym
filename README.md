@@ -45,7 +45,8 @@ de estudiantes y externos. Contacta a los mantenedores para coordinar mejoras ma
 
 La mayoría de los ejercicios son tomados de plataformas externas, y muchxs mentorxs
 han contribuído a su documentación, registro y traducción. Este es un esfuerzo realmente
-distribuído que recoge el trabajo de mentorxs en varias iteraciones de gimnasios de bootcamp.
+distribuído que recoge el trabajo de mentorxs en varias iteraciones de
+gimnasios de bootcamp.
 
 ### Mantenedores
 
