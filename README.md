@@ -31,8 +31,8 @@ sobre la cual, cada mentor/mentora puede construir sobre las mismas bases, como 
 * Colocar a la estudiante primero.
 
 * Objetivo 1: Fortalecer Habilidades de Resolución de Problemas.
-* Objetivo 2: Preparar para situaciones de alta emocionalidad o frustración de cara a a
-  las entrevistas técnicas y empleabilidad.
+* Objetivo 2: Preparar para situaciones de alta emocionalidad o frustración de cara
+  a las entrevistas técnicas y empleabilidad.
 
 ## ¿Cómo contribuir?
 
