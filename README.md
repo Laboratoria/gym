@@ -5,10 +5,10 @@ que consiste en una veintena de sesiones en las cuales progresivamente se
 exploran ejercicios técnicos así como también se simulan entrevistas técnicas
 de cara al proceso de empleabilidad de nuestras estudiantes.
 
-En este repositorio mantenemos la biblioteca de ejercicios y las ordenamos
+En este repositorio mantenemos la biblioteca de ejercicios y los ordenamos
 por [sesiones semanales](./sessions/). La intención es disponibilizar el material
 para todas las estudiantes y así puedan avanzar a su ritmo.
-También generar un espacio donde podemamos mejorar de manera contínua las sesiones
+También generar un espacio donde podamos mejorar de manera contínua las sesiones
 de gimnasio propuestas.
 
 ## [Ejercicios](./exercises/)
@@ -31,8 +31,8 @@ sobre la cual, cada mentor/mentora puede construir sobre las mismas bases, como 
 * Colocar a la estudiante primero.
 
 * Objetivo 1: Fortalecer Habilidades de Resolución de Problemas.
-* Objetivo 2: Preparar para situaciones de alta emocionalidad o frustración.
-* Objetivo 3: Empezar a practicar para las entrevistas técnicas de cara a empleabilidad.
+* Objetivo 2: Preparar para situaciones de alta emocionalidad o frustración de cara a a
+  las entrevistas técnicas y empleabilidad.
 
 ## ¿Cómo contribuir?
 
