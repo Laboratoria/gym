@@ -28,4 +28,3 @@ Debe retornar: 11 (el único número impar)
 [160, 3, 1719, 19, 11, 13, -21]
 Debe retornar: 160 (el único número par)
 ```
-
