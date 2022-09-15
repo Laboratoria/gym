@@ -24,6 +24,8 @@
 
 [Sum of digits](../exercises/sum-of-digits/README.md)
 
+[Find the parity outlier](../exercises/parity-outlier/README.md)
+
 #### Intermediate
 
 [Count strings in objects](../exercises/count-strings-in-objects/README.md)
