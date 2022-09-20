@@ -2,7 +2,7 @@
 
 ## Prework
 
-- Haber hecho la combinatoria a las egresadas.
+- Haber hecho la convocatoria a las egresadas.
 - Haber agendado en calendar y compartir el link de zoom a donde conectarse.
 - Haber compartido con la egresada [la guia para la primer entrevista](./README-Interviewer.md).
 - Acordar con la egresada que ejercicio ejecutar.
