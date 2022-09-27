@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD013 -->
 # Retrospectiva cierre gym
 
 ## 1) Role playing: How might we?
@@ -31,16 +32,14 @@ Nos separaremos en salitas de Zoom.
 
 [https://docs.google.com/presentation/d/1ceEfUksY1KQ-6p1jrJ7mDGFLFQ8TZIyXWvFgA1lIPc4/edit?usp=sharing](https://docs.google.com/presentation/d/1ceEfUksY1KQ-6p1jrJ7mDGFLFQ8TZIyXWvFgA1lIPc4/edit?usp=sharing)
 
-
 ### Presentación & Votación (Salita general) [~45 min]
 
 > - Una integrante designada del Squad tendrá 3 min para presentar sus ideas.
->
 >- 10 min para votar por:
 >
 > > - Cada estudiante y coach, de manera individual, podrá votar con un  💛 por el conjunto de ideas (estrategia) que más le guste, debajo de la línea. Si hay más de un slide, vota en el primero.
->
 > > - Te gustan algunas ideas!! Ok, podrás votar por las ideas que más te gusten dejando un 💜 al lado de la idea.
+>
 
 __ℹ️ Importante:__
 
