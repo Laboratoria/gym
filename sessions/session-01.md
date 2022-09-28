@@ -2,8 +2,15 @@
 
 ## Presentación
 
-[Presentación](https://docs.google.com/presentation/d/1ncCyOcIuMkMz_dMPaUSWmyiplbtXvHIBa0ZDuITqh7k/edit#slide=id.g10bc3f0baf0_0_38)
+[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vSUhadpp6IOYbLrIGczSmRZdrvGipSHO1iH21Ibqkq1YB4DnBxubSy0LQzwXUe0ICE2DO5PetwL7b_u/pub?start=false&loop=false&delayms=5000) 🔗
 
-## kahoot
+## Ejercicios
+
+### No code
+
+- [**Word ladders**](../exercises/word-ladders/)
+- [**Sherlock syllogisms**](../exercises/sherlock-syllogisms/)
+
+## Kahoot
 
 [https://create.kahoot.it/details/8fdc1e3e-6efb-4b16-8848-8b4fc8915f93](https://create.kahoot.it/details/8fdc1e3e-6efb-4b16-8848-8b4fc8915f93)
