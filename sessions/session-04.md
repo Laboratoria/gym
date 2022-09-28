@@ -17,6 +17,7 @@
 
 - [**Transformation iteration**](../exercises/transformation-iteration/README.md)
 - [**Ask for missing details**](../exercises/ask-for-missing-details/README.md)
+- [**Make chocolate**](../exercises/make-chocolate/README.md)
 
 ## Kahoot
 
