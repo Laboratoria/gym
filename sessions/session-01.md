@@ -2,7 +2,11 @@
 
 ## Presentación
 
-[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vSUhadpp6IOYbLrIGczSmRZdrvGipSHO1iH21Ibqkq1YB4DnBxubSy0LQzwXUe0ICE2DO5PetwL7b_u/pub?start=false&loop=false&delayms=5000) 🔗
+🔗[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vSUhadpp6IOYbLrIGczSmRZdrvGipSHO1iH21Ibqkq1YB4DnBxubSy0LQzwXUe0ICE2DO5PetwL7b_u/pub?start=false&loop=false&delayms=5000) 
+
+## Método REACTO
+
+🔗[REACTO](https://www.youtube.com/watch?v=AoD3hLFxI5I)
 
 ## Ejercicios
 
