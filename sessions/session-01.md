@@ -2,7 +2,7 @@
 
 ## Presentación
 
-[Presentación](https://docs.google.com/presentation/d/1ncCyOcIuMkMz_dMPaUSWmyiplbtXvHIBa0ZDuITqh7k/edit#slide=id.g10bc3f0baf0_0_38)
+[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vT9Ym3TrxIy6sBY6lSmXgzuQnPp_HSfl4MJb53obaN2FA2_kESdYUoyC8lNuxBTPKCFdS8klgSLbN_H/pub?start=false&loop=false&delayms=3000)
 
 ## Método REACTO
 
