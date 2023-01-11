@@ -1,35 +1,33 @@
-# Sesión 9
+# Sessão 09
 
-## Ejercicios
+## Exercícios
 
 ### HTML/CSS
 
 #### Beginner
 
-[Totally Triangle](../exercises/css-totally-triangle/README.md)
-
-[Matrix](../exercises/css-matrix/README.md)
+[Totally Triangle](../../exercises/css-totally-triangle/README.pt-BR.md)
+[Matrix](../../exercises/css-matrix/README.pt-BR.md)
 
 #### Intermediate
 
-[Pokeball](../exercises/css-pokeball/README.md)
+[Pokeball](../../exercises/css-pokeball/README.pt-BR.md)
 
 ### JavaScript
 
 #### Newbie
 
-[swampEnds](../exercises/swap-ends/README.md)
+[swampEnds](../../exercises/swap-ends/README.pt-BR.md)
 
 #### Beginner
 
-[Sum of digits](../exercises/sum-of-digits/README.md)
-
-[Find the parity outlier](../exercises/parity-outlier/README.md)
+[Sum of digits](../../exercises/sum-of-digits/README.pt-BR.md)
+[Find the parity outlier](../../exercises/parity-outlier/README.pt-BR.md)
 
 #### Intermediate
 
-[Count strings in objects](../exercises/count-strings-in-objects/README.md)
+[Count strings in objects](../../exercises/count-strings-in-objects/README.pt-BR.md)
 
 ## Kahoot
 
-[https://create.kahoot.it/details/ea4bb1be-0fb8-4e97-9c87-47c219cfcd81](https://create.kahoot.it/details/ea4bb1be-0fb8-4e97-9c87-47c219cfcd81)
+[]()

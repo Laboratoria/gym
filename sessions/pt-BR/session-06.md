@@ -1,25 +1,25 @@
-# Sesión 6
+# Sessão 06
 
-## Ejercicios
+## Exercícios
 
 ### Newbie
 
-- [**Plus Two**](../exercises/plus-two/README.md)
+- [**Plus Two**](../../exercises/plus-two/README.pt-BR.md)
 
 ### Beginner
 
-- [**Job Matching**](../exercises/job-matching/README.md)
+- [**Job Matching**](../../exercises/job-matching/README.pt-BR.md)
 
 ### Intermediate
 
-- [**Format words into a sentence**](../exercises/format-words/README.md)
-- [**Array diff**](../exercises/array-diff/README.md)
-- [**Pangram**](../exercises/pangram/README.md)
+- [**Format words into a sentence**](../../exercises/format-words/README.pt-BR.md)
+- [**Array diff**](../../exercises/array-diff/README.pt-BR.md)
+- [**Pangram**](../../exercises/pangram/README.pt-BR.md)
 
 ### Advanced
 
-- [**Max Span**](../exercises/max-span/README.md)
+- [**Max Span**](../../exercises/max-span/README.pt-BR.md)
 
 ## Kahoot
 
-[https://create.kahoot.it/share/gym-session-06/b3cda48c-643a-49b7-8d5d-5c70f5be6fe4](https://create.kahoot.it/share/gym-session-06/b3cda48c-643a-49b7-8d5d-5c70f5be6fe4)
+[]()

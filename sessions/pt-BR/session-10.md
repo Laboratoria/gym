@@ -2,44 +2,48 @@
 
 ## Objetivo
 
-En esta sesión haremos una reflexión individual sobre nuestro aprendizaje y
-participación en el gimnasio. Al concluir la sesión cada una habrá definido
-accionables muy concretos y adaptados a nuestra situación individual que nos
-permita mejorar aprovechar mejor el gimnasio.
+Nesta sessão faremos uma reflexão individual sobre a nossa aprendizagem  e
+   participação no gym. Ao finalizar a sessão, cada uma terá definido
+   ações concretas e adaptadas a nossa situação individual que nos
+   permita aproveitar melhor ao ginásio.
 
-## Dinámica
+## ## Dinâmica
 
-### Preguntas para reflexionar - 30 minutos
+### Perguntas para refletir - 30 minutos
 
-Vamos a responder cada una de las preguntas. Luego algunas voluntarias
- abren micro para compartir.
+Vamos responder a cada uma das perguntas. Depois algumas voluntárias 
+   abrem o mic para compartilhar.
 
-__Preguntas__
+**Perguntas**
 
-* ¿Cómo han mejorado tus capacidades de análisis y resolución de problemas
-después de las 9 sesiones de gimnasio que hemos tenido?
-* ¿Has aplicado los aprendizajes del gimnasio en el desarrollo de los
-proyectos? (compartir ejemplos específicos que se te vengan a la mente)
-* Durante el sprint, ¿dedicas tiempo adicional al del gimnasio para
-practicar ejercicios? ¿incluyes una tarea para esto en tu planificación?
-* ¿Has participado activamente en las sesiones del gimnasio? ¿cómo
-podrías participar más?
+* Como suas habilidades de análise e resolução de problemas melhoraram
+após as 9 sessões de gym que tivemos?
+* Você aplicou o aprendizado do gym no desenvolvimento dos projetos?
+(compartilhe exemplos específicos que vêm à mente)
+* Durante a sprint, você dedica mais tempo fora do gym para praticar os
+exercícios? Você inclui uma tarefa para isso em seu planejamento?
+* Você participou ativamente das sessões do gym? Como poderia participar mais?
 
 ### Retrospectiva - 30 minutos
 
-¿Qué hicimos bien? ¿Qué no hicimos bien? ¿Qué podríamos comenzar a hacer o
-seguir haciendo (accionables)? sobre 2 puntos grandes:
+Façam as seguintes perguntas:
+- _O que fizemos bem?_
+- _O que não fizemos bem?_
+- _O que poderíamos começar a fazer?_
+- _O que continuar fazendo (acionável)?_
 
-1. El compromiso sobre los objetivos, la importancia que le das, tu participación
-   en las instancias, como abordas los problemas, etc
-2. La dinámica de las sesiones: hacking en salas, hacking en vivo, kahoot,
-   ejercicios, otros.
+sobre esses 2 pontos principais:
 
-### Compartir reflexiones - 20 minutos
+1. O compromisso com os objetivos, a importância que você dá a eles, sua
+   participação nas instâncias, como você aborda os problemas, etc.
+2. A dinâmica das sessões: hacking em salas, live hacking, kahoot,
+   exercícios, outros.
 
-En la sala general compartimos de forma voluntaria las reflexiones
-más destacadas y/o planes de acción.
+### Compartilhar reflexões - 20 minutos
 
-### Hacking en vivo
+Na sala geral partilhamos voluntariamente as reflexões e/ou planos de ação mais
+destacados.
 
-Hacking en vivo de retos pendientes de sesiones anteriores.
+### Hacking
+
+Hacking dos desafios pendentes de sessões anteriores.

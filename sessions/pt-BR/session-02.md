@@ -1,18 +1,18 @@
-# Sesión 2
+# Sessão 02
 
-## Ejercicios
+## Exercícios
 
 ### No code
 
-- [**Sherlock syllogisms**](../exercises/sherlock-syllogisms/)
-- [**Word ladders**](../exercises/word-ladders/)
-- [**The tour guide**](../exercises/the-tour-guide/)
+- [**Sherlock syllogisms**](../../exercises/sherlock-syllogisms/README.pt-BR.md)
+- [**Word ladders**](../../exercises/word-ladders/README.pt-BR.md)
+- [**The tour guide**](../../exercises/the-tour-guide/README.pt-BR.md)
 
 ### Newbie
 
-- [**Hello name**](../exercises/hello-name/)
-- [**Int max**](../exercises/int-max/)
-- [**First last 6**](../exercises/first-last-6/)
+- [**Hello name**](../../exercises/hello-name/README.pt-BR.md)
+- [**Int max**](../../exercises/int-max/README.pt-BR.md)
+- [**First last 6**](../../exercises/first-last-6/README.pt-BR.md)
 
 ### Beginner
 
@@ -20,4 +20,4 @@
 
 ## Kahoot
 
-[https://create.kahoot.it/details/c6f02512-5052-48d6-8f14-1ab7b1aada39](https://create.kahoot.it/details/c6f02512-5052-48d6-8f14-1ab7b1aada39)
+[]()

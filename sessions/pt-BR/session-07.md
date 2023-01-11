@@ -1,22 +1,22 @@
-# Sesión 7
+# Sessão 07
 
-## Ejercicios
+## Exercícios
 
 ### Newbie
 
-- [**CSS Simply Square**](../exercises/css-simply_square/README.md)
-- [**CSS Horizon**](../exercises/css-horizon/README.md)
-- [**CSS Carrom**](../exercises/css-carrom/README.md)
+- [**CSS Simply Square**](../../exercises/css-simply_square/README.pt-BR.md)
+- [**CSS Horizon**](../../exercises/css-horizon/README.pt-BR.md)
+- [**CSS Carrom**](../../exercises/css-carrom/README.pt-BR.md)
 
 ### Beginner
 
-- [**CSS Boxception**](../exercises/css-boxception/README.md)
-- [**CSS Interleaved**](../exercises/css-interleaved/README.md)
+- [**CSS Boxception**](../../exercises/css-boxception/README.pt-BR.md)
+- [**CSS Interleaved**](../../exercises/css-interleaved/README.pt-BR.md)
 
 ### Intermediate
 
-- [**CSS Sunset**](../exercises/css-sunset/README.md)
+- [**CSS Sunset**](../../exercises/css-sunset/README.pt-BR.md)
 
 ## Kahoot
 
-[https://create.kahoot.it/share/gym-session-07/132771e2-18be-4c68-8dbe-c4a3017781ae](https://create.kahoot.it/share/gym-session-07/132771e2-18be-4c68-8dbe-c4a3017781ae)
+[]()
