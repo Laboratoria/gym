@@ -28,6 +28,8 @@
 
 - [Move All Balls to Each Box](../exercises/move-balls-boxes/)
 
+- [Count x](../exercises/count-x-recursion/README.md)
+
 #### Advanced
 
 - [The Lift](../exercises/the-lift/)

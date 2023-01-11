@@ -26,6 +26,7 @@
 #### Intermediate
 
 - [**Let's Recycle**](../exercises/lets-recycle/README.md)
+- [**Has 12**](../exercises/has-12/README.md)
 
 ## Kahoot
 
