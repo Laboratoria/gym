@@ -1,4 +1,4 @@
-# Sesión 01 (Kick-off)
+# Sesión 01 (Kick-off) - 25/01/2023
 
 ## Presentación
 
@@ -11,7 +11,6 @@
 ## Ejercicios
 
 - [Suma de positivos](https://www.codewars.com/kata/5715eaedb436cf5606000381)
-
 - [Contar positivos - sumar negativos](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 
 ## Kahoot
