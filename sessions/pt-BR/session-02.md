@@ -15,7 +15,7 @@
 
 ### Beginner
 
-- [**Return Something to Me**](../exercises/return-something-warmup/)
+- [**Return Something to Me**](../../exercises/return-something-warmup/README.pt-BR.md)
 
 ## Kahoot
 
