@@ -1,6 +1,6 @@
-# Sesión 03
+# Sessão 03
 
-## Ejercicios
+## Exercicios
 
 ### No code
 
