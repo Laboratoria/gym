@@ -1,4 +1,4 @@
-# Sesión 2
+# Sesión 2 - 02/02/2023
 
 ## Ejercicios
 
