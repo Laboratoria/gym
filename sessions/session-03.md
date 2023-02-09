@@ -33,7 +33,3 @@
 Déjanos feedback en este formulario.
 
 [https://forms.gle/rnAV7QAZFqzndaZp8](https://forms.gle/rnAV7QAZFqzndaZp8)
-
-## Kahoot
-
-[https://create.kahoot.it/share/gym-session-02/13cd003e-e988-4061-b247-b5b3c542cd98](https://create.kahoot.it/share/gym-session-02/13cd003e-e988-4061-b247-b5b3c542cd98)
