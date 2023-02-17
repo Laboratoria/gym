@@ -18,7 +18,7 @@
 
 ## Recursos
 
-![La vieja confiable|100](https://user-images.githubusercontent.com/39414582/219725163-7917aae8-c0a8-4357-ac96-99d60f323959.png){width='350px'}
+![La vieja confiable|100](https://user-images.githubusercontent.com/39414582/219725163-7917aae8-c0a8-4357-ac96-99d60f323959.png)
 
 🔗[REACTO](https://www.youtube.com/watch?v=AoD3hLFxI5I)
 
