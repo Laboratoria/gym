@@ -1,4 +1,4 @@
-# Sesión 4
+# Sesión 4 - 16/02/2023
 
 ## Ejercicios
 
