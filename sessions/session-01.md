@@ -10,9 +10,9 @@
 
 ## Ejercicios
 
-- [Suma de positivos](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+- [Suma de positivos](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 
-- [Contar positivos - sumar negativos](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+- [Contar positivos - sumar negativos](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/javascript)
 
 ## Kahoot
 
