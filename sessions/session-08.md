@@ -27,7 +27,3 @@
 
 - [**Let's Recycle**](../exercises/lets-recycle/README.md)
 - [**Has 12**](../exercises/has-12/README.md)
-
-## Kahoot
-
-[https://create.kahoot.it/share/gym-session-08/320afa67-fdca-42d1-8eb6-46f4109094d2](https://create.kahoot.it/share/gym-session-08/320afa67-fdca-42d1-8eb6-46f4109094d2)
