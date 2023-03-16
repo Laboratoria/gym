@@ -20,6 +20,7 @@
 ### Advanced
 
 - [**Count clumps**](../exercises/count-clumps/README.md)
+- [**Dogs Lovers**](../exercises/dogs-lovers-web/README.md)
 
 ## Kahoot
 
