@@ -18,10 +18,9 @@ Proponer ideas para mejorar el gimnasio 💪 teniendo en cuenta la experiencia v
 - 1️⃣ Algunas estudiantes no aplican REACTO.
 - 2️⃣ No hay vinculo claro de los ejercicios del GYM con la aplicación en el proyecto.
 - 3️⃣ Un grupo de estudiantes atraviesa nervios/ansiedad al tener que codear en vivo.
-- 4️⃣ Algunas estudiantes no participan activamente en la dinámica del GYM.
+- 4️⃣ En algunas ocasiones aun hay confusión con las bases de JS (arreglos, objetos, .map, .reduce, etc.)
 - 5️⃣ En algunas ocasiones no se ha identificado la lógica para resolver un reto técnico.
 - 6️⃣ El lenguaje técnico no ha sido una prioridad al momento de comunicar.
-- 7️⃣ En algunas ocasiones aun hay confusión con las bases de JS (arreglos, objetos, .map, .reduce, etc.)
 
 ### Dinámica [~45 min]
 
@@ -29,7 +28,7 @@ Nos separaremos en 7 squads en salitas de Zoom.
 
 #### Diseño (Salitas)
 
-- 105 min para analizar, formular preguntas a coaches y discutir sobre la oportunidad de mejora encomendada.
+- 10 min para analizar, formular preguntas a coaches y discutir sobre la oportunidad de mejora encomendada.
 
 - 25 min para elaborar y proponer sus ideas.
 
@@ -37,7 +36,7 @@ Nos separaremos en 7 squads en salitas de Zoom.
 
 #### Link de acceso a las slides
 
-<!-- [https://docs.google.com/presentation/d/1Kpl7ONP8lmYU3gCqrBrAfTu6rNcQFaSb6ly-v-ZDEiM/edit?usp=sharing](https://docs.google.com/presentation/d/1Kpl7ONP8lmYU3gCqrBrAfTu6rNcQFaSb6ly-v-ZDEiM/edit?usp=sharing) -->
+[https://docs.google.com/presentation/d/1p5-WAjSSxbUNmQokKlk4ySPAg1Htb7hhVB-\_OLoY7ks/edit?usp=sharing](https://docs.google.com/presentation/d/1p5-WAjSSxbUNmQokKlk4ySPAg1Htb7hhVB-_OLoY7ks/edit?usp=sharing)
 
 #### La distribución de salas
 
