@@ -41,48 +41,54 @@ Nos separaremos en 6 squads en salitas de Zoom.
 #### La distribución de salas
 
 GRUPO 1
-Mariana Arenas
-Daniela Rocha
-Katterin Olivares
-Ale Ortega
-Andrea Huallpayunca
+
+- Mariana Arenas
+- Daniela Rocha
+- Katterin Olivares
+- Ale Ortega
+- Andrea Huallpayunca
 
 GRUPO 2
-Domynike Galarce
-Carmen Rangel
-Paola Quiroga
-Constanza García
-Johanna Calderón
+
+- Domynike Galarce
+- Carmen Rangel
+- Paola Quiroga
+- Constanza García
+- Johanna Calderón
 
 GRUPO 3
 Roxsana Velasquez
-Ingrid Gallegos
-Tania García
-Samantha Cruz
-Yessenia Ramirez
+
+- Ingrid Gallegos
+- Tania García
+- Samantha Cruz
+- Yessenia Ramirez
 
 GRUPO 4
-Victoria Mendoza
-Berenice Hernández
-Jhoanna Mera
-Kamila Ojeda
-Brenda Moraga
-Alexandra Antay
+
+- Victoria Mendoza
+- Berenice Hernández
+- Jhoanna Mera
+- Kamila Ojeda
+- Brenda Moraga
+- Alexandra Antay
 
 GRUPO 5
-Valeria Montero
-Fernanda Guzman
-Ariel Navarro
-Sharon Arana
-Melanie Tolvett
+
+- Valeria Montero
+- Fernanda Guzman
+- Ariel Navarro
+- Sharon Arana
+- Melanie Tolvett
 
 GRUPO 6
-Priscila Alvarado
-Laura Garduño
-Gina Fielstedt
-Jeannie Alvarado
-Jess Cuellar
-Fer Romero
+
+- Priscila Alvarado
+- Laura Garduño
+- Gina Fielstedt
+- Jeannie Alvarado
+- Jess Cuellar
+- Fer Romero
 
 ### Presentación & Votación (Salita general) [~30 min]
 
