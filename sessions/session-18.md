@@ -24,7 +24,7 @@ Proponer ideas para mejorar el gimnasio 💪 teniendo en cuenta la experiencia v
 
 ### Dinámica [~45 min]
 
-Nos separaremos en 7 squads en salitas de Zoom.
+Nos separaremos en 6 squads en salitas de Zoom.
 
 #### Diseño (Salitas)
 
@@ -40,7 +40,49 @@ Nos separaremos en 7 squads en salitas de Zoom.
 
 #### La distribución de salas
 
-<!-- [Accede a la lista para ver en que salita te toca](https://docs.google.com/spreadsheets/d/1YtRO_Q_StkGvXiRRy7KDSsAcghoLTc5T2p0fTVbtjys/edit?usp=sharing) -->
+GRUPO 1
+Mariana Arenas
+Daniela Rocha
+Katterin Olivares
+Ale Ortega
+Andrea Huallpayunca
+
+GRUPO 2
+Domynike Galarce
+Carmen Rangel
+Paola Quiroga
+Constanza García
+Johanna Calderón
+
+GRUPO 3
+Roxsana Velasquez
+Ingrid Gallegos
+Tania García
+Samantha Cruz
+Yessenia Ramirez
+
+GRUPO 4
+Victoria Mendoza
+Berenice Hernández
+Jhoanna Mera
+Kamila Ojeda
+Brenda Moraga
+Alexandra Antay
+
+GRUPO 5
+Valeria Montero
+Fernanda Guzman
+Ariel Navarro
+Sharon Arana
+Melanie Tolvett
+
+GRUPO 6
+Priscila Alvarado
+Laura Garduño
+Gina Fielstedt
+Jeannie Alvarado
+Jess Cuellar
+Fer Romero
 
 ### Presentación & Votación (Salita general) [~30 min]
 
@@ -64,10 +106,12 @@ Nos separaremos en 7 squads en salitas de Zoom.
 
 - No hay ideas tontas hasta que se prueban como tal.
 
-## 2) Despedida [~15 min]
+## 2) Formulario final de feedback
+
+- Llenamos el último formulario del GYM!!
+
+## 3) Despedida [~15 min]
 
 - Comentarios finales de las estudiantes y coaches
 
 - Nos juntamos todas para tomarnos una fotos de despedida 📸
-
-## 3) Formulario final de feedback
