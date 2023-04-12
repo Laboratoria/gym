@@ -20,3 +20,7 @@
 #### Video intro a cssbattle (nueva plataforma)
 
 [![Video intro a cssbattle (nueva plataforma](https://i3.ytimg.com/vi/47DC5xVewnA/hqdefault.jpg)](https://youtu.be/47DC5xVewnA)
+
+## Kahoot
+
+[https://create.kahoot.it/share/gym-session-07/132771e2-18be-4c68-8dbe-c4a3017781ae](https://create.kahoot.it/share/gym-session-07/132771e2-18be-4c68-8dbe-c4a3017781ae)
