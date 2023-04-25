@@ -14,6 +14,6 @@
 
 - [Contar positivos - sumar negativos](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 
-## Kahoot
+<!-- ## Kahoot
 
-[https://create.kahoot.it/details/8fdc1e3e-6efb-4b16-8848-8b4fc8915f93](https://create.kahoot.it/details/8fdc1e3e-6efb-4b16-8848-8b4fc8915f93)
+[https://create.kahoot.it/details/8fdc1e3e-6efb-4b16-8848-8b4fc8915f93](https://create.kahoot.it/details/8fdc1e3e-6efb-4b16-8848-8b4fc8915f93) -->
