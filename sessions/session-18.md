@@ -1,4 +1,4 @@
-# Retrospective tech mock interviews - 23/03/2023
+# Retrospective tech mock interviews - 27/04/2023
 
 ## 1) Compartimos nuestra experiencia [30 min] breakout rooms
 
