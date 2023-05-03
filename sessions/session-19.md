@@ -20,8 +20,8 @@ Proponer ideas para mejorar el gimnasio de la próxima generación 💪 alrededo
 - 2️⃣ En algunas ocasiones no se ha identificado la lógica para resolver un reto técnico.
 - 3️⃣ El lenguaje técnico no ha sido una prioridad al momento de comunicar.
 - 4️⃣ En algunas ocasiones aun hay confusión con las bases de JS (arreglos, objetos, .map, .reduce, etc.)
-- 5️⃣ No hay vinculo claro de los ejercicios del GYM con la aplicación en el proyecto.
-- 6️⃣ Un grupo de estudiantes atraviesa nervios/ansiedad al tener que codear en vivo.
+<!-- - 5️⃣ No hay vinculo claro de los ejercicios del GYM con la aplicación en el proyecto.
+- 6️⃣ Un grupo de estudiantes atraviesa nervios/ansiedad al tener que codear en vivo. -->
 
 
 
