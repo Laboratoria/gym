@@ -45,59 +45,59 @@ Nos separaremos en salitas de Zoom.
 #### La distribución de salas
 
 __GRUPO 1__
-Vanessa Sánchez
-Mónica Romero
-Joki Gonzales
-Fernanda Treviño
-Diana Guaiña
-Ana Ibarra
-Itza Quintero
-Sara Sierra
+- Vanessa Sánchez
+- Mónica Romero
+- Joki Gonzales
+- Fernanda Treviño
+- Diana Guaiña
+- Ana Ibarra
+- Itza Quintero
+- Sara Sierra
 
 __GRUPO 2__
-Vinka Peña
-Ale Castillo
-Carmen Araya
-Pamela González
-Fabiana Hasu
-Fernanda Choreño
-Mari Cornelio
+- Vinka Peña
+- Ale Castillo
+- Carmen Araya
+- Pamela González
+- Fabiana Hasu
+- Fernanda Choreño
+- Mari Cornelio
 
 __GRUPO 3__
-Ysis Longart
-Nelly Cumpa
-Jimena Villalobos
-Andrea Mosqueira
-Isabel Román
-Maria Higuera
-Yandira Condo
+- Ysis Longart
+- Nelly Cumpa
+- Jimena Villalobos
+- Andrea Mosqueira
+- Isabel Román
+- Maria Higuera
+- Yandira Condo
 
 __GRUPO 4__
-Luisa Gaviria
-Francisca Vega
-Pamela Viveros
-Rossanna Ariza
-María Zapién
-Naomi Peña
-Maryan Escobar
+- Luisa Gaviria
+- Francisca Vega
+- Pamela Viveros
+- Rossanna Ariza
+- María Zapién
+- Naomi Peña
+- Maryan Escobar
 
 __GRUPO 5__
-Andrea Flores
-Sofía Islas
-Angie Cómbita
-Chris Olivos
-Natalia Aspee
-Ale Santos
-Nicole Conde
+- Andrea Flores
+- Sofía Islas
+- Angie Cómbita
+- Chris Olivos
+- Natalia Aspee
+- Ale Santos
+- Nicole Conde
 
 __GRUPO 6__ 
-Andry Salazar
-Angie Muñoz
-Natalia Jopia
-Patricia Cornelio
-Jennifer Fúnez
-Elizabeth Hernandez
-Karen Bolas
+- Andry Salazar
+- Angie Muñoz
+- Natalia Jopia
+- Patricia Cornelio
+- Jennifer Fúnez
+- Elizabeth Hernandez
+- Karen Bolas
 
 ### Presentación & Votación (Salita general) [~30 min]
 
