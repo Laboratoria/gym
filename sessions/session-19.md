@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD013 -->
-# Retrospectiva cierre gym
+# Retrospectiva cierre gym DEV003 04/05/2023
 
 ## 1) Role playing: How might we?
 
@@ -16,23 +16,36 @@ Nuestro gimnasio parte de la idea principal de desarrollar la habilidad de `aná
 
 Proponer ideas para mejorar el gimnasio de la próxima generación 💪 alrededor de 1 oportunidad de mejora identificada en el gimnasio, teniendo en cuenta la experiencia vivida y los objetivos del gimnasio.
 
-### Dinámica [~60 min]
+- 1️⃣ Algunas estudiantes no aplican REACTO.
+- 2️⃣ En algunas ocasiones no se ha identificado la lógica para resolver un reto técnico.
+- 3️⃣ El lenguaje técnico no ha sido una prioridad al momento de comunicar.
+- 4️⃣ En algunas ocasiones aun hay confusión con las bases de JS (arreglos, objetos, .map, .reduce, etc.)
+- 5️⃣ No hay vinculo claro de los ejercicios del GYM con la aplicación en el proyecto.
+- 6️⃣ Un grupo de estudiantes atraviesa nervios/ansiedad al tener que codear en vivo.
+
+
+
+### Dinámica [~45 min]
 
 Nos separaremos en salitas de Zoom.
 
 #### Diseño (Salitas)
 
-- 15 min para analizar, formular preguntas a coaches y discutir sobre la oportunidad de mejora encomendada.
+- 10 min para analizar, formular preguntas a coaches y discutir sobre la oportunidad de mejora encomendada.
 
-- 30 min para elaborar y proponer sus ideas.
+- 25 min para elaborar y proponer sus ideas.
 
-- 15 min para poder cerrar y subir sus ideas. Cada Squad deberá presentar sus ideas en el archivo compartido.
+- 10 min para poder cerrar y subir sus ideas. Cada Squad deberá presentar sus ideas en el archivo compartido.
 
 #### Link de acceso a las slides
 
-[https://docs.google.com/presentation/d/1ceEfUksY1KQ-6p1jrJ7mDGFLFQ8TZIyXWvFgA1lIPc4/edit?usp=sharing](https://docs.google.com/presentation/d/1ceEfUksY1KQ-6p1jrJ7mDGFLFQ8TZIyXWvFgA1lIPc4/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1MeFXKCc3GXJm5Y9Ge89CtNXoMMvsnMeBXKXqOvTh7M8/edit?usp=sharing](https://docs.google.com/presentation/d/1MeFXKCc3GXJm5Y9Ge89CtNXoMMvsnMeBXKXqOvTh7M8/edit?usp=sharing)
 
-### Presentación & Votación (Salita general) [~45 min]
+
+#### La distribución de salas
+
+GRUPO 1
+### Presentación & Votación (Salita general) [~30 min]
 
 > - Una integrante designada del Squad tendrá 3 min para presentar sus ideas.
 >- 10 min para votar por:
@@ -53,10 +66,12 @@ __ℹ️ Importante:__
 
 - No hay ideas tontas hasta que se prueban como tal.
 
+## 3) Formulario final de feedback
+
+- Llenamos el último formulario del GYM!!
+
 ## 2) Despedida [~15 min]
 
 - Comentarios finales de las estudiantes y coaches
 
 - Nos juntamos todas para tomarnos una fotos de despedida 📸
-
-## 3) Formulario final de feedback
