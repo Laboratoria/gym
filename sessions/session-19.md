@@ -20,8 +20,8 @@ Proponer ideas para mejorar el gimnasio de la próxima generación 💪 alrededo
 - 2️⃣ En algunas ocasiones no se ha identificado la lógica para resolver un reto técnico.
 - 3️⃣ El lenguaje técnico no ha sido una prioridad al momento de comunicar.
 - 4️⃣ En algunas ocasiones aun hay confusión con las bases de JS (arreglos, objetos, .map, .reduce, etc.)
-<!-- - 5️⃣ No hay vinculo claro de los ejercicios del GYM con la aplicación en el proyecto.
-- 6️⃣ Un grupo de estudiantes atraviesa nervios/ansiedad al tener que codear en vivo. -->
+- 5️⃣ No hay vinculo claro de los ejercicios del GYM con la aplicación en el proyecto.
+- 6️⃣ Un grupo de estudiantes atraviesa nervios/ansiedad al tener que codear en vivo.
 
 
 
@@ -44,7 +44,61 @@ Nos separaremos en salitas de Zoom.
 
 #### La distribución de salas
 
-GRUPO 1
+__GRUPO 1__
+Vanessa Sánchez
+Mónica Romero
+Joki Gonzales
+Fernanda Treviño
+Diana Guaiña
+Ana Ibarra
+Itza Quintero
+Sara Sierra
+
+__GRUPO 2__
+Vinka Peña
+Ale Castillo
+Carmen Araya
+Pamela González
+Fabiana Hasu
+Fernanda Choreño
+Mari Cornelio
+
+__GRUPO 3__
+Ysis Longart
+Nelly Cumpa
+Jimena Villalobos
+Andrea Mosqueira
+Isabel Román
+Maria Higuera
+Yandira Condo
+
+__GRUPO 4__
+Luisa Gaviria
+Francisca Vega
+Pamela Viveros
+Rossanna Ariza
+María Zapién
+Naomi Peña
+Maryan Escobar
+
+__GRUPO 5__
+Andrea Flores
+Sofía Islas
+Angie Cómbita
+Chris Olivos
+Natalia Aspee
+Ale Santos
+Nicole Conde
+
+__GRUPO 6__ 
+Andry Salazar
+Angie Muñoz
+Natalia Jopia
+Patricia Cornelio
+Jennifer Fúnez
+Elizabeth Hernandez
+Karen Bolas
+
 ### Presentación & Votación (Salita general) [~30 min]
 
 > - Una integrante designada del Squad tendrá 3 min para presentar sus ideas.
@@ -68,7 +122,7 @@ __ℹ️ Importante:__
 
 ## 3) Formulario final de feedback
 
-- Llenamos el último formulario del GYM!!
+- Llenamos el último [formulario](https://forms.gle/WH3nhoJ3h2WGjid18) del GYM!!
 
 ## 2) Despedida [~15 min]
 
