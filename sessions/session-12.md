@@ -9,7 +9,7 @@ permita mejorar aprovechar mejor el gimnasio.
 
 ## Dinámica
 
-### Preguntas para reflexionar - 30 minutos
+### Preguntas para reflexionar - 30 minutos (Mentimeter)
 
 Vamos a responder cada una de las preguntas. Luego algunas voluntarias
  abren micro para compartir.
@@ -25,15 +25,15 @@ practicar ejercicios? ¿incluyes una tarea para esto en tu planificación?
 * ¿Has participado activamente en las sesiones del gimnasio? ¿cómo
 podrías participar más?
 
-### Retrospectiva - 30 minutos
+### Retrospectiva - 30 minutos (Metroretro)
 
-¿Qué hicimos bien? ¿Qué no hicimos bien? ¿Qué podríamos comenzar a hacer o
-seguir haciendo (accionables)? sobre 2 puntos grandes:
+¿Qué acciones nos han impulsado para seguir a nuestro objetivo? ¿Qué nos esta
+deteniendo? ¿A que nos podemos anticipar? sobre 2 puntos grandes:
 
 1. El compromiso sobre los objetivos, la importancia que le das, tu participación
    en las instancias, como abordas los problemas, etc
-2. La dinámica de las sesiones: hacking en salas, hacking en vivo, kahoot,
-   ejercicios, otros.
+2. Tu participación en la dinámica de las sesiones: hacking en salas, hacking
+en vivo, kahoot, ejercicios, otros.
 
 ### Compartir reflexiones - 20 minutos
 
