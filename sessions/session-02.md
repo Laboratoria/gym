@@ -18,6 +18,6 @@
 
 - [**Return Something to Me**](../exercises/return-something-warmup/)
 
-## Kahoot
+<!-- ## Kahoot
 
-[https://create.kahoot.it/details/c6f02512-5052-48d6-8f14-1ab7b1aada39](https://create.kahoot.it/details/c6f02512-5052-48d6-8f14-1ab7b1aada39)
+[https://create.kahoot.it/details/c6f02512-5052-48d6-8f14-1ab7b1aada39](https://create.kahoot.it/details/c6f02512-5052-48d6-8f14-1ab7b1aada39)  -->
