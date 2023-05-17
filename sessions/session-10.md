@@ -32,3 +32,7 @@
 - [Linear In](../exercises/linear-in/README.md)
 - [Can balance](../exercises/can-balance/README.md)
 - [Simple Elevator](../exercises/simple-elevator/README.md)
+
+## Kahoot
+
+- [https://create.kahoot.it/share/gym-session-11/3f0b557f-547f-4573-b686-50512e9a4b69](https://create.kahoot.it/share/gym-session-11/3f0b557f-547f-4573-b686-50512e9a4b69)
