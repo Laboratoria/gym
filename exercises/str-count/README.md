@@ -17,5 +17,5 @@ Dada una cadena y una subcadena no vacía, calcula recursivamente el número de 
 Ejemplos
 
     strCount('gatovacagato', 'gato') → 2
-    strCount('catcowcat', 'vaca') → 1
-    strCount('catcowcat', 'perro') → 0
+    strCount('catcowcat', 'cow') → 1
+    strCount('catcowcat', 'dog') → 0

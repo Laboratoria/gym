@@ -12,7 +12,7 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=array6&title=Recursion-1](https://the-winter.github.io/codingjs/exercise.html?name=array6&title=Recursion-1)
 
-Dada una matriz de entes, calcule recursivamente si la matriz contiene un 6. Utilizaremos la convención de considerar sólo la parte de la matriz que comienza en el índice dado. De esta forma, una llamada recursiva puede pasar índice+1 para moverse hacia abajo en la matriz. La llamada inicial pasará índice como 0.
+Dada una matriz de enteros, calcule recursivamente si la matriz contiene un 6. Utilizaremos la convención de considerar sólo la parte de la matriz que comienza en el índice dado. De esta forma, una llamada recursiva puede pasar índice+1 para moverse hacia abajo en la matriz. La llamada inicial pasará índice como 0.
 
 Ejemplos
 
