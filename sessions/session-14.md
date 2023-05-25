@@ -5,7 +5,7 @@
 ### Entrevista (30 min)
 
 * Coaches que entrevistan: Eri, Luna & Sebas
-* Las entrevistadas: Marian Villavicencio & Fernanda Alvarez.
+* Las entrevistadas: Pauli, Mariana Agudelo, Magenta.
 * Retos:
 
 ### Retrospectiva (30 min)
