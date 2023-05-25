@@ -17,8 +17,8 @@
 #### Intermediate
 
 - [Power N](../exercises/power-n/)
-
 - [Triangle](../exercises/triangle/)
+- [Array 6](../exercises/array-6/README.md)
 
 ## Kahoot
 
