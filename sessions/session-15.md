@@ -17,8 +17,8 @@
 #### Intermediate
 
 - [Power N](../exercises/power-n/)
-
 - [Triangle](../exercises/triangle/)
+- [End X](../exercises/end-x/)
 
 ## Kahoot
 
