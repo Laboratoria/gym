@@ -20,6 +20,8 @@
 
 - [Triangle](../exercises/triangle/)
 
+- [XY Balance](../exercises/xy-balance/)
+
 ## Kahoot
 
 - https://create.kahoot.it/share/gym-session-15/96edea29-d3f4-41b7-8f82-e1e875bd0e3a
