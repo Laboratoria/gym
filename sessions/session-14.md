@@ -6,7 +6,7 @@
 
 * Coaches que entrevistan: Eri, Luna & Sebas
 * Las entrevistadas: Pauli, Mariana Agudelo, Magenta.
-* Retos:
+* Retos: [Contar duplicados](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/javascript)
 
 ### Retrospectiva (30 min)
 
