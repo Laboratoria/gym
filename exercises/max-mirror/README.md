@@ -1,8 +1,8 @@
 ---
 difficulty:
-  - advanced
+- advanced
 OAs:
-  - arrays
+- arrays
  projects:
 - md-links
 ---
