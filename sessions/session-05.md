@@ -20,9 +20,8 @@
 
 🔗[REACTO](https://www.youtube.com/watch?v=AoD3hLFxI5I)
 
-<img src="https://user-images.githubusercontent.com/39414582/219725163-7917aae8-c0a8-4357-ac96-99d60f323959.png"  width="50%" height="20%">
-
-
+<img src="https://user-images.githubusercontent.com/39414582/219725163-7917aae8-c0a8-4357-ac96-99d60f323959.png"
+ width="50%" height="20%">
 
 ## Formulario feedback
 
