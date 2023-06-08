@@ -35,7 +35,6 @@ seguir haciendo (accionables)? sobre 2 puntos grandes:
 2. La dinámica de las sesiones: hacking en salas, hacking en vivo, kahoot,
    ejercicios, otros.
 
-
 Para la retrospectiva podemos usar este [figma](https://www.figma.com/file/KHJNtYj5AGCoBsdU17PySL/Retro-Gimnasio-DEV004?node-id=0%3A1&t=nuSsJAOUcjiJZ3WE-1)
 
 ### Compartir reflexiones - 20 minutos
