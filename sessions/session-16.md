@@ -33,3 +33,7 @@
 #### Advanced
 
 - [The Lift](../exercises/the-lift/)
+
+### Kahoot
+
+- [https://create.kahoot.it/share/kahoot-14-el-terror-de-javascript/f429c2f2-abab-4928-8373-f716b9350b31](https://create.kahoot.it/share/kahoot-14-el-terror-de-javascript/f429c2f2-abab-4928-8373-f716b9350b31)
