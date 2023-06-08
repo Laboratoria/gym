@@ -13,7 +13,6 @@
 ### Intermediate
 
 - [**Format words into a sentence**](../exercises/format-words/README.md)
-- [**Array diff**](../exercises/array-diff/README.md)
 - [**Pangram**](../exercises/pangram/README.md)
 
 ### Advanced
