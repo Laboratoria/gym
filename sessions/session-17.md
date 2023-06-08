@@ -33,7 +33,7 @@ técnica.
 > * [Mentimeter sala 2](https://www.menti.com/alt2bn53a5f6)
 > * [Mentimeter sala 3](https://www.menti.com/alanss5sj1mz)
 
-## 3) Retrospectiva en FigJam [30 min] Sala general
+## 3) Retrospectiva en [FigJam](https://www.figma.com/file/0FieKWGt6XKArCT07fTdC3/Retrospectiva-de-entrevista-tecnica-DEV004?type=whiteboard&node-id=0-1&t=n4PEhuz977x1uWWM-0) [30 min] Sala general
 
 > Llenamos nuestras notas en un tablero de FigJam con las siguientes columnas:
 >
