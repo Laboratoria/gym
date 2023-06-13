@@ -10,6 +10,7 @@ com a complexidade necessária para cobrir o status atual.
 ## Status atual
 
 A maioria das estudantes atualmente está fazendo o projeto social network, já
+A maioria das estudantes atualmente está fazendo o projeto social network, já
 passou por cipher/card validation e data-lovers.
 
 ## Dinâmica
@@ -73,5 +74,7 @@ Você pode compartilhar alguns feedbacks.
 ## Exemplos de entrevistas
 
 [![Mock mock interview 26/10/2022 by Marina](https://img.youtube.com/vi/AybAbA4_Xg0/0.jpg)](https://youtu.be/AybAbA4_Xg0)
+[![Mock mock interview 26/10/2022 by Marina](https://img.youtube.com/vi/AybAbA4_Xg0/0.jpg)](https://youtu.be/AybAbA4_Xg0)
 
+[![Mock mock interview 11/05/2022 by Thais](https://img.youtube.com/vi/hTau4gdt7Fs/0.jpg)](https://youtu.be/hTau4gdt7Fs)
 [![Mock mock interview 11/05/2022 by Thais](https://img.youtube.com/vi/hTau4gdt7Fs/0.jpg)](https://youtu.be/hTau4gdt7Fs)

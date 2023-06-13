@@ -10,6 +10,9 @@
 (Se necessário, compartilhar este vídeo
 [Job application Tips e boas práticas para entrevistas técnicas](https://youtu.be/rY8E1QmiQ0s)
 O vídeo está em espanhol, mas tem legenda em português)
+(Se necessário, compartilhar este vídeo
+[Job application Tips e boas práticas para entrevistas técnicas](https://youtu.be/rY8E1QmiQ0s)
+O vídeo está em espanhol, mas tem legenda em português)
 
 ## Boas-vindas (5 min)
 
