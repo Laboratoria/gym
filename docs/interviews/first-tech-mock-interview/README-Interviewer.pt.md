@@ -8,7 +8,7 @@ com a complexidade necessária para cobrir o status atual.
 
 ## Status atual
 
-A estudante atualmente está fazendo o projeto social network, já
+A maioria das estudantes atualmente está fazendo o projeto social network, já
 passou por cipher/card validation e data-lovers.
 
 ## Dinâmica
@@ -48,8 +48,8 @@ passou por cipher/card validation e data-lovers.
   resolução em tempo real de um exercício de código.
   
   A recomendação é começar com algum exercício rápido e fácil para dar uma
-  idea do nivel daestudante, e a partir daí você pode avaliar se passa para um segundo exercício.
-  quando o tempo acabar, se a estudante não tiver terminado o exercício,
+  idea do nivel da estudante, e a partir daí você pode avaliar se passa para um segundo exercício.
+  Quando o tempo acabar, se a estudante não tiver terminado o exercício,
   você pode dar 5 minutos e perguntar "Com o que você continuaria e como chegaria à solução?"
   
 ## Encerramento
@@ -59,8 +59,6 @@ Você pode compartilhar alguns feedbacks.
 
 ## Exemplos de entrevistas
 
-[![Mock mock interview 21/04/2022 by Margarita](https://img.youtube.com/vi/JPwObIeVSgw/0.jpg)](https://youtu.be/JPwObIeVSgw)
+[![Mock mock interview 26/10/2022 by Marina](https://img.youtube.com/vi/AybAbA4_Xg0/0.jpg)](https://youtu.be/AybAbA4_Xg0)
 
-[![Mock mock interview 5/05/2022 by Isabela](https://img.youtube.com/vi/35Yr3XtRDIg/0.jpg)](https://youtu.be/35Yr3XtRDIg)
-
-[![Mock Interview sesión 10 - 7/10/2021 by Melisa & Fernando](https://img.youtube.com/vi/TEbiUVmZIS4/0.jpg)](https://www.youtube.com/watch?v=TEbiUVmZIS4)
+[![Mock mock interview 11/05/2022 by Thais](https://img.youtube.com/vi/hTau4gdt7Fs/0.jpg)](https://youtu.be/hTau4gdt7Fs)
