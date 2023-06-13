@@ -4,8 +4,8 @@
 
 ### Entrevista (30 min)
 
-* Coaches que entrevistan: Eri, Daniel, Sebastian
-* Las entrevistadas: Giselle, Marlene & Andreyna
+* Coaches que entrevistan: Eri, Daniel
+* Las entrevistadas: Marlene & Andreyna
 
 ### Retrospectiva (30 min)
 
