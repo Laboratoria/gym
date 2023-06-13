@@ -45,8 +45,8 @@ próximas perguntas:
 - O que você acha que o entrevistado fez bem?
 - O que você acha que poderia ter sido feito melhor?
 
-## Peers compartilhar soluções + Q&A (30 mins)
+## Q&A + Peers compartilhar soluções (30 mins)
 
+Os coaches abrem um espaço para tirar dúvidas sobre as entrevistas.
 Voltamos para a sala principal e as estudantes espectadoras compartilham suas soluções
 aos problemas apresentados.
-Os coaches abrem um espaço para tirar dúvidas sobre as entrevistas.
