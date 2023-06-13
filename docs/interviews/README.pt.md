@@ -1,3 +1,3 @@
-# Guías de como ejecutar la session  
+# Guias de como executar a sessão  
 
-- [Primer entrevista técnica (Egresada)](./first-tech-mock-interview/README-Coach.md)
+- [Primeira entrevista técnica (Graduada)](./first-tech-mock-interview/README-Coach.pt.md)
