@@ -30,7 +30,7 @@ passou por cipher/card validation e data-lovers.
   > _"Vou te contar sobre o processo: no começo vou pedir que você se apresente, me diga
    um pouco sobre você e finalmente resolveremos 1 ou 2 exercícios de código"_.
 
-- **Presentación**
+- **Apresentação**
 
   Nesse momento, já em modo de entrevistadora, você se apresenta e a convida para
   que se apresente. O foco aqui é que sua apresentação seja breve e clara,
@@ -54,7 +54,7 @@ passou por cipher/card validation e data-lovers.
   
 ## Encerramento
   
-Aqui a entrevista é finalizada e seu papel como entrevistador termina.
+Aqui a entrevista é finalizada e seu papel como entrevistadora termina.
 Você pode compartilhar alguns feedbacks.
 
 ## Exemplos de entrevistas
