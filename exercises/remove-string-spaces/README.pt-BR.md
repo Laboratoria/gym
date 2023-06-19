@@ -12,7 +12,7 @@ projects:
 
 [https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)
 
-Simples, remova os espaços da string e retorne a string resultante.
+Remova os espaços da string e retorne a string resultante.
 
 __Exemplos__
 
