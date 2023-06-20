@@ -24,6 +24,8 @@ proyectos? (compartir ejemplos específicos que se te vengan a la mente)
 practicar ejercicios? ¿incluyes una tarea para esto en tu planificación?
 * ¿Has participado activamente en las sesiones del gimnasio? ¿cómo
 podrías participar más?
+* ¿Que te gustaría que los coaches hicieramos diferente para mejorar tu
+experiencia y aprovechar al máximo la instancia?
 
 ### Retrospectiva - 30 minutos
 
@@ -32,7 +34,7 @@ seguir haciendo (accionables)? sobre 2 puntos grandes:
 
 1. El compromiso sobre los objetivos, la importancia que le das, tu participación
    en las instancias, como abordas los problemas, etc
-2. La dinámica de las sesiones: hacking en salas, hacking en vivo, kahoot,
+2. La dinámica de las sesiones: hacking en salas, kahoot,
    ejercicios, otros.
 
 ### Compartir reflexiones - 20 minutos
