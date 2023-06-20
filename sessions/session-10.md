@@ -40,6 +40,6 @@ seguir haciendo (accionables)? sobre 2 puntos grandes:
 En la sala general compartimos de forma voluntaria las reflexiones
 más destacadas y/o planes de acción.
 
-### Hacking en vivo
+<!--### Hacking en vivo
 
-Hacking en vivo de retos pendientes de sesiones anteriores.
+Hacking en vivo de retos pendientes de sesiones anteriores.-->
