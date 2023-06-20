@@ -4,32 +4,30 @@
 
 ### HTML/CSS
 
-#### Beginner
+#### Newbie
 
-[Totally Triangle](../exercises/css-totally-triangle/README.md)
-
-[Matrix](../exercises/css-matrix/README.md)
+- [**CSS Junction**](../exercises/css-junction/README.md)
 
 #### Intermediate
 
-[Pokeball](../exercises/css-pokeball/README.md)
+- [**CSS Piano**](../exercises/css-piano/README.md)
+- [**CSS Ripples**](../exercises/css-ripples/README.md)
 
 ### JavaScript
 
 #### Newbie
 
-[swampEnds](../exercises/swap-ends/README.md)
+- [**Counting sheep**](../exercises/counting-sheep/README.md)
 
 #### Beginner
 
-[Sum of digits](../exercises/sum-of-digits/README.md)
-
-[Find the parity outlier](../exercises/parity-outlier/README.md)
+- [**Odd or Even**](../exercises/odd-or-even/README.md)
 
 #### Intermediate
 
-[Count strings in objects](../exercises/count-strings-in-objects/README.md)
+- [**Let's Recycle**](../exercises/lets-recycle/README.md)
+- [**Has 12**](../exercises/has-12/README.md)
 
 ## Kahoot
 
-[https://create.kahoot.it/details/ea4bb1be-0fb8-4e97-9c87-47c219cfcd81](https://create.kahoot.it/details/ea4bb1be-0fb8-4e97-9c87-47c219cfcd81)
+[https://create.kahoot.it/share/gym-session-08/320afa67-fdca-42d1-8eb6-46f4109094d2](https://create.kahoot.it/share/gym-session-08/320afa67-fdca-42d1-8eb6-46f4109094d2)
