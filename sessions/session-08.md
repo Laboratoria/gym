@@ -1,33 +1,47 @@
 # Sesión 8
 
-## Ejercicios
+## Objetivo
 
-### HTML/CSS
+En esta sesión haremos una reflexión individual sobre nuestro aprendizaje y
+participación en el gimnasio. Al concluir la sesión cada una habrá definido
+accionables muy concretos y adaptados a nuestra situación individual que nos
+permita mejorar aprovechar mejor el gimnasio.
 
-#### Newbie
+## Dinámica
 
-- [**CSS Junction**](../exercises/css-junction/README.md)
+### Preguntas para reflexionar - 30 minutos
 
-#### Intermediate
+Vamos a responder cada una de las preguntas. Luego algunas voluntarias
+ abren micro para compartir.
 
-- [**CSS Piano**](../exercises/css-piano/README.md)
-- [**CSS Ripples**](../exercises/css-ripples/README.md)
+__Preguntas__
 
-### JavaScript
+* ¿Cómo han mejorado tus capacidades de análisis y resolución de problemas
+después de las 7 sesiones de gimnasio que hemos tenido?
+* ¿Has aplicado los aprendizajes del gimnasio en el desarrollo de los
+proyectos? (compartir ejemplos específicos que se te vengan a la mente)
+* Durante el sprint, ¿dedicas tiempo adicional al del gimnasio para
+practicar ejercicios? ¿incluyes una tarea para esto en tu planificación?
+* ¿Has participado activamente en las sesiones del gimnasio? ¿cómo
+podrías participar más?
+* ¿Que te gustaría que los coaches hicieramos diferente para mejorar tu
+experiencia y aprovechar al máximo la instancia?
 
-#### Newbie
+### Retrospectiva - 30 minutos
 
-- [**Counting sheep**](../exercises/counting-sheep/README.md)
+¿Qué hicimos bien? ¿Qué no hicimos bien? ¿Qué podríamos comenzar a hacer o
+seguir haciendo (accionables)? sobre 2 puntos grandes:
 
-#### Beginner
+1. El compromiso sobre los objetivos, la importancia que le das, tu participación
+   en las instancias, como abordas los problemas, etc
+2. La dinámica de las sesiones: hacking en salas, kahoot,
+   ejercicios, otros.
 
-- [**Odd or Even**](../exercises/odd-or-even/README.md)
+### Compartir reflexiones - 20 minutos
 
-#### Intermediate
+En la sala general compartimos de forma voluntaria las reflexiones
+más destacadas y/o planes de acción.
 
-- [**Let's Recycle**](../exercises/lets-recycle/README.md)
-- [**Has 12**](../exercises/has-12/README.md)
+<!--### Hacking en vivo
 
-## Kahoot
-
-[https://create.kahoot.it/share/gym-session-08/320afa67-fdca-42d1-8eb6-46f4109094d2](https://create.kahoot.it/share/gym-session-08/320afa67-fdca-42d1-8eb6-46f4109094d2)
+Hacking en vivo de retos pendientes de sesiones anteriores.-->
