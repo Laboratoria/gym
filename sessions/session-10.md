@@ -1,47 +1,35 @@
 # Sesión 10
 
-## Objetivo
+## Ejercicios
 
-En esta sesión haremos una reflexión individual sobre nuestro aprendizaje y
-participación en el gimnasio. Al concluir la sesión cada una habrá definido
-accionables muy concretos y adaptados a nuestra situación individual que nos
-permita mejorar aprovechar mejor el gimnasio.
+### HTML/CSS
 
-## Dinámica
+#### Beginner
 
-### Preguntas para reflexionar - 30 minutos
+[Totally Triangle](../exercises/css-totally-triangle/README.md)
 
-Vamos a responder cada una de las preguntas. Luego algunas voluntarias
- abren micro para compartir.
+[Matrix](../exercises/css-matrix/README.md)
 
-__Preguntas__
+#### Intermediate
 
-* ¿Cómo han mejorado tus capacidades de análisis y resolución de problemas
-después de las 7 sesiones de gimnasio que hemos tenido?
-* ¿Has aplicado los aprendizajes del gimnasio en el desarrollo de los
-proyectos? (compartir ejemplos específicos que se te vengan a la mente)
-* Durante el sprint, ¿dedicas tiempo adicional al del gimnasio para
-practicar ejercicios? ¿incluyes una tarea para esto en tu planificación?
-* ¿Has participado activamente en las sesiones del gimnasio? ¿cómo
-podrías participar más?
-* ¿Que te gustaría que los coaches hicieramos diferente para mejorar tu
-experiencia y aprovechar al máximo la instancia?
+[Pokeball](../exercises/css-pokeball/README.md)
 
-### Retrospectiva - 30 minutos
+### JavaScript
 
-¿Qué hicimos bien? ¿Qué no hicimos bien? ¿Qué podríamos comenzar a hacer o
-seguir haciendo (accionables)? sobre 2 puntos grandes:
+#### Newbie
 
-1. El compromiso sobre los objetivos, la importancia que le das, tu participación
-   en las instancias, como abordas los problemas, etc
-2. La dinámica de las sesiones: hacking en salas, kahoot,
-   ejercicios, otros.
+[swampEnds](../exercises/swap-ends/README.md)
 
-### Compartir reflexiones - 20 minutos
+#### Beginner
 
-En la sala general compartimos de forma voluntaria las reflexiones
-más destacadas y/o planes de acción.
+[Sum of digits](../exercises/sum-of-digits/README.md)
 
-<!--### Hacking en vivo
+[Find the parity outlier](../exercises/parity-outlier/README.md)
 
-Hacking en vivo de retos pendientes de sesiones anteriores.-->
+#### Intermediate
+
+[Count strings in objects](../exercises/count-strings-in-objects/README.md)
+
+## Kahoot
+
+[https://create.kahoot.it/details/ea4bb1be-0fb8-4e97-9c87-47c219cfcd81](https://create.kahoot.it/details/ea4bb1be-0fb8-4e97-9c87-47c219cfcd81)
