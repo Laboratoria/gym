@@ -1,66 +1,64 @@
-# Guía para entrevista GYM
+# Guia para entrevista GYM
 
 ## Objetivo
 
-Que las estudiantes tenga una primer experiencia de entrevista técnica si tener
-que esperar a iniciar un proceso real
-con la complejidad que necesaria que abarcar el status actual.
+Que as estudantes tenham uma primeira experiência de entrevista técnica sem ter
+que esperar iniciar um processo real
+com a complexidade necessária para cobrir o status atual.
 
-## Status actual
+## Status atual
 
-La estudiante actualmente esta atravesando social network, ha
-pasado por cipher/card validation y data-lovers.
+A maioria das estudantes atualmente está fazendo o projeto social network, já
+passou por cipher/card validation e data-lovers.
 
-## Dinámica
+## Dinâmica
 
 ### Inicio (5-7 min)
 
 - **Contexto**
 
-  Antes de ponerte en modo entrevistadorx es importante recordar a la
-  estudiante que esta es una entrevista de práctica, es sobre todo para
-  identificar qué haría en una entrevista real, cómo se comportaría si se pone
-  nerviosa, o que recursos puede usar para controlar o manejar esas situaciones.
+  Antes de se colocar em modo de entrevistadora, é importante lembrar a
+  estudante de que esta é uma entrevista de práctica, é principalmente para
+  identificar o que você faria em uma entrevista real, como se comportaria se estivesse
+  nervosa, ou quais recursos você pode usar para controlar ou administrar essas situações.
 
 - **Intro**
 
-  Aquí ya comienza la entrevista y lo primero es dejarle claro a la candidata
-  cuál será la estructura de este espacio, por ejemplo:
+  Aqui começa a entrevista, e a primeira coisa é deixar claro para a candidata
+  qual será a estrutura deste espaço, por exemplo:
   
-  > _"Te comento el proceso: al comienzo te pediré que te presentes, me cuentes
-  un poco sobre tí y por último resolveremos 1 o 2 ejercicios de código"_.
+  > _"Vou te contar sobre o processo: no começo vou pedir que você se apresente, me diga
+   um pouco sobre você e finalmente resolveremos 1 ou 2 exercícios de código"_.
 
-- **Presentación**
+- **Apresentação**
 
-  En este punto, ya en modo entrevistadorx, te presentas y la invitas a ella a
-  que se presente. El foco aquí es que su presentación sea breve, clara
-  por lo que siéntete en libertad de hacerle las preguntas que consideres relevantes.
+  Nesse momento, já em modo de entrevistadora, você se apresenta e a convida para
+  que se apresente. O foco aqui é que sua apresentação seja breve e clara,
+  portanto, sinta-se à vontade para fazer qualquer pergunta que considere relevante
   
-  > Ejemplo de preguntas:
+  > Exemplo de perguntas:
   >
-  > - ¿Por que te intereso entrar al mundo de la programación ?
-  > - ¿Que es lo que mas disfrutas de programar?
-  > - ¿Que rol te gustaría tener o que te gustaría estar haciendo?
+  > - Por que você se interessou em entrar no mundo da programação?
+  > - O que você mais gosta da área da programação?
+  > - Que função/papel você gostaria de ter ou o que gostaria de estar fazendo?
   
-## Ejercicio técnico (25 min)
+## Exercício técnico (25 min)
 
-  El objetivo de esta etapa es ver cómo se enfrenta la estudiante a la
-  resolución en tiempo real de un ejercicio de código.
+  O objetivo desta etapa é ver como a estudante enfrenta a
+  resolução em tempo real de um exercício de código.
   
-  La recomendación es comenzar con algún ejercicio rápido y fácil para darte una
-  idea del nivel de la estudiante, y de ahí puedes valor si pasar a un segundo ejercicio,
-  cuando acabe el tiempo si la estudiante no ha terminado el ejercicio,
-  puedes darle 5 min y preguntarle ¿Con que seguiría y  como llegaría a la solución?
+  A recomendação é começar com algum exercício rápido e fácil para dar uma
+  idea do nivel da estudante, e a partir daí você pode avaliar se passa para um segundo exercício.
+  Quando o tempo acabar, se a estudante não tiver terminado o exercício,
+  você pode dar 5 minutos e perguntar "Com o que você continuaria e como chegaria à solução?"
   
-## Cierre
+## Encerramento
   
-  Aquí llega la entrevista a su fin y finaliza tu rol de entrevistadorx, puedes
-  compartir algo de feedback.
+Aqui a entrevista é finalizada e seu papel como entrevistadora termina.
+Você pode compartilhar alguns feedbacks.
 
-## Ejemplos de entrevistas
+## Exemplos de entrevistas
 
-[![Mock mock interview 21/04/2022 by Margarita](https://img.youtube.com/vi/JPwObIeVSgw/0.jpg)](https://youtu.be/JPwObIeVSgw)
+[![Mock mock interview 26/10/2022 by Marina](https://img.youtube.com/vi/AybAbA4_Xg0/0.jpg)](https://youtu.be/AybAbA4_Xg0)
 
-[![Mock mock interview 5/05/2022 by Isabela](https://img.youtube.com/vi/35Yr3XtRDIg/0.jpg)](https://youtu.be/35Yr3XtRDIg)
-
-[![Mock Interview sesión 10 - 7/10/2021 by Melisa & Fernando](https://img.youtube.com/vi/TEbiUVmZIS4/0.jpg)](https://www.youtube.com/watch?v=TEbiUVmZIS4)
+[![Mock mock interview 11/05/2022 by Thais](https://img.youtube.com/vi/hTau4gdt7Fs/0.jpg)](https://youtu.be/hTau4gdt7Fs)
