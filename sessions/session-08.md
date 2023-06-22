@@ -28,6 +28,7 @@ podrías participar más?
 experiencia y aprovechar al máximo la instancia?
 
 ### Retrospectiva - 30 minutos
+Metroretro https://metroretro.io/board/LB4Z3ILG09NW
 
 ¿Qué hicimos bien? ¿Qué no hicimos bien? ¿Qué podríamos comenzar a hacer o
 seguir haciendo (accionables)? sobre 2 puntos grandes:
