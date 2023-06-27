@@ -10,7 +10,7 @@ projects:
 
 # Format words into a sentence
 
-[https://www.codewars.com/kata/51689e27fe9a00b126000004](https://www.codewars.com/kata/51689e27fe9a00b126000004)
+[https://www.codewars.com/kata/51689e27fe9a00b126000004/train/javascript](https://www.codewars.com/kata/51689e27fe9a00b126000004/train/javascript)
 
 Implementa una función que dado un arreglo de palabras devuelve una cadena con
 las palabras separadas con comas.  
