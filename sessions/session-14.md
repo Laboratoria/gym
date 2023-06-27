@@ -28,8 +28,11 @@
 
 - [Move All Balls to Each Box](../exercises/move-balls-boxes/)
 
+- [Count x](../exercises/count-x-recursion/README.md)
+
 #### Advanced
 
+- [Square Up](../exercises/square-up/)
 - [The Lift](../exercises/the-lift/)
 
 ## Kahoot

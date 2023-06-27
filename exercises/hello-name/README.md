@@ -22,3 +22,7 @@ __Ejemplo__
     helloName('Alice') → "Hello Alice!"
     helloName('X') → "Hello X!"
 ```
+
+__Pistas__
+
+* ¿Cómo puedes unir (concatenar) dos `strings`?
