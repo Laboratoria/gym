@@ -27,8 +27,8 @@ passou por cipher/card validation e data-lovers.
   Aqui começa a entrevista, e a primeira coisa é deixar claro para a candidata
   qual será a estrutura deste espaço, por exemplo:
   
-  > _"Vou te contar sobre o processo: no começo vou pedir que você se apresente, me diga
-   um pouco sobre você e finalmente resolveremos 1 ou 2 exercícios de código"_.
+  > _"Vou te contar sobre o processo: no começo vou pedir que você se apresente,
+me diga um pouco sobre você e finalmente resolveremos 1 ou 2 exercícios de código"_.
 
 - **Apresentação**
 
@@ -47,10 +47,10 @@ passou por cipher/card validation e data-lovers.
   O objetivo desta etapa é ver como a estudante enfrenta a
   resolução em tempo real de um exercício de código.
   
-  A recomendação é começar com algum exercício rápido e fácil para dar uma
-  idea do nivel da estudante, e a partir daí você pode avaliar se passa para um segundo exercício.
-  Quando o tempo acabar, se a estudante não tiver terminado o exercício,
-  você pode dar 5 minutos e perguntar "Com o que você continuaria e como chegaria à solução?"
+  A recomendação é começar com algum exercício rápido e fácil para dar uma idea do
+  nivel da estudante, e a partir daí pode avaliar se passa para um segundo exercício.
+  Quando o tempo acabar, se a estudante não tiver terminado o exercício, você pode
+  dar 5 minutos e perguntar "Com o que você continuaria e como chegaria à solução?"
   
 ## Encerramento
   
