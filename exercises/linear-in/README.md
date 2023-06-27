@@ -10,7 +10,7 @@ projects:
 
 # linearIn
 
-[https://the-winter.github.io/codingjs/exercise.html?name=love6&title=Logic-1](https://the-winter.github.io/codingjs/exercise.html?name=love6&title=Logic-1)
+https://the-winter.github.io/codingjs/exercise.html?name=linearIn
 
 Dados dos arrays de ints ordenados de forma creciente,
 devuelve true si todos os números do segundo array
