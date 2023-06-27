@@ -11,7 +11,7 @@ projects:
   - api-client
 ---
 
-# Laboratoria ID
+# ID Card
 
 Se proporciona una plantilla en HTML y CSS con el objetivo de que se brinde funcionalidad para crear una identificación personalizada.
 Ayudandote con herramientas como: ChatGPT; deberas trabajar en el código, agregando los elementos interactivos necesarios para obtener
@@ -25,6 +25,7 @@ Además de los requisitos mencionados anteriormente, como bono adicional,
 deberas implementar la funcionalidad para descargar la identificación generada como un archivo.
 
 __Template__
+
 ```html
 <!DOCTYPE html>
 <html>
