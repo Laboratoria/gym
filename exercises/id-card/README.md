@@ -13,16 +13,19 @@ projects:
 
 # ID Card
 
-Se proporciona una plantilla en HTML y CSS con el objetivo de que se brinde funcionalidad para crear una identificación personalizada.
-Ayudandote con herramientas como: ChatGPT; deberas trabajar en el código, agregando los elementos interactivos necesarios para obtener
-el nombre del usuario, permitirle dibujar su firma y capturar una foto desde la cámara web.
-Al finalizar, la pagina web permitirá a un usuario ingresar nombre, dibujar su firma y capturar una foto en tiempo real desde la cámara web,
-generando así una identificación completa y personalizada.
+Se proporciona una plantilla en HTML y CSS con el objetivo de que se brinde
+funcionalidad para crear una identificación personalizada.
+Ayudandote con herramientas como: ChatGPT; deberas trabajar en el código,
+agregando los elementos interactivos necesarios para obtener el nombre del
+usuario, permitirle dibujar su firma y capturar una foto desde la cámara web.
+Al finalizar, la pagina web permitirá a un usuario ingresar nombre, dibujar
+su firma y capturar una foto en tiempo real desde la cámara web, generando
+así una identificación completa y personalizada.
 
 Bounus:
-
 Además de los requisitos mencionados anteriormente, como bono adicional,
-deberas implementar la funcionalidad para descargar la identificación generada como un archivo.
+deberas implementar la funcionalidad para descargar la identificación
+generada como un archivo.
 
 __Template__
 

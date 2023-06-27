@@ -13,13 +13,16 @@ projects:
 
 # Laboratoria ID
 
-É fornecido um modelo em HTML e CSS com o objetivo de fornecer funcionalidade para criar uma identificação personalizada.
-Usando ferramentas como ChatGPT, você deve trabalhar no código, adicionando os elementos interativos necessários para obter o nome do usuário,
-permitir que ele desenhe sua assinatura e capture uma foto da webcam. Ao finalizar, a página da web permitirá que um usuário insira seu nome,
-desenhe sua assinatura e capture uma foto em tempo real da webcam, gerando assim uma identificação completa e personalizada.
+É fornecido um modelo em HTML e CSS com o objetivo de fornecer funcionalidade
+para criar uma identificação personalizada.
+Usando ferramentas como ChatGPT, você deve trabalhar no código, adicionando
+os elementos interativos necessários para obter o nome do usuário,
+permitir que ele desenhe sua assinatura e capture uma foto da webcam.
+Ao finalizar, a página da web permitirá que um usuário insira seu nome,
+desenhe sua assinatura e capture uma foto em tempo real da webcam,
+gerando assim uma identificação completa e personalizada.
 
 Bônus:
-
 Além dos requisitos mencionados anteriormente, como um bônus adicional,
 você deve implementar a funcionalidade de baixar a identificação gerada como um arquivo.
 
