@@ -32,6 +32,7 @@
 
 #### Advanced
 
+- [Square Up](../exercises/square-up/)
 - [The Lift](../exercises/the-lift/)
 
 ## Kahoot
