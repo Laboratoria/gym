@@ -13,7 +13,6 @@ projects:
 
 Dado n>=0, crea una matriz de longitud n*n con el siguiente patrón,
 mostrado aquí para n=3 : {0, 0, 1, 0, 2, 1, 3, 2, 1}
-(espacios añadidos para mostrar los 3 grupos).
 
 Ejemplos
 

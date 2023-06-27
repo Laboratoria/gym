@@ -13,7 +13,6 @@ projects:
 
 Dado n>=0, crie uma matriz de comprimento n*n com o seguinte padrão,
 mostrado aqui para n=3: {0, 0, 1, 0, 2, 1, 1, 3, 2, 1}
-(espaços adicionados para mostrar os 3 grupos).
 
 Exemplos
 
