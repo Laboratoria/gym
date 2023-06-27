@@ -1,3 +1,13 @@
+---
+difficulty:
+  - newbie
+OAs:
+  - strings
+projects:
+  - cipher
+  - card validation
+---
+
 # Hello Name
 
 [https://the-winter.github.io/codingjs/exercise.html?name=helloName&title=String-1](https://the-winter.github.io/codingjs/exercise.html?name=helloName&title=String-1)
@@ -12,6 +22,6 @@ __Exemplos__
     helloName('X') → "Hello X!"
 ```
 
-## Objetivos de aprendizagem (OAs)
+__Dicas__
 
-- Manipulação de strings
+* Como você pode unir (concatenar) duas `strings`?
