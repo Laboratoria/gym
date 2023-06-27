@@ -26,7 +26,6 @@ Bônus:
 Além dos requisitos mencionados anteriormente, como um bônus adicional,
 você deve implementar a funcionalidade de baixar a identificação gerada como um arquivo.
 
-
 __Template__
 
 ```html
