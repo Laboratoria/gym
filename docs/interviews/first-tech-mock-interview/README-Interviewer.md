@@ -49,6 +49,8 @@ pasado por cipher/card validation y data-lovers.
   
   La recomendación es comenzar con algún ejercicio rápido y fácil para darte una
   idea del nivel de la estudiante, y de ahí puedes valor si pasar a un segundo ejercicio,
+  mientras está desarrollando el ejercicio recordar que somos entrevistadoras,
+  podemos dar pistas, pero dejando que la entrevistada desarrolle su lógica.
   cuando acabe el tiempo si la estudiante no ha terminado el ejercicio,
   puedes darle 5 min y preguntarle ¿Con que seguiría y  como llegaría a la solución?
   
