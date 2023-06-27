@@ -7,7 +7,8 @@ OAs:
   - CSS
   - JS
 projects:
-  - ?
+  - burger-queen
+  - api-client
 ---
 
 # Laboratoria ID
