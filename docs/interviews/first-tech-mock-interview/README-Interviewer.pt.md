@@ -35,23 +35,15 @@ me diga um pouco sobre você e finalmente resolveremos 1 ou 2 exercícios de có
   Nesse momento, já em modo de entrevistadora, você se apresenta e a convida para
   que se apresente. O foco aqui é que sua apresentação seja breve e clara,
   portanto, sinta-se à vontade para fazer qualquer pergunta que considere relevante
-  Nesse momento, já em modo de entrevistadora, você se apresenta e a convida para
-  que se apresente. O foco aqui é que sua apresentação seja breve e clara,
-  portanto, sinta-se à vontade para fazer qualquer pergunta que considere relevante
   
   > Exemplo de perguntas:
   >
   > - Por que você se interessou em entrar no mundo da programação?
   > - O que você mais gosta da área da programação?
   > - Que função/papel você gostaria de ter ou o que gostaria de estar fazendo?
-  > - Por que você se interessou em entrar no mundo da programação?
-  > - O que você mais gosta da área da programação?
-  > - Que função/papel você gostaria de ter ou o que gostaria de estar fazendo?
   
 ## Exercício técnico (25 min)
 
-  O objetivo desta etapa é ver como a estudante enfrenta a
-  resolução em tempo real de um exercício de código.
   O objetivo desta etapa é ver como a estudante enfrenta a
   resolução em tempo real de um exercício de código.
   
@@ -68,7 +60,5 @@ Você pode compartilhar alguns feedbacks.
 ## Exemplos de entrevistas
 
 [![Mock mock interview 26/10/2022 by Marina](https://img.youtube.com/vi/AybAbA4_Xg0/0.jpg)](https://youtu.be/AybAbA4_Xg0)
-[![Mock mock interview 26/10/2022 by Marina](https://img.youtube.com/vi/AybAbA4_Xg0/0.jpg)](https://youtu.be/AybAbA4_Xg0)
 
-[![Mock mock interview 11/05/2022 by Thais](https://img.youtube.com/vi/hTau4gdt7Fs/0.jpg)](https://youtu.be/hTau4gdt7Fs)
 [![Mock mock interview 11/05/2022 by Thais](https://img.youtube.com/vi/hTau4gdt7Fs/0.jpg)](https://youtu.be/hTau4gdt7Fs)

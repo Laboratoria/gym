@@ -10,9 +10,6 @@
 (Se necessário, compartilhar este vídeo
 [Job application Tips e boas práticas para entrevistas técnicas](https://youtu.be/rY8E1QmiQ0s)
 O vídeo está em espanhol, mas tem legenda em português)
-(Se necessário, compartilhar este vídeo
-[Job application Tips e boas práticas para entrevistas técnicas](https://youtu.be/rY8E1QmiQ0s)
-O vídeo está em espanhol, mas tem legenda em português)
 
 ## Boas-vindas (5 min)
 
@@ -25,7 +22,7 @@ qual é a sala correspondente para cada graduada.
 Assim que entramos nas salas, um coach faz um lembrete do tempo que
 se tem para a entrevista e dá lugar para a graduada iniciar a entrevista.
 (Se necessário, lembrar para que os outros participantes desliguem as cameras,
- não interajam no chat e que também tentem fazer os exercício proposto).
+não interajam no chat e que também tentem fazer os exercício proposto).
 Por fim, comece a gravar a sessão.
 
 ## Entrevista (30-40 min)
@@ -51,7 +48,6 @@ próximas perguntas:
 
 ## Q&A + Peers compartilhar soluções (30 mins)
 
-Os coaches abrem um espaço para tirar dúvidas sobre as entrevistas.
 Os coaches abrem um espaço para tirar dúvidas sobre as entrevistas.
 Voltamos para a sala principal e as estudantes espectadoras compartilham suas soluções
 aos problemas apresentados.
