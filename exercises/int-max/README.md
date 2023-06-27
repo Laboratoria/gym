@@ -23,3 +23,8 @@ __Ejemplo__
     intMax(1, 3, 2) → 3
     intMax(3, 2, 1) → 3
 ```
+
+__Pistas__
+
+* ¿Qué operador lógico de JavaScript usarías para saber
+si un número es mayor a otro?

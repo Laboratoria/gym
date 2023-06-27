@@ -23,3 +23,10 @@ __Ejemplo:__
     firstLast6([6, 1, 2, 3]) → true
     firstLast6([13, 6, 1, 2, 3]) → false
 ```
+
+__Pistas__
+
+* Usando la propiedad `length` un `array`,
+¿cómo encontrarías la posición del último elemento de `array`?
+* ¿Qué operador lógico de JavaScript te permite
+evaluar que se cumplan dos condiciones?
