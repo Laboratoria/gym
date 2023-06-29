@@ -2,7 +2,7 @@
 
 <table style="vertical-align: top;">
   <tr>
-    <td><b>Semana</b></td>
+    <td><b>Semana bootcamp</b></td>
     <td><b>Data</b></td>
     <td><b>Atividade</b></td>
   </tr>
@@ -49,17 +49,17 @@
    <tr>
     <td>10</td>
     <td>22/06</td>
-    <td></td>
+    <td>Sessão 8</td>
   </tr>
    <tr>
     <td>11</td>
     <td>29/06</td>
-    <td></td>
+    <td>Tech-mock-mock interview - Marina e Nívia && Sarah e Helouise</td>
   </tr>
    <tr>
     <td>12</td>
     <td>06/07</td>
-    <td></td>
+    <td>Sessão 9</td>
   </tr>
    <tr>
     <td>13</td>
