@@ -38,7 +38,7 @@ el siguiente documento: [https://docs.google.com/document/d/1EpN00xjtzQ2dij9w1n2
   técnica.
 - Conversaremos y reflexionamos sobre las palabras que más resuenan en el mentimeter.
 
-## 3) Retrospectiva en FigJam [30 min] Sala general
+## 3) Retrospectiva en Metroretro [30 min] Sala general
 
 > Llenamos nuestras notas en un tablero de Metroretro con las siguientes columnas:
 >
