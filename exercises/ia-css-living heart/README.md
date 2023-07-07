@@ -1,3 +1,13 @@
+---
+difficulty:
+  - intermediate
+OAs:
+  - css
+projects:
+  - social network
+  - movie challenge
+---
+
 # Living heart
 
 Hay páginas web que destacan por su diseño. Para lograrlo, se utilizan diferentes
