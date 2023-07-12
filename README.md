@@ -5,6 +5,27 @@ que consiste en una veintena de sesiones en las cuales progresivamente se
 exploran ejercicios técnicos así como también se simulan entrevistas técnicas
 de cara al proceso de empleabilidad de nuestras estudiantes.
 
+| Sesión                                          | 1    | 2-6  | 7    | 8-9  | 10   | 11-15 | 16   | 17   | 18   |
+| :----------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
+| Introducción 📚                                 | ⭐️ |      |      |      |      |       |      |      |      |
+| Retrospectiva 🔭                                 |      |      |      |      | ⭐️ |       |      |      | ⭐️ |
+| Coding (JS) en grupos 💪                         |      | ⭐️ |      | ⭐️ |      | ⭐️  |      | ⭐️ |      |
+| Coding (CSS) en grupos 💪                        |      |      | ⭐️ | ⭐️ |      | ⭐️  |      |      |      |
+| Coding colectivo 🏋️‍♀️                      | ⭐️ | ⭐️ | ⭐️ | ⭐️ |      | ⭐️  |      |      |      |
+| Maquetación (CSS) 🔎                            |      |      |      |      |      |       | ⭐️ |      |      |
+| React Challenge 💪                               |      |      |      |      |      |       |      | ⭐️ |      |
+| Kahoot 🎲                                        | ⭐️ | ⭐️ | ⭐️ | ⭐️ |      | ⭐️  | ⭐️ | ⭐️ |      |
+| Simulación de Entrevista (Egresada) 🤼‍♀ |      | ➡️ |      |      |      |       |      |      |      |
+| Simulación de Entrevista (Mentor) 👾       |      |      |      | ➡️ |      |       |      |      |      |
+
+Las entrevistas técnicas empiezan cuando la mayoría está pasando a su segundo proyecto.
+
+Las primeras entrevistas son conducidas por egresadas voluntarias.
+
+La segunda ronda de entrevistas técnicas ocurre con mentores desconocidos.
+
+## Acerca de este Repositorio
+
 En este repositorio mantenemos la biblioteca de ejercicios y los ordenamos
 por [sesiones semanales](./sessions/). La intención es disponibilizar el material
 para todas las estudiantes y así puedan avanzar a su ritmo.
@@ -17,7 +38,7 @@ Los ejercicios están disponibles para que tanto las estudiantes como lxs
 mentorxs puedan explorarlos, sugerir mejoras e ir a su propio ritmo.
 
 Nota: Las [soluciones](https://github.com/Laboratoria/gym-solutions)
-se encuentran en un repositorio privado :imp:
+se encuentran en un repositorio privado 👿
 
 ### Buscador (¡Beta!): https://laboratoria.github.io/gym
 
@@ -29,7 +50,6 @@ sobre la cual, cada mentor/mentora puede construir sobre las mismas bases, como 
 
 * El respeto por el proceso individual.
 * Colocar a la estudiante primero.
-
 * Objetivo 1: Fortalecer Habilidades de Resolución de Problemas.
 * Objetivo 2: Preparar para situaciones de alta emocionalidad o frustración de cara
   a las entrevistas técnicas y empleabilidad.
