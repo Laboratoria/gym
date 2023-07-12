@@ -15,8 +15,8 @@ de cara al proceso de empleabilidad de nuestras estudiantes.
 | Maquetación (CSS) 🔎                            |      |      |      |      |      |       | ⭐️ |      |      |
 | React Challenge 💪                               |      |      |      |      |      |       |      | ⭐️ |      |
 | Kahoot 🎲                                        | ⭐️ | ⭐️ | ⭐️ | ⭐️ |      | ⭐️  | ⭐️ | ⭐️ |      |
-| Simulación de Entrevista<br />(Egresada) 🤼‍♀ |      | ➡️ |      |      |      |       |      |      |      |
-| Simulación de Entrevista<br />(Mentor) 👾       |      |      |      | ➡️ |      |       |      |      |      |
+| Simulación de Entrevista (Egresada) 🤼‍♀ |      | ➡️ |      |      |      |       |      |      |      |
+| Simulación de Entrevista (Mentor) 👾       |      |      |      | ➡️ |      |       |      |      |      |
 
 Las entrevistas técnicas empiezan cuando la mayoría está pasando a su segundo proyecto.
 
