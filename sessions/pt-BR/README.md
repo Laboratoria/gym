@@ -67,7 +67,7 @@
    <tr>
     <td>13</td>
     <td>13/07</td>
-    <td></td>
+    <td><p><a href="https://metroretro.io/BO6B9VFW95D0">Retrospectiva</a></p></td>
   </tr>
    <tr>
     <td>14</td>
