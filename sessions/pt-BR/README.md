@@ -54,7 +54,10 @@
    <tr>
     <td>11</td>
     <td>29/06</td>
-    <td>Tech-mock-mock interview - Marina e Nívia && Sarah e Helouise</td>
+    <td>Tech-mock-mock interview: <br/>
+    - <p style="display:inline"><a href="https://youtu.be/mIce1l7az7c">Entrevistadora Marina e Entrevistada Nívia</a></p><br/>
+    - <p style="display:inline"><a href="https://youtu.be/FUDSrIB788A">Entrevistadora Sara e entrevistada Helouise</a></p>
+    </td>
   </tr>
    <tr>
     <td>12</td>
