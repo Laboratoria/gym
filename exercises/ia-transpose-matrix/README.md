@@ -10,8 +10,6 @@ projects:
 
 # Transpose matrix
 
-[https://edabit.com/challenge/zQm9YZTTFPhNtYjDr](https://edabit.com/challenge/zQm9YZTTFPhNtYjDr)
-
 En matemáticas, la matriz traspuesta es aquella que surge como resultado de
 realizar un cambio de columnas por filas y filas por columnas en la matriz original,
 generándose una nueva matriz (a la que llamamos traspuesta)
