@@ -8,7 +8,7 @@
 
 🔗[REACTO](https://www.youtube.com/watch?v=AoD3hLFxI5I)
 
-## Exercicios
+## Exercícios (para serem resolvidos POR COACHES como demonstração)
 
 - [Soma de positivos](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
