@@ -22,7 +22,7 @@ qual é a sala correspondente para cada graduada.
 Assim que entramos nas salas, um coach faz um lembrete do tempo que
 se tem para a entrevista e dá lugar para a graduada iniciar a entrevista.
 (Se necessário, lembrar para que os outros participantes desliguem as cameras,
-não interajam no chat e que também tentem fazer os exercício proposto).
+ não interajam no chat e que também tentem fazer os exercício proposto).
 Por fim, comece a gravar a sessão.
 
 ## Entrevista (30-40 min)
