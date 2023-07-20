@@ -7,7 +7,6 @@ que esperar iniciar um processo real
 com a complexidade necessária para cobrir o status atual.
 
 ## Status atual
-## Status atual
 
 A maioria das estudantes atualmente está fazendo o projeto social network, já
 A maioria das estudantes atualmente está fazendo o projeto social network, já
@@ -42,7 +41,6 @@ me diga um pouco sobre você e finalmente resolveremos 1 ou 2 exercícios de có
   portanto, sinta-se à vontade para fazer qualquer pergunta que considere relevante
   
   > Exemplo de perguntas:
-  > Exemplo de perguntas:
   >
   > - Por que você se interessou em entrar no mundo da programação?
   > - O que você mais gosta da área da programação?
@@ -51,7 +49,6 @@ me diga um pouco sobre você e finalmente resolveremos 1 ou 2 exercícios de có
   > - O que você mais gosta da área da programação?
   > - Que função/papel você gostaria de ter ou o que gostaria de estar fazendo?
   
-## Exercício técnico (25 min)
 ## Exercício técnico (25 min)
 
   O objetivo desta etapa é ver como a estudante enfrenta a
@@ -65,12 +62,10 @@ me diga um pouco sobre você e finalmente resolveremos 1 ou 2 exercícios de có
   dar 5 minutos e perguntar "Com o que você continuaria e como chegaria à solução?"
   
 ## Encerramento
-## Encerramento
   
 Aqui a entrevista é finalizada e seu papel como entrevistadora termina.
 Você pode compartilhar alguns feedbacks.
 
-## Exemplos de entrevistas
 ## Exemplos de entrevistas
 
 [![Mock mock interview 26/10/2022 by Marina](https://img.youtube.com/vi/AybAbA4_Xg0/0.jpg)](https://youtu.be/AybAbA4_Xg0)

@@ -35,7 +35,7 @@ Escreva uma função que:
 
     Hi, could you please provide your `<property name>`.
 
-2. 2. A função deve retornar apenas os desenvolvedores com detalhes ausentes:
+2. A função deve retornar apenas os desenvolvedores com detalhes ausentes:
 
 ```js
 [

@@ -11,8 +11,8 @@ Nesta sessão faremos uma reflexão individual sobre a nossa aprendizagem  e
 
 ### Perguntas para refletir - 30 minutos
 
-Vamos responder a cada uma das perguntas. Depois algumas voluntárias 
-   abrem o mic para compartilhar.
+Vamos responder a cada uma das perguntas.
+Depois algumas voluntárias abrem o mic para compartilhar.
 
 **Perguntas**
 
@@ -27,10 +27,11 @@ exercícios? Você inclui uma tarefa para isso em seu planejamento?
 ### Retrospectiva - 30 minutos
 
 Façam as seguintes perguntas:
-- _O que fizemos bem?_
-- _O que não fizemos bem?_
-- _O que poderíamos começar a fazer?_
-- _O que continuar fazendo (acionável)?_
+
+* _O que fizemos bem?_
+* _O que não fizemos bem?_
+* _O que poderíamos começar a fazer?_
+* _O que continuar fazendo (acionável)?_
 
 sobre esses 2 pontos principais:
 
