@@ -1,4 +1,4 @@
-# Sesión 10
+# Sessão 10
 
 ## Objetivo
 
