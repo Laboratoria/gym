@@ -1,3 +1,13 @@
+---
+difficulty:
+  - newbie
+OAs:
+  - Arreglos
+projects:
+  - cipher
+  - card validation
+---
+
 # fistLast6
 
 [https://the-winter.github.io/codingjs/exercise.html?name=firstLast6&title=Array-1](https://the-winter.github.io/codingjs/exercise.html?name=firstLast6&title=Array-1)
@@ -13,6 +23,9 @@ __Exemplos:__
     firstLast6([13, 6, 1, 2, 3]) → false
 ```
 
-## Objetivos de aprendizagem (OAs)
+__Dicas__
 
-- Manipulação de arrays
+* Utilizando a "extensão" propriedade de uma "arraia",
+como você encontraria a posição do último elemento de "array"?
+* Que operador lógico JavaScript permite que você
+avaliar que duas condições são cumpridas?

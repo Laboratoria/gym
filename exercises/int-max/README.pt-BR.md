@@ -13,8 +13,8 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=intMax&title=Warmup-1](https://the-winter.github.io/codingjs/exercise.html?name=intMax&title=Warmup-1)
 
-Complete a função `intMax` que recebe três valores de tipo
-int, a b c e retorna o maior.
+Completa a função `intMax` que recebe três valores do tipo
+int, a b c e devolve o maior.
 
 __Exemplo__
 
@@ -23,3 +23,8 @@ __Exemplo__
     intMax(1, 3, 2) → 3
     intMax(3, 2, 1) → 3
 ```
+
+__Dicas__
+
+* Qual operador lógico JavaScript você usaria para descobrir
+se um número for maior que outro?

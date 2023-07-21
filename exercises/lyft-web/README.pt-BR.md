@@ -24,33 +24,24 @@ Concentre-se em obter o layout mais parecido possível.
 > - Você iniciará seu próprio boilerplate para construir a estrutura do seu
 projeto e vincular seus arquivos de estilo (CSS).
 >
-> - Dentro da pasta `assets` você encontrará todas as imagens necessárias para
-completar seu projeto.
+> - Dentro da pasta de recursos você encontrará todas as
+imagens necessárias para concluir seu projeto.
 >
-> - Este site usa a fonte `Montserrat`.
+> - Este site usa a fonte `ProximaNova, sans-serif`.
 >
 > - A paleta de cores é:
 > >
-> > - Botões, hover: `#FF00BF`
-> > - Background de `footer`: `#333447`
-> > - Título do formulário: `#352384`
-> > - Texto do formulário: `#728099`
-> > - Gradiente roxo: `linear-gradient(#76278F, #2B1E66);`
->
-> - Para o footer, você deve levar em consideração que ele tem um hover e se
-parece com a seguinte imagem:
-> ![Lyft - Footer](footer.gif)
+> > - Botões, hover: `#523BE4`
+> > - Plano de fundo: `#F4F4F4`, `#FFFFFF` y `#DCDCFF`
+> > - Gradiente roxo: `linear-gradient( para baixo,#e7e7ef 0%,
+ #f4f4fa 5%, #ffffff 10% );`
 >
 > - Além disso, você encontrará os ícones na pasta `assets/icons`.
 >
-> - Estes são os vídeos do YouTube:
-> >
-> > - <https://www.youtube.com/watch?v=fLSmUWOYpKw>
-> > - <https://www.youtube.com/watch?v=V7j8Aqxmbs8>
-> > - <https://youtu.be/Z77bvaf7mCQ>
->
-> - Você pode ver o [site original](https://www.lyft.com/), porém muita coisa já
-mudou, então sua fonte de verdade é a imagem que mostra o objetivo deste desafio.
+> - Você pode ver o [site original](https://www.lyft.com/),
+no entanto, seu design está em constante mudança,
+então sua fonte de verdade é a imagem que mostra o
+objetivo deste desafio
 
 ## Considerar
 
