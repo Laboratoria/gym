@@ -9,7 +9,6 @@ com a complexidade necessária para cobrir o status atual.
 ## Status atual
 
 A maioria das estudantes atualmente está fazendo o projeto social network, já
-A maioria das estudantes atualmente está fazendo o projeto social network, já
 passou por cipher/card validation e data-lovers.
 
 ## Dinâmica
