@@ -5,7 +5,6 @@
 ### No code
 
 - [**Sherlock syllogisms**](../../exercises/sherlock-syllogisms/README.pt-BR.md)
-- [**Word ladders**](../exercises/word-ladders/)
 - [**The tour guide**](../../exercises/the-tour-guide/README.pt-BR.md)
 
 ### Newbie
