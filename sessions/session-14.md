@@ -4,36 +4,31 @@
 
 ### HTML/CSS
 
-#### Newbie
-
-- [CSS Wash your hands](../exercises/css-wash_your_hands/)
-
 #### Beginner
 
-- [CSS Ukulele](../exercises/css-ukulele/)
-
-### JavaScript
-
-#### Beginner
-
-- [Elevator Distance](../exercises/elevator-distance/)
-
-- [Closest Elevator](../exercises/closest-elevator/)
+- [CSS Cups and Balls](../exercises/css-cups-and-balls/README.md)
+- [CSS Smiley](../exercises/css-smiley/README.md)
 
 #### Intermediate
 
-- [Simple Elevator](../exercises/simple-elevator/)
+- [CSS Magical Tree](../exercises/css-magical-tree/README.md)
+- [CSS Blossom](../exercises/css-blossom/README.md)
 
-- [Find Multiples](../exercises/find-multiples/)
+### JavaScript
 
-- [Move All Balls to Each Box](../exercises/move-balls-boxes/)
+#### Newbie
 
-- [Count x](../exercises/count-x-recursion/README.md)
+- [Front Again](../exercises/front-again/README.md)
+- [MaxMod5](../exercises/max-mod-5/README.md)
 
-#### Advanced
+#### Beginner
 
-- [The Lift](../exercises/the-lift/)
+- [Who's Online](../exercises/who-is-online/README.md)
+
+#### Intermediate
+
+- [Convert Hash To An Array](../exercises/convert-hash-to-an-array/README.md)
 
 ## Kahoot
 
-- https://create.kahoot.it/share/kahoot-14-el-terror-de-javascript/f429c2f2-abab-4928-8373-f716b9350b31
+- [https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8](https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8)

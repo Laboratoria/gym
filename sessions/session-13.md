@@ -6,29 +6,27 @@
 
 #### Beginner
 
-- [CSS Cups and Balls](../exercises/css-cups-and-balls/README.md)
-- [CSS Smiley](../exercises/css-smiley/README.md)
+- [CSS Band Aid](../exercises/css-band-aid/README.md)
 
 #### Intermediate
 
-- [CSS Magical Tree](../exercises/css-magical-tree/README.md)
-- [CSS Blossom](../exercises/css-blossom/README.md)
+- [CSS Eye of the Tiger](../exercises/css-eye-of-the-tiger/README.md)
 
 ### JavaScript
 
 #### Newbie
 
-- [Front Again](../exercises/front-again/README.md)
-- [MaxMod5](../exercises/max-mod-5/README.md)
+- [Disemvowel Trolls](../exercises/disemvowel-trolls/README.md)
+- [Is this a triangle](../exercises/is-this-a-triangle/README.md)
 
 #### Beginner
 
-- [Who's Online](../exercises/who-is-online/README.md)
+- [sPoNgEbOb MeMe](../exercises/spongebob-meme/README.md)
 
-#### Intermediate
+### Advanced
 
-- [Convert Hash To An Array](../exercises/convert-hash-to-an-array/README.md)
+- [Number of Islands](../exercises/number-of-islands/README.md)
 
 ## Kahoot
 
-- [https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8](https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8)
+https://create.kahoot.it/share/sesion-12/d50305a3-00ec-4077-acc2-fce562b66d71
