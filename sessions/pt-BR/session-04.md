@@ -39,4 +39,3 @@
 - [Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 - [Null](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#null_type)
 - [Undefined](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#undefined_type)
-
