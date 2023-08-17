@@ -32,8 +32,8 @@
 
 #### Advanced
 
-- [Square Up](../exercises/square-up/)
-- [The Lift](../exercises/the-lift/)
+- [Square Up](../exercises/square-up/README.md)
+- [The Lift](../exercises/the-lift/README.md)
 
 ## Kahoot
 
