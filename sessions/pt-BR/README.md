@@ -15,8 +15,8 @@
 | 12              | 28/09  | Simulação de entrevista  |
 | 13              | 05/10  | Sessão 9  |
 | 14              | 12/10  | Feriado |
-| 15              | 26/10  | [Retrospectiva](https://metroretro.io/BO6B9VFW95D0) |
-| 16              | 19/10  | Simulação de entrevista  |
+| 15              | 19/10  | [Retrospectiva](https://metroretro.io/BO6B9VFW95D0) |
+| 16              | 26/10  | Simulação de entrevista  |
 | 17              | 02/11  | Feriado |
 | 18              | 09/11  | Sessão 11 |
 | 19              | 16/11  | Sessão 12 |
