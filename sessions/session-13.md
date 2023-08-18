@@ -32,7 +32,7 @@
 
 #### Advanced
 
-- [Max mirror](../exercises/max-mirror/)
+- [Max mirror](../exercises/max-mirror/README.md)
 
 ## Kahoot
 
