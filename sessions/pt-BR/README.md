@@ -72,27 +72,27 @@
    <tr>
     <td>14</td>
     <td>20/07</td>
-    <td></td>
+    <td>Sessão 11</td>
   </tr>
    <tr>
     <td>15</td>
     <td>27/07</td>
-    <td></td>
+    <td>Sessão 12</td>
   </tr>
    <tr>
     <td>16</td>
     <td>03/08</td>
-    <td></td>
+    <td>Sessão 13</td>
   </tr>
   <tr>
     <td>17</td>
     <td>10/08</td>
-    <td></td>
+    <td>Sessão 14</td>
   </tr>
   <tr>
     <td>18</td>
     <td>17/08</td>
-    <td></td>
+    <td>Sessão 15</td>
   </tr>
   <tr>
     <td>19</td>
