@@ -1,4 +1,4 @@
-# Sesión 21
+# Sesión 20
 
 ## Ejercicios
 
