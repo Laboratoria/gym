@@ -12,7 +12,7 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=catDog&title=String-2](https://the-winter.github.io/codingjs/exercise.html?name=catDog&title=String-2)
 
-Devuelve true si la cadena "cat" y "got" aparecen
+Devuelve true si la cadena "cat" y "dog" aparecen
 el mismo número de veces en la cadena dada.
 
 **Ejemplo**
