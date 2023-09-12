@@ -97,12 +97,12 @@
   <tr>
     <td>19</td>
     <td>24/08</td>
-    <td></td>
+    <td>Bate-papo sobre tech interview</td>
   </tr>
   <tr>
     <td>20</td>
     <td>31/08</td>
-    <td></td>
+    <td>Sessão 16</td>
   </tr>
   <tr>
     <td>21</td>
@@ -112,7 +112,7 @@
     <tr>
     <td>22</td>
     <td>14/09</td>
-    <td></td>
+    <td>Sessão 17</td>
   </tr>
     <tr>
     <td>23</td>
