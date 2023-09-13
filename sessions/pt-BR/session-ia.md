@@ -4,16 +4,16 @@
 
 ### Beginner
 
-- [**Transpose matrix**](../../exercises/ia-transpose-matrix/README.pt-br.md)
+- [**Transpose matrix**](../../exercises/ia-transpose-matrix/README.pt-BR.md)
 
 ### Intermediate
 
-- [**Living heart**](../../exercises/ia-css-living-heart/README.pt-br.md)
+- [**Living heart**](../../exercises/ia-css-living-heart/README.pt-BR.md)
 
 ### Advanced
 
-- [**ID Card**](../../exercises/ia-id-card/README.pt-br.md)
-- [**Minesweeper**](../../exercises/ia-minesweeper/README.pt-br.md)
+- [**ID Card**](../../exercises/ia-id-card/README.pt-BR.md)
+- [**Minesweeper**](../../exercises/ia-minesweeper/README.pt-BR.md)
 
 ## Kahoot
 
