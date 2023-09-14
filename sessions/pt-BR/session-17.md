@@ -6,21 +6,21 @@
 
 #### Newbie
 
-- [**At fist**](../../exercises/at-first/README.pt-br.md)
+- [**At fist**](../../exercises/at-first/README.pt-BR.md)
 
 #### Beginner
 
-- [**See color**](../../exercises/see-color/README.pt-br.md)
-- [**Count Hi**](../../exercises/count-hi//README.pt-br.md)
+- [**See color**](../../exercises/see-color/README.pt-BR.md)
+- [**Count Hi**](../../exercises/count-hi//README.pt-BR.md)
 
 #### Intermediate
 
-- [**Cat Dog**](../../exercises/cat-dog//README.pt-br.md)
-- [**G happy**](../../exercises/g-happy//README.pt-br.md)
+- [**Cat Dog**](../../exercises/cat-dog//README.pt-BR.md)
+- [**G happy**](../../exercises/g-happy//README.pt-BR.md)
 
 #### Advanced
 
-- [**Long Pressed Name**](../../exercises/long-pressed-name/README.pt-br.md)
+- [**Long Pressed Name**](../../exercises/long-pressed-name/README.pt-BR.md)
 
 ## Kahoot - JS
 
