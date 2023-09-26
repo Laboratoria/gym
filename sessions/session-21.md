@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD013 -->
-# Retrospectiva cierre gym
+# Retrospectiva cierre gym (Sesión 21 28/09)
 
 ## 1) Role playing: How might we?
 
@@ -30,7 +30,7 @@ Nos separaremos en salitas de Zoom.
 
 #### Link de acceso a las slides
 
-[https://docs.google.com/presentation/d/1ceEfUksY1KQ-6p1jrJ7mDGFLFQ8TZIyXWvFgA1lIPc4/edit?usp=sharing](https://docs.google.com/presentation/d/1ceEfUksY1KQ-6p1jrJ7mDGFLFQ8TZIyXWvFgA1lIPc4/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1b2fBYk4NXnJVWwLgHXLLgdhg_gQVxLcHTiGXYCgAUZs/edit?usp=sharing](https://docs.google.com/presentation/d/1b2fBYk4NXnJVWwLgHXLLgdhg_gQVxLcHTiGXYCgAUZs/edit?usp=sharing)
 
 ### Presentación & Votación (Salita general) [~45 min]
 
