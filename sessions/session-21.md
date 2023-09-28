@@ -16,25 +16,25 @@ Nuestro gimnasio parte de la idea principal de desarrollar la habilidad de `aná
 
 Proponer ideas para mejorar el gimnasio de la próxima generación 💪 alrededor de 1 oportunidad de mejora identificada en el gimnasio, teniendo en cuenta la experiencia vivida y los objetivos del gimnasio.
 
-### Dinámica [~60 min]
+### Dinámica [~40 min]
 
 Nos separaremos en salitas de Zoom.
 
 #### Diseño (Salitas)
 
-- 15 min para analizar, formular preguntas a coaches y discutir sobre la oportunidad de mejora encomendada.
+- 10 min para analizar, formular preguntas a coaches y discutir sobre la oportunidad de mejora encomendada.
 
-- 30 min para elaborar y proponer sus ideas.
+- 20 min para elaborar y proponer sus ideas.
 
-- 15 min para poder cerrar y subir sus ideas. Cada Squad deberá presentar sus ideas en el archivo compartido.
+- 10 min para poder cerrar y subir sus ideas. Cada Squad deberá presentar sus ideas en el archivo compartido.
 
 #### Link de acceso a las slides
 
 [https://docs.google.com/presentation/d/1b2fBYk4NXnJVWwLgHXLLgdhg_gQVxLcHTiGXYCgAUZs/edit?usp=sharing](https://docs.google.com/presentation/d/1b2fBYk4NXnJVWwLgHXLLgdhg_gQVxLcHTiGXYCgAUZs/edit?usp=sharing)
 
-### Presentación & Votación (Salita general) [~45 min]
+### Presentación & Votación (Salita general) [~40 min]
 
-> - Una integrante designada del Squad tendrá 3 min para presentar sus ideas.
+> - Una integrante designada del Squad tendrá 5 min para presentar sus ideas.
 >- 10 min para votar por:
 >
 > > - Cada estudiante y coach, de manera individual, podrá votar con un  💛 por el conjunto de ideas (estrategia) que más le guste, debajo de la línea. Si hay más de un slide, vota en el primero.
