@@ -1,6 +1,7 @@
 # Session 13 Docs Kahoot
 
 ###Link
+
 [https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8](https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8)
 
 ## Temario
@@ -9,7 +10,7 @@
 - [Do While loop](#do-while-loop)
 - [Expresiones y Operadores](#expresiones-y-operadores)
 - [Asignación](#asignación)
-- [While loop](#While loop)
+- [While loop](#while-loop)
 - [Switch case](#switch-case)
 - [Callback](#callback)
 - [Hoisting](#hoisting)
