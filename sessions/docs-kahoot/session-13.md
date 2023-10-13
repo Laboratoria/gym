@@ -1,12 +1,8 @@
 # Session 13 Docs Kahoot
 
-----
-
 ## Link
 
 [https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8](https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8)
-
-----
 
 ## Temario
 
