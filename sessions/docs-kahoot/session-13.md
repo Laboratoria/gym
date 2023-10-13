@@ -1,10 +1,11 @@
 # Session 13 Docs Kahoot
 
-###Link
+## Link
 
 [https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8](https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8)
 
 ## Temario
+
 - [Estructuras de control](#estructuras-de-control)
 - [Parametros funciones](#parametros-funciones)
 - [Do While loop](#do-while-loop)
@@ -15,7 +16,8 @@
 - [Callback](#callback)
 - [Hoisting](#hoisting)
 
-#### Estructuras de control
+### Estructuras de control
+
 Los control flow (flujo de control) en JavaScript son una parte fundamental del lenguaje que permite controlar el flujo de ejecución del código.
 - Bloque de declaraciones: Se utiliza para agrupar declaraciones y se delimita con un par de llaves `{}`. Por ejemplo:
 ```
@@ -37,7 +39,8 @@ if (condición) {
 - Bucles (Loops): Los bucles permiten repetir bloques de código hasta que se cumpla una condición específica. Los bucles en JavaScript incluyen `for`, `while`, y `do...while`.
 [Documentación](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
 
-#### Parametros funciones
+### Parametros funciones
+
 Los parámetros de una función en JavaScript son las variables que se pasan a la función cuando se llama.
 1. Definición de la función: Los parámetros se definen en la declaración de la función, dentro de los paréntesis y separados por comas. Por ejemplo:
 
@@ -58,7 +61,8 @@ miFuncion(valor1, valor2);
 4. Parámetros predeterminados: Puedes asignar un valor predeterminado a un parámetro en caso de que no se le pase ningún valor.
 [Documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions)
 
-#### Do While loop
+### Do While loop
+
 El bucle do...while en JavaScript es una estructura de control que permite ejecutar un bloque de código al menos una vez y luego repetir la ejecución mientras se cumpla una condición.
 ```js
 do
@@ -67,7 +71,8 @@ while (condición);
 ```
 [Documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/do...while)
 
-#### Expresiones y Operadores
+### Expresiones y Operadores
+
 Las expresiones y operadores en JavaScript son fundamentales para escribir cualquier tipo de código en este lenguaje.
 1. Operadores de asignación:
    Asignan un valor a su operando izquierdo basándose en el valor de su operando derecho. Por ejemplo, x = y asigna el valor de y a x. También existen operadores de asignación compuestos como x += y que es una abreviatura para x = x + y.
@@ -149,7 +154,8 @@ console.log(4 in arr); // imprime false porque '4' no es un índice en el array 
 
 [Documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_operators#comparacion)
 
-#### Asignación
+### Asignación
+
 La asignación en JavaScript es un concepto fundamental que se utiliza para asignar un valor a una variable utilizando el operador de asignación =.
 
 ```js
@@ -164,7 +170,8 @@ x = n = z; // x = n (es decir 10) y z pisa el valor total remplazandolo por 25
 
 [Documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Assignment)
 
-#### While loop
+### While loop
+
 En JavaScript, el bucle while se utiliza para repetir un bloque de código mientras una condición específica sea verdadera
 ```js
 n = 0;
@@ -177,7 +184,8 @@ while (n < 3) {
 ```
 [Documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/while)
 
-#### Switch case
+### Switch case
+
 En JavaScript, la declaración switch se utiliza para realizar diferentes acciones basadas en diferentes condiciones
 ```js
 switch (expr) {
@@ -206,7 +214,8 @@ console.log("¿Hay algo más que te quisiera consultar?");
 ```
 [Documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/switch)
 
-#### Callback
+### Callback
+
 Una función de callback es una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción.
 ```js
 function saludar(nombre) {
@@ -222,7 +231,8 @@ procesarEntradaUsuario(saludar);
 ```
 [Documentación](https://developer.mozilla.org/es/docs/Glossary/Callback_function)
 
-#### Hoisting
+### Hoisting
+
 El "hoisting" es un comportamiento predeterminado de JavaScript que mueve todas las declaraciones al principio del ámbito actual (al principio del script actual o de la función actual)
 ```js
 var x = 1; // Inicializa x
