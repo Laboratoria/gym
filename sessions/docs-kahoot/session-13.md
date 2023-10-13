@@ -61,7 +61,7 @@ if (condición) {
 Los parámetros de una función en JavaScript son las variables que se pasan a la
 función cuando se llama.
 
-1. Definición de la función: Los parámetros se definen en la declaración de la
+- Definición de la función: Los parámetros se definen en la declaración de la
    función, dentro de los paréntesis
    y separados por comas. Por ejemplo:
 
@@ -71,18 +71,18 @@ function miFuncion(parametro1, parametro2) {
 }
 ```
 
-2. Llamada a la función: Cuando llamas a la función, pasas valores concretos
+- Llamada a la función: Cuando llamas a la función, pasas valores concretos
    para estos parámetros. Por ejemplo:
 
 ```js
 miFuncion(valor1, valor2);
 ```
 
-3. Parámetros por valor: Los argumentos se pasan por valor, lo que significa
+- Parámetros por valor: Los argumentos se pasan por valor, lo que significa
    que si la función cambia el valor de un argumento, este cambio no se refleja
    globalmente ni en la llamada de la función.
 
-4. Parámetros predeterminados: Puedes asignar un valor predeterminado a un
+- Parámetros predeterminados: Puedes asignar un valor predeterminado a un
    parámetro en caso de que no se le pase ningún valor.
 
 [Documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions)
@@ -110,7 +110,7 @@ while (condición);
 Las expresiones y operadores en JavaScript son fundamentales para escribir
 cualquier tipo de código en este lenguaje.
 
-1. Operadores de asignación:
+- Operadores de asignación:
    Asignan un valor a su operando izquierdo basándose en el valor de su
    operando derecho.
    Por ejemplo, x = y asigna el valor de y a x.
@@ -123,7 +123,7 @@ x += 5; // Operador de asignación compuesto (suma)
 console.log(x); // Imprime 15
 ```
 
-2. Operadores de comparación:
+- Operadores de comparación:
    Comparan sus operandos y devuelven un valor booleano basado en si la
    comparación es verdadera o no.
    Por ejemplo, == para igualdad, != para desigualdad, < para menor que, > para
@@ -136,7 +136,7 @@ console.log(10 < '15'); // Imprime true
 console.log(10 > '15'); // Imprime false
 ```
 
-3. Operadores aritméticos:
+- Operadores aritméticos:
    Realizan operaciones matemáticas con números. Por ejemplo, + para suma
    , - para resta, * para multiplicación, / para división, y % para obtener
    el residuo de una división.
@@ -150,7 +150,7 @@ let e = 10 % 7; // Residuo
 console.log(a, b, c, d, e); // Imprime 15, 5, 50, 2, 3
 ```
 
-4. Operadores bit a bit:
+- Operadores bit a bit:
    Realizan operaciones a nivel de los bits de sus operandos.
 
 ```js
@@ -159,7 +159,7 @@ let bitwiseOr = 5 | 1;
 let bitwiseXor = 5 ^ 1;
 ```
 
-5. Operadores lógicos:
+- Operadores lógicos:
    Se utilizan para determinar la lógica entre variables o valores.
    Por ejemplo, `&&` para `AND` lógico, `||` para `OR` lógico.
 
@@ -170,20 +170,20 @@ console.log(test1 && test2); // Imprime false
 console.log(test1 || test2); // Imprime true
 ```
 
-6. Operadores de cadena:
+- Operadores de cadena:
    Se utilizan para manipular cadenas de texto.
 
 ```js
 let saludo = "Hola " + "Mundo"; // saludo es "Hola Mundo"
 ```
 
-7. Operador condicional (ternario)
+- Operador condicional (ternario)
 
 ```js
 let valor = (10 > 9) ? "Sí" : "No"; // valor es "Sí" porque 10 es mayor que 9
 ```
 
-8. Operador coma
+- Operador coma
 
 ```js
 for(let i=0, j=10; i <= j; i++, j--) {
@@ -191,13 +191,13 @@ for(let i=0, j=10; i <= j; i++, j--) {
 }
 ```
 
-9. Operadores unarios
+- Operadores unarios
 
 ```js
 console.log(typeof true) // "boolean"
 ```
 
-10. Operadores relacionales
+- Operadores relacionales
 
 ```js
 let arr = [1,2,3];
@@ -239,8 +239,8 @@ while (n < 3) {
   n++;
   x += n;
 }
-
 ```
+
 [Documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/while)
 
 ----
