@@ -1,4 +1,4 @@
-# Tech Mock Interview I
+# Tech Mock Interview II
 
 ## Bienvenida + presentación (8 min)
 
