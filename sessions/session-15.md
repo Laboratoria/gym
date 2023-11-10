@@ -12,7 +12,7 @@
 
 #### Beginner
 
-- [Multiple of 3 or 5](../exercises/multiples-of-three-or-five/)
+- [Multiple of 3 or 5](../exercises/multiples-of-three-or-five/README.md)
 
 #### Intermediate
 
@@ -21,7 +21,7 @@
 - [End X](../exercises/end-x/)
 - [Array 6](../exercises/array-6/README.md)
 
-- [XY Balance](../exercises/xy-balance/)
+- [XY Balance](../exercises/xy-balance/README.md)
 
 ## Kahoot
 

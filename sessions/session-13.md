@@ -27,12 +27,12 @@
 
 #### Intermediate
 
-- [Str count](../exercises/str-count/)
+- [Str count](../exercises/str-count/README.md)
 - [Convert Hash To An Array](../exercises/convert-hash-to-an-array/README.md)
 
 #### Advanced
 
-- [Max mirror](../exercises/max-mirror/)
+- [Max mirror](../exercises/max-mirror/README.md)
 
 ## Kahoot
 
