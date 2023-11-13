@@ -12,8 +12,8 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=countHi&title=String-2](https://the-winter.github.io/codingjs/exercise.html?name=countHi&title=String-2)
 
-Devolver o número de vezes que a corda "oi"
-aparece em qualquer parte da corda dada.
+Devolver o número de vezes que a string "hi"
+aparece em qualquer parte da string dada.
 
 **Exemplo**
 
