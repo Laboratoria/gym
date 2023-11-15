@@ -1,8 +1,8 @@
 # Sesión 10
 
-### HTML/CSS
+## HTML/CSS
 
-#### Beginner
+### Beginner
 
 - [CSS Equals](../exercises/css-equals/README.md)
 

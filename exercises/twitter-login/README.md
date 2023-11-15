@@ -45,4 +45,5 @@ sans-serif`.
 >
 > - Pixel perfect (replicar el diseño con exactitud)
 >
-> - Ten presente el [modelo de caja](https://curriculum.laboratoria.la/es/topics/css/css/boxmodel-and-display)
+> - Ten presente el
+[modelo de caja](https://curriculum.laboratoria.la/es/topics/css/css/boxmodel-and-display)
