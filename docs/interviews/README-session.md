@@ -34,13 +34,13 @@ espacio para a responder las preguntas con respecto a entrevistas.
 
 ## Consejos para las Participantes
 
-### Entrevistadoras Voluntarias:
+### Entrevistadoras Voluntarias
 
 - Sean amables y profesionales durante las entrevistas simuladas.
 - Proporcionen retroalimentación específica y útil.
 - Fomenten un ambiente de aprendizaje positivo y alentador.
 
-### Estudiantes:
+### Estudiantes
 
 - Prepárense adecuadamente antes de las entrevistas simuladas.
 - En las salas y durante la entrevista mantener las observadoras deben mantener
