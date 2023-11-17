@@ -6,19 +6,19 @@ Antes de entrar no modo de entrevistadora, é importante lembrar à estudante qu
 
 - **Abertura**
 
-    Aqui começa a entrevista e o primeiro passo é deixar claro para a candidata qual será a **estrutura deste espaço**, por exemplo:
-    
-    > *"Vou te explicar o processo: no início, vou pedir para você se apresentar, contar um pouco sobre você e, por último, resolveremos 1 ou 2 exercícios de código".*
-    > 
+  Aqui começa a entrevista e o primeiro passo é deixar claro para a candidata qual será a **estrutura deste espaço**, por exemplo:
+
+  > _"Vou te explicar o processo: no início, vou pedir para você se apresentar, contar um pouco sobre você e, por último, resolveremos 1 ou 2 exercícios de código"._
+
 - **Apresentação**
 
-    Neste ponto, **já no modo de entrevistadora**, você se apresenta e convida a candidata para que ela se apresente. O foco aqui é que a apresentação dela seja breve e clara, sinta-se à vontade para fazer as perguntas que considerar relevantes.
-    
-    > Exemplo de perguntas:
-    > 
-    > - *Por que você está interessada em entrar no mundo da programação?*
-    > - *O que você mais gosta de fazer ao programar?*
-    > - *Que papel você gostaria de ter ou o que gostaria de estar fazendo?*
+  Neste ponto, **já no modo de entrevistadora**, você se apresenta e convida a candidata para que ela se apresente. O foco aqui é que a apresentação dela seja breve e clara, sinta-se à vontade para fazer as perguntas que considerar relevantes.
+
+  > Exemplo de perguntas:
+  >
+  > - _Por que você está interessada em entrar no mundo da programação?_
+  > - _O que você mais gosta de fazer ao programar?_
+  > - _Que papel você gostaria de ter ou o que gostaria de estar fazendo?_
 
 ## Exercício técnico (30 minutos)
 
@@ -35,12 +35,12 @@ Quando estiver prestes a terminar o tempo, se a estudante não tiver concluído 
 Aqui a entrevista chega ao fim e encerra o seu papel como entrevistadora. Você pode compartilhar um feedback, interagir com as observadoras e contar com o apoio dessas perguntas.
 
 > Perguntas para a entrevistada:
-> 
-> - *Como você se sentiu?*
-> - *O que você acha que fez bem?*
-> - *O que você acha que poderia ter feito melhor?*
+>
+> - _Como você se sentiu?_
+> - _O que você acha que fez bem?_
+> - _O que você acha que poderia ter feito melhor?_
 
 > Perguntas para as espectadoras:
-> 
-> - *O que vocês acham que a entrevistada fez bem?*
-> - *O que vocês acham que ela poderia fazer diferente?*
+>
+> - _O que vocês acham que a entrevistada fez bem?_
+> - _O que vocês acham que ela poderia fazer diferente?_

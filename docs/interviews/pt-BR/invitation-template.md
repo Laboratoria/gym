@@ -17,6 +17,7 @@
 As estudantes estão desenvolvendo (dar contexto das estudantes)
 
 ## Estrutura da entrevista
+
 [README-interviewer.md](./README-interviewer.md)
 
 ## Exercícios
@@ -26,25 +27,21 @@ As estudantes estão desenvolvendo (dar contexto das estudantes)
 [Link para o primeiro exercício](https://curriculum.laboratoria.la/es/topics/javascript/arrays/practice/compute-sum-between)
 
 - Uma possível solução para o primeiro exercício (uso exclusivo da **entrevistadora**)
-    
-    [Imagem ou link](https://www.google.com)
-    
+  [Imagem ou link](https://www.google.com)
 
 🚴‍♀️ **Segundo** exercício (o link será compartilhado com a estudante no dia da entrevista).
 
 [Link para o segundo exercício](https://curriculum.laboratoria.la/es/topics/javascript/flow-control/code-challenges/count-vowels)
 
 - Uma possível solução para o segundo exercício (uso exclusivo da **entrevistadora**)
-    
-    [Imagem ou link](https://www.google.com)
-    
+  [Imagem ou link](https://www.google.com)
 
 ## Assíncrono
 
 - Ao final da entrevista, você pode fornecer sua avaliação da estudante nos respectivos links.
 
-| Moderadora | Entrevistadora | Estudante | Links |
-| --- | --- | --- | --- |
+| Moderadora          | Entrevistadora        | Estudante           | Links                                                                                                                                     |
+| ------------------- | --------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Nome Coach Cohort 1 | Nome Entrevistadora 1 | Nome Entrevistada 1 | [Link para a planilha de avaliação](https://docs.google.com/spreadsheets/d/1aAL4r4sEqdVZEVgqm5iYJAhBLeeZxLAZ4egoqxH2-ys/edit?usp=sharing) |
 | Nome Coach Cohort 1 | Nome Entrevistadora 1 | Nome Entrevistada 1 | [Link para a planilha de avaliação](https://docs.google.com/spreadsheets/d/1aAL4r4sEqdVZEVgqm5iYJAhBLeeZxLAZ4egoqxH2-ys/edit?usp=sharing) |
 | Nome Coach Cohort 1 | Nome Entrevistadora 1 | Nome Entrevistada 1 | [Link para a planilha de avaliação](https://docs.google.com/spreadsheets/d/1aAL4r4sEqdVZEVgqm5iYJAhBLeeZxLAZ4egoqxH2-ys/edit?usp=sharing) |

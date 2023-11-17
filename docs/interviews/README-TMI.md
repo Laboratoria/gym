@@ -19,6 +19,7 @@ El principal objetivo de esta dinámica de mock interview es:
 - Ofrecer retroalimentación específica y útil a las estudiantes para ayudarlas a crecer profesionalmente.
 
 ## **Recursos**
+
 - [Readme para la sesión del gym](./README-session.md) Este reamde contiene la información para compartir con la cohort con el contexto necesario de la tech mock interview.
 - [Readme para entrevistadora](./README-interviewer.md) Este readme contiene la estructura de la entrevista en sí.
 - [Plantilla de invitación](./invitation-template.md) A esta plantilla se le debe sacar copia para compartirlo únicamente con las entrevistadoras. Pueden usar la herramienta que gusten (coda, notion, google docs)
@@ -29,16 +30,19 @@ El principal objetivo de esta dinámica de mock interview es:
 ### 1. Preparación
 
 **Antes**
+
 - Los coaches del bootcamp coordinarán con las entrevistadoras voluntarias y las estudiantes para programar las sesiones de entrevistas simuladas.
 - Coach debera editar el [template](./invitation-template.md) con información correspondiente de su cohort.
 - Se proporcionarán a las entrevistadoras la invitación con preguntas de entrevista y otros recursos relevantes para prepararse para la dinámica.
 
 **Durante**
+
 - Asegúrense de que todas las participantes estén preparadas y comprendan el proceso.
 - Faciliten un ambiente de apoyo y respeto durante toda la dinámica.
 - Estén disponibles para resolver cualquier duda o inquietud que puedan tener las participantes.
 
 **Después**
+
 - Recordar a las entrevistadoras completar la rúbrica que se compartió en la invitación.
 
 ### 2. Entrevistas Simuladas
