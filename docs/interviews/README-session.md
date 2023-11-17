@@ -3,6 +3,7 @@
 ## Bienvenida (8 min)
 
 ## Ir a breakout rooms (2 min)
+
 La distribución será en salas para cada entrevista.
 
 ## Entrevista (40 min)
@@ -13,13 +14,13 @@ Las egresada y/o coach toma el rol de la entrevistadora e interactúa con la est
 
 Se detona la reflexión y se da feedback a las entrevistada.
 
-### Preguntas a la __entrevistada__
+### Preguntas a la **entrevistada**
 
 - ¿Cómo te sentiste?
 - ¿Qué crees que hiciste bien?
 - ¿Qué pudiste haber hecho mejor?
 
-### Preguntas a las __espectadoras__
+### Preguntas a las **espectadoras**
 
 - ¿Qué consideran que hizo bien la entrevistada?
 - ¿Qué creen que podría hacer diferente?

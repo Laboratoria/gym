@@ -19,6 +19,7 @@ O principal objetivo desta dinâmica de simulação de entrevista é:
 - Oferecer feedback específico e útil às alunas para ajudá-las em seu crescimento profissional.
 
 ## **Recursos**
+
 - [Readme para a sessão do gym](./README-session.md) Este readme contém as informações para compartilhar com a turma com o contexto necessário da simulação de entrevista técnica.
 - [Readme para entrevistadora](./README-interviewer.md) Este readme contém a estrutura da própria entrevista.
 - [Modelo de convite](./invitation-template.md) Uma cópia deste modelo deve ser compartilhada apenas com as entrevistadoras. Vocês podem usar a ferramenta que preferirem (coda, notion, google docs).
@@ -29,16 +30,19 @@ O principal objetivo desta dinâmica de simulação de entrevista é:
 ### 1. Preparação
 
 **Antes**
+
 - Os coaches do bootcamp irão coordenar com as entrevistadoras voluntárias e as alunas para agendar as sessões de entrevistas simuladas.
 - O coach deve editar o [modelo](./invitation-template.md) com as informações correspondentes à sua turma.
 - Será fornecido às entrevistadoras o convite com as perguntas da entrevista e outros recursos relevantes para se prepararem para a dinâmica.
 
 **Durante**
+
 - Certifique-se de que todas as participantes estejam preparadas e entendam o processo.
 - Facilitem um ambiente de apoio e respeito durante toda a dinâmica.
 - Estejam disponíveis para resolver quaisquer dúvidas ou preocupações que as participantes possam ter.
 
 **Depois**
+
 - Lembre as entrevistadoras para preencherem a rúbrica que foi compartilhada no convite.
 
 ### 2. Entrevistas Simuladas
