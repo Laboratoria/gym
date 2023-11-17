@@ -52,12 +52,10 @@ pode compartilhar um feedback, interagir com as observadoras e contar com o
 apoio dessas perguntas.
 
 > Perguntas para a entrevistada:
->
 > - _Como você se sentiu?_
 > - _O que você acha que fez bem?_
 > - _O que você acha que poderia ter feito melhor?_
 
 > Perguntas para as espectadoras:
->
 > - _O que vocês acham que a entrevistada fez bem?_
 > - _O que vocês acham que ela poderia fazer diferente?_

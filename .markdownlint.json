@@ -3,7 +3,7 @@
   "line-length": {
     "code_blocks": false,
     "headings": false,
-    "tables": false
+    "tables": true
   },
   "ul-style": {
     "style": "sublist"
