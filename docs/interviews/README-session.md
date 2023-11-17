@@ -8,7 +8,8 @@ La distribución será en salas para cada entrevista.
 
 ## Entrevista (40 min)
 
-Las egresada y/o coach toma el rol de la entrevistadora e interactúa con la estudiante.
+Las egresada y/o coach toma el rol de la entrevistadora e interactúa con la
+estudiante.
 
 ## Retrospective y feedback (10 min)
 
@@ -27,10 +28,9 @@ Se detona la reflexión y se da feedback a las entrevistada.
 
 ## Sala Principal: Peers comparten soluciones + Q&A (25 min)
 
-Se regresan a la sala principal y las estudiantes espectadoras comparten sus soluciones
-a los problemas mostrados.
-Las coaches & entrevistadoras abren un espacio para a responder las preguntas
-con respecto a entrevistas.
+Se regresan a la sala principal y las estudiantes espectadoras comparten sus
+soluciones a los problemas mostrados. Las coaches & entrevistadoras abren un
+espacio para a responder las preguntas con respecto a entrevistas.
 
 ## Consejos para las Participantes
 
@@ -43,6 +43,8 @@ con respecto a entrevistas.
 ### Estudiantes:
 
 - Prepárense adecuadamente antes de las entrevistas simuladas.
-- En las salas y durante la entrevista mantener las observadoras deben mantener el micro y cámara apagadas.
-- Escuchen atentamente la retroalimentación y estén abiertas a aprender y mejorar.
+- En las salas y durante la entrevista mantener las observadoras deben mantener
+  el micro y cámara apagadas.
+- Escuchen atentamente la retroalimentación y estén abiertas a aprender y
+  mejorar.
 - Aprovechen al máximo esta oportunidad para practicar y crecer.
