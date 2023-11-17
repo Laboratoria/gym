@@ -43,12 +43,10 @@ compartir algo de feedback, interactuar con las observadoras y apoyarte de estas
 preguntas.
 
 > Preguntas a la entrevistada:
->
 > - _¿Cómo te sentiste?_
 > - _¿Qué crees que hiciste bien?_
 > - _¿Qué pudiste haber hecho mejor?_
 
 > Preguntas a las espectadoras:
->
 > - _¿Qué consideran que hizo bien la entrevistada?_
 > - _¿Qué creen que podría hacer diferente?_
