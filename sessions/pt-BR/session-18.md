@@ -1,8 +1,8 @@
-# Sesión 18
+# Sessão 18
 
-## Ejercicios
+## Exercícios
 
-### Maquetación
+### Disposição
 
 - [**Instagram**](../exercises/instagram-login/README.md)
 - [**Subscribing**](../exercises/subscribing/README.md)
