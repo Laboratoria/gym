@@ -27,24 +27,26 @@ Reflexão é estimulada e é dado feedback para a entrevistada.
 
 ## Sala Principal: Alunos compartilham soluções + P&R (25 min)
 
-Retornam para a sala principal e as estudantes espectadoras compartilham suas soluções
-para os problemas apresentados.
-As treinadoras e entrevistadoras abrem espaço para responder perguntas
-sobre entrevistas.
+Retornam para a sala principal e as estudantes espectadoras compartilham suas
+soluções para os problemas apresentados. As treinadoras e entrevistadoras abrem
+espaço para responder perguntas sobre entrevistas.
 
 ## Dicas para os Participantes
 
-### Entrevistadoras Voluntárias:
+### Entrevistadoras Voluntárias
 
 - Sejam gentis e profissionais durante as entrevistas simuladas.
 - Forneçam feedback específico e útil.
 - Promovam um ambiente de aprendizado positivo e encorajador.
 
-### Estudantes:
+### Estudantes
 
 - Preparem-se adequadamente antes das entrevistas simuladas.
-- Nas salas e durante a entrevista, as espectadoras devem deixar o microfone e a câmera desligados.
+- Nas salas e durante a entrevista, as espectadoras devem deixar o microfone e a
+  câmera desligados.
 - Ouçam atentamente o feedback e estejam abertas a aprender e melhorar.
-- Aproveitem ao máximo esta oportunidade para praticar e crescer. durante la entrevista.
-- Escuchen atentamente la retroalimentación y estén abiertos a aprender y mejorar.
+- Aproveitem ao máximo esta oportunidade para praticar e crescer. durante la
+  entrevista.
+- Escuchen atentamente la retroalimentación y estén abiertos a aprender y
+  mejorar.
 - Aprovechen al máximo esta oportunidad para practicar y crecer.
