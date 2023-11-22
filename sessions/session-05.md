@@ -22,7 +22,6 @@
 - [**Count clumps**](../exercises/count-clumps/README.md)
 - [**Dogs Lovers**](../exercises/dogs-lovers-web/README.md)
 
-
 ## Kahoot
 
 [https://create.kahoot.it/details/109feb5e-8f37-4d9e-ab88-dd1fbed3fdc9](https://create.kahoot.it/details/109feb5e-8f37-4d9e-ab88-dd1fbed3fdc9)

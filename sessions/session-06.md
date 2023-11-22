@@ -19,4 +19,3 @@
 ### Advanced
 
 - [**Max Span**](../exercises/max-span/README.md)
-
