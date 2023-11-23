@@ -9,7 +9,7 @@ antes de trabajar los siguientes ejercicios
 
 #### JS
 
-- [Varios Tragamonedas](https://codesandbox.io/p/devbox/callbacks2-5xqzmr?file=%2Findex.js)
+- [Varios Tragamonedas](https://codesandbox.io/p/devbox/varios-tragamonedas-qzczfr?file=%2Findex.js)
 
 - [Funciones con Callbacks](https://codesandbox.io/p/devbox/callbacks2-5xqzmr?file=%2Findex.js)
 
