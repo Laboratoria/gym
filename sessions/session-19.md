@@ -17,7 +17,7 @@
 
 ## Kahoot
 
--[https://create.kahoot.it/share/session-ia/063bcdbe-45ad-4b4c-b2bc-772ed76c0391](https://create.kahoot.it/share/session-ia/063bcdbe-45ad-4b4c-b2bc-772ed76c0391)
+- [https://create.kahoot.it/share/session-ia/063bcdbe-45ad-4b4c-b2bc-772ed76c0391](https://create.kahoot.it/share/session-ia/063bcdbe-45ad-4b4c-b2bc-772ed76c0391)
 
 ## Artículos de IA que puedes leer en tu tiempo libre
 
