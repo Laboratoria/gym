@@ -16,8 +16,7 @@
 ### Intermediate
 
 - [**CSS Sunset**](../exercises/css-sunset/README.md)
-<!--
+
 ## Kahoot
 
 [https://create.kahoot.it/share/gym-session-07/132771e2-18be-4c68-8dbe-c4a3017781ae](https://create.kahoot.it/share/gym-session-07/132771e2-18be-4c68-8dbe-c4a3017781ae)
--->
