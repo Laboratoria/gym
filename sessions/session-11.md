@@ -1,4 +1,4 @@
-# Sesión 11
+_# Sesión 11
 
 ## Ejercicios
 
@@ -28,3 +28,7 @@
 ### Advanced
 
 - [Number of Islands](../exercises/number-of-islands/README.md)
+
+## Kahoot
+
+- [https://create.kahoot.it/share/gym-session-12/d50305a3-00ec-4077-acc2-fce562b66d71](https://create.kahoot.it/share/gym-session-12/d50305a3-00ec-4077-acc2-fce562b66d71)
