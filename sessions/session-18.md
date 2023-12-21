@@ -4,9 +4,9 @@
 
 ### Maquetación
 
-- [**Instagram**](../exercises/instagram-login/README.md)
-- [**Subscribing**](../exercises/subscribing/README.md)
-- [**Twitter**](../exercises/twitter-login/README.md)
+- [**Instagram**](https://github.com/Laboratoria/gym/blob/main/exercises/instagram-login/README.md)
+- [**Subscribing**](https://github.com/Laboratoria/gym/blob/main/exercises/subscribing/README.md)
+- [**Twitter**](https://github.com/Laboratoria/gym/blob/main/exercises/twitter-login/README.md)
 
 ### IA
 
