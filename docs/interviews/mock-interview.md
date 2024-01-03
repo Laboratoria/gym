@@ -46,10 +46,10 @@ ejercicio](https://github.com/Laboratoria/gym/blob/main/exercises/triangle/READM
 - Terminando la entrevista puedes regalarnos tu valoración de la estudiante en
   los links correspondientes.
 --------------------------------------------------------------------------------------------------------------------------------------
-| | Juan Carlos Herrera | Angélica Rincón | Juliana Guzman  |
+| | Juan Carlos Herrera |  | Juliana Guzman  |
 [Enlace a la hoja de
 valoración](https://docs.google.com/spreadsheets/d/151BxLP5nH8TZHY-NaRer_prGpVIIgCEsXaYjZ7G6ICY/edit?usp=sharing)
-| | Viviana Angeles | Gabi Porras | Rosa Milet |
+| | Viviana Angeles | Angélica Rincón | Rosa Milet |
 [Enlace a la hoja de
 valoración](https://docs.google.com/spreadsheets/d/1fNkcUjvqMNnw-iFirAlGHtnq-_mYa6oH_Jv2117lxbk/edit?usp=sharing)
 
