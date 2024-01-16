@@ -7,35 +7,32 @@ dashboard para facilitar la toma de decisiones basada en los datos recopilados.
 
 ## Objetivos
 
-Los principales objetivos de esta dinámica de mock interview es:
+Los principales objetivos de esta dinámica de mock interview son:
 
-- El objetivo del formulario de feedback es obtener información cuantitativa de la
-ejecución de la instancia de gimnasio para asi poder hacer una revisión más
-precisa de la ejecución del gimnasio.
+Obtener información cuantitativa sobre la ejecución de las instancias de gimnasio
+mediante el formulario de feedback para realizar una revisión más precisa.
 
-- Con la data recolectada evaluar de forma periódica el desempeño de las
-estudiantes a nivel individual.
+Evaluar periódicamente el rendimiento de las estudiantes a nivel individual a
+través de los datos recopilados.
 
-- Tomar accionables de forma individiual o grupal, como cambiar el nivel de los
-ejercicios planteados.
+Tomar acciones individuales o grupales, como ajustar el nivel de los ejercicios
+propuestos, basadas en los insights obtenidos.
 
 ## **Formulario**
 
-[Formulario del gym](https://docs.google.com/forms/d/17-zucrqVGubQkTsTSO9-wjhTyCYtkia1wPtEv_XhaU4/edit)
-aquí encontrarás una plantilla del formulario, procede a cambiar el nombre
-con el código de tu cohort.
+Accede al [Formulario del Gimnasio](https://docs.google.com/forms/d/17-zucrqVGubQkTsTSO9-wjhTyCYtkia1wPtEv_XhaU4/edit)
+para encontrar una plantilla del formulario. Personaliza el nombre con el código
+de tu cohorte.
 
 ![nombre form](./assets/cabeceraform.png)
 
 ## **Dashboard**
 
-El reporte desarrollado en Looker Studio lo puedes encontrar [aquí](https://lookerstudio.google.com/s/qEFv2USLjKs)
-Encontrarás un boton con tres puntos al hacer click encontrarás una opción de make
-a copy,
+Encuentra el reporte desarrollado en Looker Studio [aquí](https://lookerstudio.google.com/s/qEFv2USLjKs)
+Al hacer clic, verás un botón con tres puntos; selecciona "Make a copy".
 
-Posteriormente en tu copia procede a cambiar el origen de datos del dashboard.
+Luego, en tu copia, modifica el origen de datos del dashboard según sea necesario
 
-En caso de requerir detalles existe una
+Si necesitas detalles adicionales, consulta esta
 [guía](https://www.loom.com/share/ab4f137b7bf94db78e21a6c26694a54a)
-detallando el proceso.
-
+que explica el proceso paso a paso.
