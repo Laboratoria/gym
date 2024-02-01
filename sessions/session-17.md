@@ -1,4 +1,4 @@
-# Sesión 18
+# Sesión 17
 
 ## Ejercicios
 
