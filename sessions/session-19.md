@@ -1,4 +1,4 @@
-# Sesión 18
+# Sesión 19
 ¡Llegamos al momento más emocionante, el desafío final de nuestros ejercicios sobre JavaScript!
 
 Prepárate para poner a prueba todas tus habilidades y conocimientos adquiridos hasta ahora,
