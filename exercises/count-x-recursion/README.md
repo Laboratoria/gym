@@ -21,3 +21,7 @@ __Ejemplos__
     countX('xhixhix') → 3
     countX('hi') → 0
 ```
+
+### Hint:
+
+Utiliza la [recursión](https://www.freecodecamp.org/espanol/news/como-entender-recursividad-en-javascript/)
