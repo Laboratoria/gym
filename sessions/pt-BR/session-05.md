@@ -28,8 +28,8 @@
 ### Links de referência (Kahoot)
 
 - [Especificidade](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Specificity)
-- [<ol>: The Ordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
-- [<ul>: The Unordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+- [\<ol>: The Ordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+- [\<ul>: The Unordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 - [Array.prototype.indexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
 - [Array.prototype.concat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 - [Comandos git](https://education.github.com/git-cheat-sheet-education.pdf)

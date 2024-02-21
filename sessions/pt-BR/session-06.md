@@ -32,6 +32,6 @@
 - [Import/Export](https://www.alura.com.br/artigos/como-funciona-o-import-e-export-do-javascript)
 - [Window: alert() method](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
 - [Seletores CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_selectors)
-- [<a>](https://html.spec.whatwg.org/#the-a-element)
+- [\<a>](https://html.spec.whatwg.org/#the-a-element)
 - [Document: getElementById() method](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
