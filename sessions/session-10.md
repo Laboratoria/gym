@@ -17,7 +17,7 @@ Vamos a responder cada una de las preguntas. Luego algunas voluntarias
 __Preguntas__
 
 * ¿Cómo han mejorado tus capacidades de análisis y resolución de problemas
-después de las 9 sesiones de gimnasio que hemos tenido?
+después de las 10 sesiones de gimnasio que hemos tenido?
 * ¿Has aplicado los aprendizajes del gimnasio en el desarrollo de los
 proyectos? (compartir ejemplos específicos que se te vengan a la mente)
 * Durante el sprint, ¿dedicas tiempo adicional al del gimnasio para
