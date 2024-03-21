@@ -1,5 +1,21 @@
 # Session 4 Docs Kahoot
 
+## Link
+
+[https://create.kahoot.it/share/gym-session-04/3660e665-90b2-4bc0-9ed7-60ac23df7293](https://create.kahoot.it/share/gym-session-04/3660e665-90b2-4bc0-9ed7-60ac23df7293)
+
+## Temario
+
+- [Valor primitivo](#valor-primitivo)
+- [Palabras reservadas](#palabras-reservadas)
+- [Push Array](#push-array)
+- [Scope](#scope)
+- [ForEach Vs Map](#foreach-vs-map)
+- [Null vs Undefined](#null-vs-undefined)
+- [let](#let)
+- [Expresiones regulares](#expresiones-regulares)
+- [Splice](#splice)
+
 ----
 
 ### Valor primitivo
