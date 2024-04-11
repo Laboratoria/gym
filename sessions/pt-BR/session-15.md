@@ -1,12 +1,6 @@
-# Sesión 15
+# Sessão 15
 
-## Ejercicios
-
-### HTML/CSS
-
-#### Newbie
-
-- [CSS Lock Up](../../exercises/css-lock-up//README.pt-BR.md)
+## Exercícios
 
 ### JavaScript
 
@@ -18,6 +12,12 @@
 
 - [Power N](../../exercises/power-n/README.pt-BR.md)
 - [Triangle](../../exercises/triangle/README.pt-BR.md)
+
+### HTML/CSS
+
+#### Newbie
+
+- [CSS Lock Up](../../exercises/css-lock-up//README.pt-BR.md)
 
 ## Kahoot
 
