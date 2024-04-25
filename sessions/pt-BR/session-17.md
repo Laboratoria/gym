@@ -6,28 +6,28 @@
 
 #### Newbie
 
-- [**At fist**](../exercises/at-first/README.pt-BR.md)
+- [**At fist**](../../exercises/at-first/README.pt-BR.md)
 
 #### Beginner
 
-- [**See color**](../exercises/see-color/README.pt-BR.md)
-- [**Count Hi**](../exercises/count-hi//README.pt-BR.md)
+- [**See color**](../../exercises/see-color/README.pt-BR.md)
+- [**Count Hi**](../../exercises/count-hi//README.pt-BR.md)
 
 #### Intermediate
 
-- [**Cat Dog**](../exercises/cat-dog//README.pt-BR.md)
-- [**G happy**](../exercises/g-happy//README.pt-BR.md)
+- [**Cat Dog**](../../exercises/cat-dog//README.pt-BR.md)
+- [**G happy**](../../exercises/g-happy//README.pt-BR.md)
 
 #### Advanced
 
-- [**Long Pressed Name**](../exercises/long-pressed-name/README.pt-BR.md)
+- [**Long Pressed Name**](../../exercises/long-pressed-name/README.pt-BR.md)
 
 ### React
 
-- [Challenge #1](../exercises/react-challenge-1/README.pt-BR.md)
-- [Challenge #2](../exercises/react-challenge-2/README.pt-BR.md)
-- [Challenge #3](../exercises/react-challenge-3/README.pt-BR.md)
-- [Challenge #4](../exercises/react-challenge-4/README.pt-BR.md)
+- [Challenge #1](../../exercises/react-challenge-1/README.pt-BR.md)
+- [Challenge #2](../../exercises/react-challenge-2/README.pt-BR.md)
+- [Challenge #3](../../exercises/react-challenge-3/README.pt-BR.md)
+- [Challenge #4](../../exercises/react-challenge-4/README.pt-BR.md)
 
 ## Kahoot - React
 
