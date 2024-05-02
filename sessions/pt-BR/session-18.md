@@ -2,8 +2,8 @@
 
 ## Exercícios
 
-### Disposição
+### HTML/CSS
 
-- [**Instagram**](../../exercises/instagram-login/README.md)
-- [**Subscribing**](../../exercises/subscribing/README.md)
-- [**Twitter**](../../exercises/twitter-login/README.md)
+- [**Instagram**](../../exercises/instagram-login/README.pt-BR.md)
+- [**Subscribing**](../../exercises/subscribing/README.pt-BR.md)
+- [**Twitter**](../../exercises/twitter-login/README.pt-BR.md)
