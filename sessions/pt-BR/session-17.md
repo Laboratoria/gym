@@ -36,3 +36,15 @@
 ## Kahoot - JS
 
 - [https://create.kahoot.it/share/gym-js-session-17/24b4e5da-2844-4dc1-9d58-8203a60d8bb9](https://create.kahoot.it/share/gym-js-session-17/24b4e5da-2844-4dc1-9d58-8203a60d8bb9)
+
+### Links de referência (Kahoot)
+
+- (\<input type="button">)[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/button]
+- (Locating DOM elements using selectors)[https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors]
+- (Array.prototype.forEach())[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach]
+- (Array.prototype.map())[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map]
+- (Object.values())[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values]
+- (Estrutura de dados do Javascript)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures]
+- (String.prototype.slice())[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice]
+- (Promise)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise]
+- (Função Callback)[https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function]
