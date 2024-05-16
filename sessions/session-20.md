@@ -30,7 +30,7 @@ Nos separaremos en salitas de Zoom.
 
 #### Link de acceso a las slides
 
-[https://docs.google.com/presentation/d/1ceEfUksY1KQ-6p1jrJ7mDGFLFQ8TZIyXWvFgA1lIPc4/edit?usp=sharing](https://docs.google.com/presentation/d/1ceEfUksY1KQ-6p1jrJ7mDGFLFQ8TZIyXWvFgA1lIPc4/edit?usp=sharing)
+[https://docs.google.com/presentation/d/1ubWBPtQxk8OTFvxjsK9VsksKiBcN2yanSc1jYpYNtDk/edit?usp=sharing](https://docs.google.com/presentation/d/1ubWBPtQxk8OTFvxjsK9VsksKiBcN2yanSc1jYpYNtDk/edit?usp=sharing)
 
 ### Presentación & Votación (Salita general) [~45 min]
 
@@ -53,10 +53,10 @@ __ℹ️ Importante:__
 
 - No hay ideas tontas hasta que se prueban como tal.
 
-## 2) Despedida [~15 min]
+ ## 2) Despedida
 
 - Comentarios finales de las estudiantes y coaches
 
-- Nos juntamos todas para tomarnos una fotos de despedida 📸
+<--! - Nos juntamos todas para tomarnos una fotos de despedida 📸
 
-## 3) Formulario final de feedback
+## 3) Formulario final de feedback --
