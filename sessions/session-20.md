@@ -59,4 +59,4 @@ __ℹ️ Importante:__
 
 <--! - Nos juntamos todas para tomarnos una fotos de despedida 📸
 
-## 3) Formulario final de feedback --
+## 3) Formulario final de feedback -->
