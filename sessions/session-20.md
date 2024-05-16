@@ -57,6 +57,3 @@ __ℹ️ Importante:__
 
 - Comentarios finales de las estudiantes y coaches
 
-<--! - Nos juntamos todas para tomarnos una fotos de despedida 📸
-
-## 3) Formulario final de feedback -->
