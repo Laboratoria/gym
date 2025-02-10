@@ -20,6 +20,17 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/blog-starter)
 
+## Run on Gitpod or Codeanywhere
+
+Click the button below to start a new development environment on **Gitpod**:  
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vercel/next.js/tree/canary/examples/blog-starter)
+
+Alternatively, open this project in **Codeanywhere**:  
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/vercel/next.js/tree/canary/examples/blog-starter)
+
+
 ## Demo
 
 [https://next-blog-starter.vercel.app/](https://next-blog-starter.vercel.app/)
