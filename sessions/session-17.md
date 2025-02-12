@@ -6,7 +6,7 @@
 
 #### Newbie
 
-- [**At fist**](../exercises/at-first/README.md)
+- [**At first**](../exercises/at-first/README.md)
 
 #### Beginner
 
